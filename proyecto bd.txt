@@ -1,56 +1,31 @@
-CREATE TABLE public."Operador" (
+CREATE TABLE public."operador" (
 	operador varchar(100)
 );
--- ddl-end --
--- ALTER TABLE public."Operador" OWNER TO postgres;
--- ddl-end --
 
--- object: public."Avion" | type: TABLE --
--- DROP TABLE IF EXISTS public."Avion" CASCADE;
 CREATE TABLE public."Avion" (
 	"Type" varchar(100),
 	"operador_Operador" varchar(100),
 	"Registration_datos_vuelo" varchar(30)
 );
--- ddl-end --
--- ALTER TABLE public."Avion" OWNER TO postgres;
--- ddl-end --
 
--- object: public.datos_vuelo | type: TABLE --
--- DROP TABLE IF EXISTS public.datos_vuelo CASCADE;
 CREATE TABLE public.datos_vuelo (
 	"Registration" varchar(30),
 	"Route" varchar(60),
 	"Aboard" integer
 );
--- ddl-end --
--- ALTER TABLE public.datos_vuelo OWNER TO postgres;
--- ddl-end --
 
--- object: public."Siniestro" | type: TABLE --
--- DROP TABLE IF EXISTS public."Siniestro" CASCADE;
 CREATE TABLE public."Siniestro" (
 	"Index" integer NOT NULL,
 	"cn/ln" varchar(50),
 	CONSTRAINT "Siniestro_pk" PRIMARY KEY ("Index")
 );
--- ddl-end --
--- ALTER TABLE public."Siniestro" OWNER TO postgres;
--- ddl-end --
 
--- object: public.datos_accidente | type: TABLE --
--- DROP TABLE IF EXISTS public.datos_accidente CASCADE;
 CREATE TABLE public.datos_accidente (
 	location varchar(80),
 	date date,
 	"time" time
 );
--- ddl-end --
--- ALTER TABLE public.datos_accidente OWNER TO postgres;
--- ddl-end --
 
--- object: public.datos_de_muertos | type: TABLE --
--- DROP TABLE IF EXISTS public.datos_de_muertos CASCADE;
 CREATE TABLE public.datos_de_muertos (
 	fatalities integer,
 	ground integer
