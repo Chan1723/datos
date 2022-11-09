@@ -1,0 +1,5269 @@
+﻿Registration,Route,Aboard
+,Demonstration,2.0
+,Test flight,5.0
+,,1.0
+,,20.0
+,,30.0
+,,41.0
+,,19.0
+,,20.0
+,,22.0
+,,19.0
+,,28.0
+,,20.0
+,,20.0
+,,23.0
+,,21.0
+,,24.0
+,,18.0
+,,18.0
+,,23.0
+,,22.0
+,,19.0
+97,,1.0
+61,,1.0
+82,,1.0
+,,1.0
+32,,1.0
+G-EAHG,,
+77,,1.0
+65,,1.0
+72,,1.0
+49,,2.0
+44,,2.0
+79,,2.0
+204,,1.0
+G-EALW,,1.0
+317,,1.0
+305,,2.0
+308,,2.0
+316,,1.0
+F-ALAI,,2.0
+F-ALTA,,2.0
+76,,1.0
+,,1.0
+G-EAMA,,8.0
+F-ALBO,,1.0
+130,,1.0
+301,,3.0
+F-ALBA,,2.0
+67,,1.0
+H3021,,2.0
+160,,1.0
+196,,1.0
+176,,1.0
+222,,1.0
+F-ALBI,,2.0
+R-38,,46.0
+F-ADCD,Varsovie - Strasbourg - Paris,5.0
+G-AUDI,,3.0
+G-EATN,,5.0
+,,45.0
+G-EAOW/FGEAD,,7.0
+,,17.0
+G-EBBZ,,3.0
+385,,1.0
+F-CMAY,,3.0
+,,3.0
+227,,1.0
+G-EAYT,,4.0
+,,2.0
+,,1.0
+F-AEIB,,4.0
+F-ALJU,,1.0
+223,,1.0
+291,,1.0
+F-AEBY,,6.0
+F-AEGN,,2.0
+283,,1.0
+G-EBBS,,6.0
+D-257,,4.0
+318,,1.0
+L-72,Toulon - Algiers,52.0
+315,,1.0
+327,,1.0
+H-NABS,Lympne, England - Rotterdam, The Netherlands,3.0
+A16,,3.0
+297,,1.0
+F-AFBD,,1.0
+311,,1.0
+G-EBBX,,8.0
+R-RECA,,5.0
+,,4.0
+F-AFBB,,2.0
+H-NABM,,4.0
+F-AHBH,,2.0
+F-AFBI,,1.0
+,,1.0
+ZR-1,Lakehurst, NJ - S.t Louis, MO,43.0
+,,3.0
+F-AMFY,,2.0
+,,1.0
+,,1.0
+F-ADAI,,1.0
+F-AFBT,Paris - Prague,7.0
+H-NACC,,2.0
+D-272,,4.0
+F-AIEB,,4.0
+,New York - Paris,5.0
+D-468,,4.0
+G-EBMS,,12.0
+,,3.0
+2,,1.0
+H-NADH,,2.0
+F-ALRA,,1.0
+G-AUED,,3.0
+,,1.0
+626,,1.0
+D-729,,2.0
+,,3.0
+D-206,,5.0
+,Croydon - Schiphol,11.0
+,,1.0
+NC776,Sightseeing,12.0
+D-1177,,4.0
+D-585,Berlin - Munich,6.0
+F-AGBN,,2.0
+,,4.0
+,,1.0
+K-SALD,,6.0
+,,1.0
+,,2.0
+F-AFGS,,1.0
+,,4.0
+,Minola - Albany - Buffalo,3.0
+,,2.0
+F-AHEQ,,2.0
+,,2.0
+F-AEEH,,1.0
+NC280,,2.0
+,,10.0
+F-AEFC,,2.0
+,,2.0
+M-CCCC,,9.0
+F-AIMQ,,1.0
+NC1492,,2.0
+D-583,,5.0
+D-74,,5.0
+,Chicago - Dallas,1.0
+K-SALB,,6.0
+G-EBLB,Testing,4.0
+H-NABR,,1.0
+G-CATX,Victoria - Seattle,7.0
+,,3.0
+G-AUHI,,2.0
+NC7242,,7.0
+D-180,,3.0
+,,3.0
+,,1.0
+F-AIMN,,2.0
+F-AISN,,2.0
+,Cleveland - Chicago,3.0
+,,1.0
+,Cleveland - Louisville,3.0
+NC7862,San Antonio - Amarillo - Tulsa - Denver,5.0
+P-BACA,,14.0
+,,6.0
+D-1473,,4.0
+,Cleveland - Chicago,1.0
+,,4.0
+F-AEHX,,3.0
+,,1.0
+,,1.0
+I-AZDA,,9.0
+,,1.0
+,,2.0
+NC7683,Sightseeing,15.0
+NC7888,Los Angeles - Phoenix - El Paso,4.0
+NC9636 / 28-037,San Diego - Phoenix,6.0
+H-MABC,,2.0
+F-AISX,,5.0
+NC9700,Santiago de Cuba - Havana,5.0
+F-AFEJ,,2.0
+G-EBMT,,13.0
+NC7416,St. Paul - Minneapolis,8.0
+D-1620,,5.0
+,,1.0
+NC870E,,4.0
+,,1.0
+CCCP-217,,1.0
+D-757,,5.0
+NR859E,,2.0
+NC9649,Albuquerque - Los Angeles,8.0
+G-EBMZ,London, England - India,5.0
+F-AIUJ,,5.0
+,Tijuana - Nogales,2.0
+,,1.0
+G-AADN,,7.0
+,Cleveland - Louisville,1.0
+,Bremerton,2.0
+NC46M,Mexico City - Juarez,4.0
+D-903,Amsterdam - Croyden,8.0
+F-AIGB,,3.0
+,,1.0
+,,1.0
+F-AJDA,,3.0
+D-1594,,3.0
+,,5.0
+NC184E,,1.0
+F-AJJK,,3.0
+NC9689,Aqua Caliente, Mexico - Los Angeles,16.0
+F-AJCL,,2.0
+,Wichita - Kansas City, KS,5.0
+,Newark, NJ - Hartford, CT,1.0
+F-FHMY,,2.0
+,Albany, NY - Jersey City, NJ,4.0
+F-AJPD,,4.0
+NC9675,,15.0
+D-864,Stettin - Norway,8.0
+NC-394H,,5.0
+OK-FOR,Prague - Brun -  Pressburg,11.0
+OO-AIN,,2.0
+,Calgary - Moosejaw,3.0
+G-FAAW,Cardington, England - Karachi, Pakistan,54.0
+D-1930,Berlin - Vienna,8.0
+F-AJUU,Casablanca - Bahat - Toulouse,4.0
+NC103W,,3.0
+G-EBIX,Paris, France - London, England,6.0
+,,1.0
+P-BAHA,,9.0
+NC5340,Burbank, CA - Oakland, CA,3.0
+,Shanghai - Hankow,6.0
+OO-AIL,,2.0
+NC741K,Portland - Pasco,1.0
+ZK-ACA,,1.0
+,Winnigeg - Moosejaw,3.0
+F-AITX,,3.0
+VH-UMF,,8.0
+NC-999,Kansas City - Wichita -  Los Angeles,8.0
+D-1928,,10.0
+NC5390,San Diego - Los Angeles,2.0
+VH-UNR,,1.0
+NC397E,,1.0
+PH-AEO,Saigon - Karachi,4.0
+NC857E,,3.0
+D-1455,Cologne - Saarbrucken,4.0
+NC8497,Chicago - Detroit,2.0
+VH-UGF,,2.0
+,,1.0
+,Constantinople - Budapest,7.0
+NC9662,,6.0
+NC606,,1.0
+NC10347,Oakland, CA - Seattle, WA,4.0
+D-1717,,3.0
+P-BALSA,,3.0
+NC12221,Newark, NJ  - Camden, NJ - Washington DC,5.0
+,,3.0
+NC7465,,1.0
+,Nanking - Peiking,3.0
+NC10338,Portland,  WA - Pasco, WA,1.0
+NC433E,Kansas City - Chicago,6.0
+PH-AFO,,7.0
+F-AIOX,,2.0
+,Port Colombus, OH - Louisville, KY,5.0
+,Rockford - Chicago, IL - Madison, WI,1.0
+,San Francisco - Bakersfield - Los Angeles, CA,8.0
+,Miami - Bimini,5.0
+,Chicago - Kalamazoo,1.0
+NC7470,,2.0
+F-AJOX,,3.0
+,Training,5.0
+,Phoenix, AZ - Los Angeles, CA,7.0
+,Columbus - McKeesport,1.0
+,,3.0
+NC191E,,1.0
+,,1.0
+NC830M,,2.0
+NC5589,San Diego - Burbank - Oakland,3.0
+NC403H,Santiago, Chile - Mendosa, Argentina,9.0
+F-AIQY,,7.0
+SE-AAE,,2.0
+NC9716,El Paso - Dallas,4.0
+F-AIFE,,2.0
+VH-UPM,,3.0
+,,1.0
+,,2.0
+,,2.0
+D-724,Nuremberg - Frankfort,5.0
+,Little Rock, AR - Memphis, TN,2.0
+NC9650,,2.0
+NC842M,,1.0
+VH-UMJ,,2.0
+F-AISV,,1.0
+NC185H,Test flight,2.0
+N490W,,1.0
+NC11721,Big Springs - San Antonio,1.0
+NC431H,,3.0
+NC9723,Mendoza, Argentina - Santiago, Chili,2.0
+NC12226,Burbank - San Francisco,3.0
+G-AACI,Cologne, Germany - Croydon, England,15.0
+D-534,,2.0
+ZRS-4,,76.0
+F-ALCE,,6.0
+D-4,,4.0
+F-AJIX,Paris - Morroco,6.0
+,,1.0
+NC9607,,5.0
+YU-SAH,,8.0
+NC13304,Cleveland - Chicago,10.0
+F-AJMI,,2.0
+NC13345,Seattle, WA - Dallas, TX,9.0
+NC12292,,1.0
+,Canton - Shanghi,8.0
+,Test flight,20.0
+NC13324,,2.0
+D-1403,Berlin - Hamburg,8.0
+ZS-AEB,,6.0
+G-ABLU,Brussels, Belgium - Croydon, England,10.0
+F-AMMY,Saigon - Paris,14.0
+F-AJKX,,2.0
+NC13357,Salt Lake City - Cheyenne,8.0
+F-AJPA,,6.0
+NC710Y,St. Louis, MO - Chicago, IL,4.0
+NC-9107,Quiddo - Cartago,6.0
+NC407H,,15.0
+NV17V,,3.0
+F-AMPH,Dieppe, France - New Haven, England,6.0
+F-AIVG,Croydon, England - Paris, France,2.0
+NC12354,New York - Chicago,7.0
+NC8417,Buenos Aires - Santiago,10.0
+D-1445,,7.0
+XA-BEJ,Mexico - Burbank,1.0
+NC32E,San Bernardion - Los Angeles,4.0
+CH-170,,12.0
+F-AILK,,2.0
+,,
+NC10809,Omaha - St. Joseph,5.0
+VH-UHE,,3.0
+VH-URN,Launceston - Melbourne,11.0
+VH-UHW,,4.0
+VH-USG,,4.0
+VH-USG,,4.0
+NC10809,Omaha, NB - Kansas City, MO,2.0
+D-OMAS,,3.0
+NC106W,Kansas City, MO - Chicago, IL,1.0
+NM-7,Santiago - Havana,8.0
+PH-AJU,Amsterdam - Batavia, Java,7.0
+NC12286,Louisville, KY - Nashville, TN,1.0
+NC13212,Newark, NJ - Columbus, OH,1.0
+D-AREN,Koenigberg - Berlin,11.0
+D-AJYP,,
+SU-ABI,Jerusalem - Cairo,6.0
+D-OHIL,,5.0
+F-ALHQ,,3.0
+PH-AFL,Praha, Czechoslovakia - Amsterdam, Netherlands,7.0
+NC891E,,1.0
+NC13785,Los Angeles - Albuquerque - Kanasas City -  Washington,14.0
+WC-7864,Sightseeing,12.0
+CCCP-I20,Demonstration,50.0
+NC725W,,1.0
+NC10894,Chicago - St. Louis,2.0
+,,9.0
+C-31 / F-31,,20.0
+PH-AQJ,Amsterdam - Sweden,20.0
+NC-492K,New Orleans, LA - Mobile, AL,2.0
+PH-AKG,Milan, Italy - Amsterdam,13.0
+NV40V,,
+NC14599,Dallas -  Atlanta,4.0
+NC14140,Helena - Denver,3.0
+NR12283,,2.0
+NC13314,Burbank, CA - Salt Lake City, UT,3.0
+VH-URT,,5.0
+NC13317,Salt Lake City - Cheyenne,12.0
+OH-ALI,,6.0
+NC725K,,6.0
+NC13323,Test flight,4.0
+F-AJIQ,Bahia - Aracaju,4.0
+,,14.0
+NC980Y,Dallas - Waco,1.0
+F-AJPB,,3.0
+F-ANRK,,2.0
+OO-AGN,Brussels, Belgium - Croydon, England,11.0
+D-UVOR,,3.0
+G-AASJ,Mirabella - Alexandria,13.0
+NC14274,Newark, NJ - Fort Worth, TX,17.0
+,Cochabamba - La Paz,13.0
+F-AJIR,Marseille - Tunis,6.0
+NC13767,Chicago, IL - Oklahoma City, OK,6.0
+D-ADYS,Natal, Brazil - Bathhurst, Gambia,4.0
+,,6.0
+X-ABCO,Mexico - Guatemala,14.0
+NC15152,Newwark, N.J. - Buffalo, NY,2.0
+NC13721,Newark - Los Angeles,15.0
+NC1537,Miami - Rio de Janeiro,25.0
+I-AAXZ,Turin - Milan,7.0
+D-ASOR,,5.0
+OO-AIF,,2.0
+HB-ITU,,2.0
+VH-UII,,2.0
+SE-ABA,Malmo - Amsterdam,15.0
+D-UPYM,,6.0
+LN-DAE,Bergen - Trondheim,7.0
+G-ABXW,Guernsey - Jersey,7.0
+,,3.0
+XA-BAY,,1.0
+NC16022,New Orleans - Chicago,8.0
+C-40,,2.0
+G-ADEB,,2.0
+G-ABFA,,11.0
+G-ACOX,,2.0
+NC176W,El Paso, TX - Pueblo, CO,3.0
+NC959Y,,4.0
+XA-BDH,,1.0
+G-ABWI,,1.0
+D-APOO,Frankfurt - Erfurt,15.0
+CCCP-D311,,9.0
+D-ASUI,,16.0
+G-AEOT,,4.0
+D-ASIH,,6.0
+F-AKGF,,5.0
+PH-AKL,Croydon - Amsterdam,17.0
+NC13370,Burbank - Las Vegas - Salt Lake City,7.0
+NC14935,,2.0
+NC13732,Miami, FL - Charleston, SC - Newark, NJ,14.0
+NC14905,Test flight,6.0
+NC14269,,
+NC13355,Oakland - San Francisco - Los Angeles,12.0
+NC13315,Salt Lake City - Burbank,13.0
+OO-AGR,Belgian Congo - Brussels,12.0
+NC16073,Los Angeles - San Francisco - Oakland,11.0
+VH-UHH,Brisbane - Sidney,7.0
+D-ALIX,Las Palmas, Canary Islands - Bathhurst, Gambia,4.0
+G-ADVA,Southhampton, England - Alexandria, Egypt,6.0
+NC13730,Newark - Camden - Pittsburg,13.0
+D-UPOZ,,6.0
+D-LZ-129,Frankfurt - Lakehurst N.J.,97.0
+D-UXUV,,4.0
+NR16020,Lae - Howland Island,2.0
+PH-ALF,Amsterdam - Paris,15.0
+I-SUSA,Rome, Italy - Kartoum,9.0
+NC15065,Santiago, Chili - Cristobal, Panama,14.0
+,Canton - Shanghi,11.0
+NC-13739,Chicago - Daytona,9.0
+NC14298,Mendosa - Cordoba,3.0
+VH-URC,,2.0
+F-AQBB,,8.0
+G-ADVC,Alexandria, Egypt  - Athens, Greece,14.0
+PH-ALS,,5.0
+NC16074,Cheyenne - Salt Lake City,19.0
+D-AXAV,Berlin - Mannheim,12.0
+OO-AUB,Cologne - Brussels - London,11.0
+D-AGAV,,3.0
+G-ADUZ,India - London,19.0
+F-AOTZ,,7.0
+F-AMYD,Bucharest - Vienna - Prague - Paris,3.0
+D-ABUR,Milan, Italy - Frankfurt, Germany,6.0
+NC-17388,Seattle - Billings - Chicago,10.0
+NC16734,Honolulu - Pago Pago - Auckland,7.0
+CF-BEI,Sioux Lookout - Hudson,1.0
+04062 / 0463,,14.0
+CCCP-V6,Moscow - Murmansk,19.0
+F-ANPB,Marseille, France - Ajaccio, Corsica,12.0
+XA-BAS,Test flight,2.0
+D-APAR,Berlin, Germany - Paris, France,3.0
+NC13789,San Francisco - Burbank,9.0
+F-ANQR,Hanoi, Vietnam - Paris, France,7.0
+VH-UNU,,1.0
+I-BAUS,,19.0
+XA-BFR,Mexico City - Juarez,6.0
+ZK-AFC,,2.0
+NC17394,Burbank,- St. Paul,9.0
+PP-CBC,,17.0
+NC18108,Newark - Cleveland - Chicago,10.0
+D-ATIO,,3.0
+CF-AUX,,1.0
+VP-KBE,,3.0
+NC14272,,4.0
+NC17383,Seattle - Chicago,10.0
+I-VOLO,Cagliari - Rome,20.0
+SP-BNG,Warsaw, Poland - Bucharest, Romania,14.0
+,,1.0
+G-ABTG,Kisumu - Alexandria,4.0
+NC14714,Alameda - Manila,15.0
+J-ANES,,6.0
+,,12.0
+OK-BAG,Prague - Paris, France,17.0
+PP-CAT,Guanabara - Victoria,9.0
+SP-BNJ,,7.0
+I-NILO,Sightseeing,13.0
+32,Hong Kong - Chungking,17.0
+VH-UXK,,9.0
+,,4.0
+D-AVFB,,13.0
+OO-AGT,Brussells - Berlin,20.0
+VH-UYC,Adelaide - Melbourne,18.0
+CF-TCL,,2.0
+G-ACZN,Channel Islands - Southhampton,14.0
+PH-ARY,Berlin-Amsterdam,19.0
+CF-TCL,Winnipeg - Regina - Vancouver,2.0
+D-AIVI,,15.0
+G-AETW,,6.0
+NC16066,Medford - Oakland,7.0
+,,12.0
+PH-APE,Instructional Flight,4.0
+G-AEUH,,13.0
+HB-ITA,Zurich - Geneva - Paris,9.0
+NC17389,Chicago - Seattle,4.0
+PP-CAY,,9.0
+VH-ABI,Katherine - Adelaide,4.0
+G-ADUU,New York City - Bermuda,13.0
+D-ALUS,,10.0
+OO-AUA,,3.0
+,,8.0
+NX19901,Test flight,10.0
+D-AIAV,,13.0
+G-ACPY,,6.0
+NC13727,Chicago - Dallas,12.0
+F-AOOT,,9.0
+G-ADVD,,6.0
+F-ARIC,Casablanca, Morocco - Dakar, Senegal,9.0
+,,1.0
+PH-AJK,,3.0
+HB-IXA,Vienna, Austria - Zurich, Switzerland,6.0
+D-AUJG,Toulouse, France - Casablanca, Morocco,7.0
+NC16933,Miami - Rio de Janerio,16.0
+G-ASEY,London - Hamburg - Copenhagen,6.0
+VT-AEL,,2.0
+D-AFOP,Berlin - Hanover - Cologne - London,7.0
+PH-ASM,Stockholm - Amsterdam,
+G-AFFM,,2.0
+M-CABA,Alcante - Morocco,10.0
+G-AFYU,Egypt - England,11.0
+I-ARPA,Rome - Rio de Janerio,7.0
+PK-AFO,,9.0
+G-AAGX,Jask to Sharjah,8.0
+G-AFKD,Perth, Scotland - London, England,3.0
+,Test flight,5.0
+OH-ALL,Tallinn, Estonia - Helsinki, Finland,9.0
+F-ARTD,,1.0
+F-AQBA,,
+,Melbourne - Canberra,10.0
+YR-PAF,,18.0
+NC21789,Washington D.C. - Detroit,25.0
+NC14297,Chungking - Kunming,14.0
+D-AAIH,,15.0
+NC16086,Oakland - Salt Lake City,10.0
+D-AVMF,,29.0
+,Rio de Janeiro - Sao Paulo,18.0
+F-AROA,,6.0
+NC25678,New York City - Chicago,16.0
+I-BAYR,,10.0
+HA-JUA,,12.0
+,,6.0
+NC17315,Kansas City, MO - New York,13.0
+CF-TCP,,12.0
+NC28394,New York City -  Washington D.C. - Atlanta - Brownsville,16.0
+D-AQUB,,12.0
+ZS-AST,,10.0
+YR-PIF,Bucharest , Romania- Sofia, Bulgaria,15.0
+M-604,,18.0
+AM261,,22.0
+AM260,,22.0
+PP-PBD,Porto Alegre - Rio de Janera,12.0
+F-AQNL,,17.0
+AM-915,,10.0
+NC15376,Miami - Buenos Aires,15.0
+D-AUXZ,,13.0
+NC21712,Minneapolis - Fargo,15.0
+NC25663,New York - Buffalo - Chicago - Detroit,20.0
+NC21V,,3.0
+NC1946,Las Vegas - Los Angeles,22.0
+A16-79,,11.0
+PK-AFW,,
+PK-AFS,,
+G-AEUH,,18.0
+45,,
+G-AGDR,,9.0
+VH-USE,,9.0
+G-AETZ,,20.0
+40-2370,,33.0
+PK-AFV,,12.0
+SE-BAF,,7.0
+31,,17.0
+VH-ADY,Brisbane - Bachelor Field,12.0
+NC18146,San Francisco - New York City,17.0
+NC 21714,Chicago - Seattle,14.0
+42-56093,Battle Creek - Florence, SC,21.0
+A16-198,,10.0
+N7253,,13.0
+F-AREJ,,
+,,4.0
+PH-AIP,,13.0
+W4026,,14.0
+W4026,,14.0
+F-ARIZ,,25.0
+69,,
+38-524,Caomo - San Juan,22.0
+NC41880,New York - Botwood - Foynes, Ireland,37.0
+D-AYGX,,17.0
+NC16017,Palm Springs - New York City,13.0
+W7773,,10.0
+NC16060,Salt Lake - Las Vegas - Burbank,19.0
+OY-DAL,,16.0
+G-AFCK,,13.0
+42-32939,,35.0
+41-1708,Accra, Ghana - Natal, Brazil,26.0
+NC14715,Hawaii - San Francisco,19.0
+NC33645,Santiago, Chili - Arequipa, Peru - Lima, Peru,15.0
+AL-591,,21.0
+41-3,Test flight,10.0
+NC18603,New York City - Lisbon,39.0
+53,Kunming - Assam,3.0
+49,Kunming - Dinjan,3.0
+A65-2,,24.0
+VH-ADU,,13.0
+G-AGBB,Lisbon - London,17.0
+42-23512,Pope Field - Maxton,20.0
+,,41.0
+FK-459,,17.0
+FK-618,,16.0
+A-L-523,,13.0
+G-AGES,Lisbon - Foynes - Poole,25.0
+NC16014,Cleveland - Memphis,22.0
+,Bombing run,10.0
+41-7733,Townsville - Brisbane,27.0
+48,,3.0
+PP-SPD,,21.0
+42-4621/42-6031,,22.0
+42-68729,,25.0
+42-6471,,20.0
+NC16088,Nashville - Memphis,15.0
+,,24.0
+SE-BAG,,15.0
+42-5677,,20.0
+,,1.0
+59,,3.0
+63,,3.0
+VH-CAB,,15.0
+83,,3.0
+43-30742,,31.0
+42-7183/42-7408,Wendover Field - Pocatello AAB,25.0
+D-ADQW,,5.0
+NC21767,Little Rock - Memphis,24.0
+75,,2.0
+D-ABAS,,16.0
+,Port Moreaby - Nadzab,21.0
+NC742N,Nome - Fairbanks,6.0
+D-AOCA,,7.0
+D-AAIG,,20.0
+,Montreal, Canada - European air base,16.0
+82,Calcutta - Dinjan,12.0
+,,14.0
+42-101035,,22.0
+42-100905,,22.0
+42-93095,,22.0
+85,Dijan - Kunming,6.0
+71,Kunming - Chungking,,4.0
+PP-VAG,,10.0
+42-107470,England - Long Island, N.Y.,26.0
+42-93038,Bristol - Preswick,22.0
+7233,,24.0
+42-23652,Bruning, NB - Pierre, SD,28.0
+NC823M,Antilla - Miami,31.0
+32271,,2.0
+42-50291,,3.0
+42-72171,,20.0
+PP-PBI,,16.0
+D-AUAW,,5.0
+VH-RDK,Merauke -- Cairns,20.0
+43-15738,Elmindorf AFB, Anchorage - Ladd Field, Fairbanks,19.0
+PP-PBH,,17.0
+D-AMHL,Stuttgart - Barcelona,9.0
+44-69943,,12.0
+101,Dinjan - Suifu,3.0
+D-AUSS,,7.0
+VH-ABB,,30.0
+D-ADQV,,15.0
+D-ASHE,,9.0
+42-50347,Liverpool - New York,24.0
+NC28310,San Francisco - New York City,24.0
+42-52196,,
+43-15046,,30.0
+XH-TAN,,16.0
+G-AGBW,,15.0
+D-ARHW,,10.0
+56,,3.0
+NC17322,San Francisco - Burbank - New York City,17.0
+CF-CMU,,5.0
+44-70286,Twinwood, England - Villacoublay, France,3.0
+77,Kunming - Tengchung,4.0
+NC14716,Miami - Leopoldville,30.0
+NC25684,New York City - Juarez, Mexico - Burbank,24.0
+70,,6.0
+,Chongqing - Kunming,3.0
+A72-70,,11.0
+VH-UYY,,10.0
+41-18603,,26.0
+KG630,,23.0
+50765,,24.0
+PP-NAE,,11.0
+42-107377,,30.0
+N18142,New York City - Los Angeles,22.0
+43-16011,,24.0
+88,Kunming - Sichang,3.0
+NC25692,Pittsburgh - Morgantown,20.0
+39067,,13.0
+D-ANAJ,,18.0
+41-18451,Midland, TX - Nashville, TN,25.0
+D-ASHH,,21.0
+43-38856,Ridgewell - Nutts Corner,31.0
+NC33328,Washington, D.C. - New York, Ny,13.0
+44-9043,,21.0
+44-77839,,30.0
+RF230,England - Brussels,31.0
+43-49788,,23.0
+44-76406,Accra, Ghana - Monrovia, Liberia,21.0
+81,,3.0
+VH-USF,,11.0
+JT985,,27.0
+,,2.0
+JT982,Montreal, Canada - England,15.0
+6812,,28.0
+NC25647,Boston - NY - Washington DC - Jacksonville - Miami,10.0
+43-0577,,3.0
+XA-DUY,,12.0
+NC15066,Port of Spain - Fort de France,14.0
+XA-DOT,,16.0
+NC33631,Miami - New York City,22.0
+A6556,Milne Bay - Dobodura,11.0
+45-1011,,24.0
+A65-61,,29.0
+42-101183,,20.0
+NC18199,Miami - Jacksonville,15.0
+,England - Prague,23.0
+LJ668,London - Cairo,26.0
+KL595,Belgium - India,31.0
+44-78591,Hankou - Peking,59.0
+A65-83,Ambon, Indonesia - Darwin, Australia,25.0
+,Shanghai - Canton,31.0
+KJ957,,14.0
+OB-PAG-139,,5.0
+43-47228,,50.0
+42-93041,,30.0
+45528A,Chabua - Karachi,44.0
+01710 / 69113,,27.0
+42-24363,Athens - Naples,24.0
+43-9197,France - Athens,20.0
+PJ950,,29.0
+,Chabau, India - Karachi, Pakistan,44.0
+A6554,,28.0
+KH126,,27.0
+KH125,India - Cambridge, England,28.0
+,,14.0
+,Newark, N.J. - Seattle, WA,21.0
+KN413,,17.0
+F-BALV,,8.0
+NC18l23,Philadelphia - New York City,12.0
+N21786,New York City - Birmingham, AL,11.0
+,,18.0
+KN557,,25.0
+NC19970,New York - Boston,17.0
+,Comox, BC - Greenwood,NS,7.0
+KN500,,11.0
+NC25675,Boise - Denver,21.0
+,Iloilo - Cebu,20.0
+G-AGEM,,14.0
+NC21799,Dallas - Tucon - San Diego,27.0
+OK-,Paris - Prauge,14.0
+VH-AET,Hobart - Melbourne,25.0
+,Shanghai - Nanking,20.0
+139,Chunking - Shanghai,
+45-1085,Stockton, CA - Ogden, UT,26.0
+G-AGLX,Karachi - Australia,10.0
+HE-274,,4.0
+,Shensi - Yenan,14.0
+AN-ACC,,21.0
+FZ559,,12.0
+,,28.0
+NC53218,Richmond - Atlanta,27.0
+LN-LAB,Oslo - Stockholm,13.0
+44-9078,Cairo - Rome,38.0
+KG747,Kano - Ikeja,18.0
+43-17231,,23.0
+KJ918,,18.0
+F-BAJS,,3.0
+43-39136,,25.0
+NC86513,Training flight,6.0
+,,49.0
+HC-SCA,Guayaquil - Cuenca,30.0
+,Topeka - Denver,13.0
+4485624/4485626,,20.0
+KN585,,22.0
+G-AHCS,Northolt - Oslo,16.0
+,AtlantiCity - Newark,6.0
+G-AGHT,,5.0
+G-AGMF,,9.0
+N51878,Teterboro - Chicago - San Francisco,25.0
+SU-ADJ,,9.0
+F-BADB,Copenhagen - Paris,22.0
+F-BAXD,Paris - Croydon,26.0
+NC57850,New York City - San Francisco,22.0
+G-AHEW,Bathrust, - Argentina,24.0
+,,4.0
+962,,21.0
+OO-AUR,Brussels - Croydon,7.0
+C-108,Bogota - Barrancabermeja,17.0
+OO-CBG,Brussels - Shannon - Gander - New York City,44.0
+NX690,St. Mawan, England - Almaza, Egypt,25.0
+,,31.0
+KN414,Hong Kong - Singapore,19.0
+PP-PCH,Belo Horizonte  - Rio de Janerio,25.0
+NC90904,Gander - Shannon,39.0
+MW125,,21.0
+PP526,,1.0
+N30051,San Francisco - Cheyenne - Chicago,41.0
+F-BCAA,Paris - Casablanca,16.0
+NC38942,Oakland - Chicago,13.0
+KN236,,11.0
+F-BCHD,Paris - Cairo,24.0
+F-BCAD,Paris - Toulouse - Casablanca,27.0
+N19947,Chicago - Cleveland,20.0
+NC18645,Palmdale - Burbank,11.0
+XA-FOZ,Mexico City - Veracruz,15.0
+PH-TBW,London - Amsterdam,26.0
+,Guam - Iwo Jima,23.0
+RX-76,,22.0
+T-1,,18.0
+,Meshed - Teheran,24.0
+39528,Miramar NAS, California - Sand Point NB, Seattle,32.0
+44-78604,,24.0
+PI-C-1,Grace Park AF - Lucena,14.0
+NC88876,Kingston, Jamaca - San Jose,7.0
+LV-XIG,London - Buenos Aires.,21.0
+NC45395,Holtville - San Diego,12.0
+115,,
+N15577,Buffalo - Chicago,21.0
+NC58024,Flint, MI - Washville, IL,2.0
+NC86505,Paris - Shannon,23.0
+PP-PBN,,14.0
+N50046,Miami - Raleigh - Washington,23.0
+XT-T51,Shanghai - Tsingtao,38.0
+PI-C100,Shanghai - Manila,42.0
+G-AGJX,London - Bordeaux,16.0
+NC88872,Akron, OH - Winston/Salem, NC,19.0
+60-03,Puebla - Oaxaca,21.0
+,Canton - Chungking - Hong Kong,19.0
+VP-YFD/OK-WDB,Guangzhou - Chongqing,23.0
+PI-C12,,4.0
+PH-TCR,Kobenhavn - Stockholm,22.0
+,Shanghai - Hankow - Chungking,26.0
+F-BAXQ,Paris - Bordeaux - Lisbon,16.0
+NC54451,New York, NY - Raleigh, NC,3.0
+NC44567,Havana - Lisbon - Madrid,12.0
+NC59486,Omaha, NE - Denver, CO,2.0
+I-ABQH,Rome - Cairo,16.0
+C-114,Barranquilla - Bogota,53.0
+,Sichang - Chungking,21.0
+KK120,Singapore - Siagon,12.0
+C-400,Villavicencio - Bogota,9.0
+KK122,,13.0
+F-BAXO,Lyons - Nice - Paris,23.0
+YS-28,Medellin, Colombia - San Jose, Costa Rica,8.0
+MW198,,15.0
+YV-C-ALO,,27.0
+G-AHEZ,Lisbon - Dakar,15.0
+N49657 / N55312,,10.0
+,Cuzco - Lima,26.0
+CF-TDF,Lethbridge - Vancouver,15.0
+NC86508,Training,4.0
+TF-ISI,ReykjavÃ­k - Akureyri,25.0
+42-72553,,40.0
+NC30046,New York City - Cleveland,48.0
+NC88814,Newark - Baltimore - Miami,53.0
+F-BANB,Marseille - Lyon,2.0
+LV-ACS,Buenos Aires - Natal,18.0
+NC88842,Pittsburgh - Washington D.C.,50.0
+NC88845,Karachi - Istanbul,36.0
+F-BALF,Yaounde - Douala,13.0
+NC79024,Newark - Miami,36.0
+F-BCHH,Paris - Vichy,19.0
+G-AGMR,Cairo - Basrah,6.0
+LV-XIH,Test flight,6.0
+,Tihua - Lanzhou,26.0
+G-AGWH,Buenos Aires - Santiago,11.0
+34032,Kodiak - Dutch Harbor,20.0
+NX88787,New York - Buffalo,5.0
+SE-BAY,Amsterdam - Malmo,5.0
+YR-TAV,Constanta - Bucharest,3.0
+NC59488,,3.0
+G-AHZB,Karachi - Bahrain,26.0
+LN-IAV,Tromso - Oslo,35.0
+NC90432,New York City - Dallas - Los Angeles,54.0
+,Charlotte, NC - Gainsville, GA,3.0
+F-BCJN,Marseille - Oran,43.0
+NC37510,Los Angeles - New York City,53.0
+NC88920,Seattle - Juneau,18.0
+SE-BBG,Istanbul-Athens-Rome-Geneve-Copenhagen-Stockholm,44.0
+M1965,,25.0
+,,5.0
+NC90741,San Francisco - Chicago - New York,25.0
+F-BDYH,,2.0
+SE-BNG,Catania - Rome,25.0
+NC86507,Training,5.0
+YR-TAI,Bucurest - Prague,26.0
+NC95486,Anchorage - Yakutat,13.0
+YU-ABC,,22.0
+,,3.0
+43-48736,,20.0
+NC-91009,Anchorage - Seattle,28.0
+42-72572,Goose Bay - Westover Field, MS,29.0
+44-76366,,20.0
+OO-XAC,,30.0
+VT-AUG,Karachi - Bombay,23.0
+XA-GEE,Dorango - Leon - Mexico City,9.0
+F-BAXC,Brussels - Paris,16.0
+G-AHPK,Renfrew - Northolt,18.0
+N60331,Charlston - Savannah,27.0
+F-BDLG,Algiers - Biskra,9.0
+HI-6,,31.0
+NC28384,Atlanta - Washington D.C.,9.0
+,,11.0
+KN336,,12.0
+NC36480,Burbank - Oakland,32.0
+G-AHNP,London - Havana,31.0
+NC112A,,69.0
+OY-DCI,Giessen - Bad Homberg,21.0
+I-REGI,Florence - Rome,10.0
+F-BDRD,,14.0
+PI-C262,,12.0
+NC36498,Pittsburgh, PA - Columbus, OH,2.0
+C-47-2040,Rio de Janerio, Brazil - Cayenne, French Guianan,26.0
+F-BBYC,,4.0
+OO-AWH,Brussels - London,22.0
+TF-RVL,,5.0
+NC37478,Chicago - Miami,13.0
+NC95422,Anchorage - New York City,30.0
+PP-CBX,,6.0
+C-1002,,15.0
+VT-CEL,Delhi - London,19.0
+G-AIVP,,15.0
+NC-88858,Belgium - Shannon,31.0
+HK-1200,Bogota - Ibague,32.0
+OO-CBE,Leopoldville - Libenga,32.0
+G-AJOU,,10.0
+ZS-BWY,Durban - Johannesburg - London,13.0
+NC59489,Newark, NJ - Chicago, IL,2.0
+G-AJBG,,4.0
+G-AKBA,,4.0
+G-AIUI,,8.0
+NC37506,Chicago - New York City,43.0
+YV-C-AHI,,17.0
+I-ELSA,Milano - Brussels,12.0
+SE-BDA,,32.0
+F-BCYP,Saigon - Da Lat,16.0
+PP-AVO,,5.0
+VR-HDT,Macau - Hong Kong,26.0
+CF-FKY,Port Meunier - GaspÃ©,26.0
+LV-AAP,Rosario - Bueno Aires,24.0
+XT-822,,24.0
+F-BDRC,Fort de France - Port Etienne,52.0
+AP-ACM,,4.0
+ZK-AOE,,2.0
+YV-C-AVN,La Guaira - Las Piedras,3.0
+HK-307,Popayan - Ipiales,26.0
+NC93044,Chicago - Minneapolis,37.0
+OO-CBL,Manono - Elizabethville,13.0
+VH-ANK,Brisbane - Sidney,13.0
+LN-IWA,Fornebu - Hommelvik,45.0
+PH-TEN,Amsterdam - Prestwick - New York City,40.0
+ZK-AGK,Palmerston - Hamilton,13.0
+NC88785,Edmonton - Anchorage, AK,5.0
+44-61999,RAF Scrampton - Burtonwood AFB,13.0
+N66637,Yakutat - Annette,17.0
+VH-UZK,Melbourne - Denilquin,23.0
+G-AKOF,,9.0
+AP-ACE,Karachi - Lohore,21.0
+XT-538,,40.0
+I-ETNA,Milan - Brussels,7.0
+,Shanghai - Taipei,10.0
+C-310,Bogota - Barranquilla,30.0
+OK-WDE,Rome - Athens,23.0
+XT-104,Shanghai - Hong Konk,33.0
+EC-ABK,Madrid - Barcelona,27.0
+N16002,San Juan - Miami,32.0
+ZS-BYX,Athens - Nice,12.0
+NC79025,Seattle - New Haven,30.0
+G-AHEX,,17.0
+NC53210,Raleigh, NC - Boston, MA,2.0
+PP-SAC,Porto Alegre - Sao Borja,12.0
+ZS-AYB,,30.0
+VT-CDZ,,13.0
+G-AGRE,Bermuda - Kingston,20.0
+44-62276,RAF Scampton - Keflavik - Kansas,20.0
+N91006,Homer - Anchorage,6.0
+NC86530/NC76981,,35.0
+CF-FEO,,6.0
+G-AJPL,Khartoum - Castel Benito,53.0
+HK-134,,14.0
+OY-DLU,Paris - Copenhagen,27.0
+OB-PAV-223,Tingo Maria - Huanuco,16.0
+G-AHCW/VV243,London - Glasgow,14.0
+VR-HDG,Manila, Philippines - Hong Kong,23.0
+SP-LCG,,16.0
+VH-BAG,Coolangatta - Brisbane,16.0
+G-AHFI,,3.0
+ZK-AKX,Auckland - Wellington,15.0
+I-ELCE,Barcelona - Torino,31.0
+PI-C-98,Daet - Manila,13.0
+SX-BAI,Kavallo - Athens,22.0
+C-47-2023,Florianpolis - Porto Alegre,27.0
+N92857,San Juan - Miami,81.0
+PH-TER,Batavia - Amsterdam,33.0
+VH-MME,Guildford - Darwin,18.0
+PH-TDF,Delhi - Bombay,45.0
+N79978,Albuquerque - Burbank,48.0
+N5075N,Seattle - Chicago,32.0
+N19963/BU72887,New York City - Wilmington,16.0
+PP-VBI,Sao Paulo - Porto Alegre,36.0
+PP-AJB,,30.0
+HC-SBU,Mers Nueva - Ambato,34.0
+N79989,Rome - Shannon,58.0
+G-AHCY,Belfast - Manchester,24.0
+11057,Churchhill - Winnipeg,21.0
+OO-CBK,Leopoldville - Elizabethville,20.0
+CF-CUA,Montreal - Comeau Bay,23.0
+XA-DUH,Tapacula - Mexico City,24.0
+LV-ABI,,27.0
+N59485,Las Vegas - Denver,4.0
+F-BAZN,Paris - Santa Maria - New York City,48.0
+N88727/NX26927,Boston - Washington D.C. - New Orleans,55.0
+NC29086,Philadelphia - Cleveland,3.0
+PH-TFA,Brussels - Oslo,35.0
+F-BELO,Paris - Lyons - Tunis,38.0
+N90728,New York City - Mexico City,46.0
+PP-YPM,Sao Palo, Brazil - Jacarezinho, Panama,22.0
+NC60256,Burbank - Oakland - Sacramento,9.0
+XT-820,,38.0
+XT-814,Chengdu - Hoikow,40.0
+AP-ADI,,26.0
+NC-25691,New Port News - Washington D.C.,23.0
+XA-DUK,Mexico City - Merida,17.0
+OO-AUQ,,8.0
+VT-CYK,Agartala - Calcutta,7.0
+,,16.0
+TAM-10,Valle grande - Cochabamba,32.0
+F-BFGD,Antananarivo - Tamatave,14.0
+PI-C22,Iloilo - Manila,4.0
+42-72469,Elmendorf - Great Falls, MT,44.0
+PH-TEU,Amsterdam - London,7.0
+OK-WDY,Ostrava - Prague,5.0
+N93050,Rochester Minn. - Minneapolis,13.0
+F-BECR,Hue - Tourane,4.0
+G-AKBY,Llandow - Dublin,83.0
+TC-BAL,,15.0
+F-WANU,,12.0
+VT-CJD,,3.0
+HK-309,,25.0
+42-72704,Philippines - Japan,35.0
+HK-120,Quito - Guayaquil,15.0
+,Bermuda - England,16.0
+44-77577,,39.0
+N9406H,,2.0
+PP-AVZ,Victoria - Salvador,15.0
+N1248N,San Juan - Wilmington NC,65.0
+N16030,Kingston, Jamacia - Maracaibo, Venezuela,15.0
+F-BBDE,Saigon - Paris,52.0
+F-BBDM,Saigon - Paris,53.0
+N95425,New York City - Minneapolis-St. Paul,58.0
+VH-ANA,Guildford - Melbourne,29.0
+45-0518,,23.0
+F-BFGL,Paris - Dakar,29.0
+VT-ATS,Delhi - Sringagar,22.0
+CR-LBK,Nova Lisboa - Lobito,9.0
+44-76439A,,26.0
+PP-PCG,Rio de Janeiro - Porte Algegre,50.0
+F-BENF,Algiers - Gao,26.0
+46-87651,,20.0
+KN630,Changi, Singapore - Kota Baru,12.0
+N6004C,Cairo - Rome,55.0
+N18936,Utica, NY - Newark, NJ,23.0
+EP-AAG,,8.0
+56496,Kwajzalein - Tokyo,26.0
+YU-ABD,Belgrad - Paula,11.0
+SE-BRS,Karlstad - Stockholm,10.0
+42-72457,Ashiya AB - Kimpo AB,51.0
+F-BAXM,Casablanca -  Algiers,7.0
+NC93037,Training,6.0
+G-AGIW,London - Glasgow,29.0
+G-AHPN,Paris - London,30.0
+VT-CQP,Bombay - Cairo - Geneva - London,48.0
+N93040,Helena - Butte,21.0
+CF-EDN,Rome - Paris,52.0
+PK-DPB,,23.0
+N74586,Chico, CA - Billings, WY,21.0
+OB-PAU-201,Maldorado - Quincemil,9.0
+VT-COI,,3.0
+EP-AAJ,,8.0
+F-BAXY,Casablanca - Perpignan,7.0
+F-BELB,,56.0
+VT-CFK,,21.0
+PP-SPT,,9.0
+YC-C-AVU,Merida - Caracas,31.0
+44-9096,Naha AB - Clark AB,38.0
+CF-CUF,Vancouver - Penticton,18.0
+LV-ACH,Mar del Plata - Buenos,18.0
+ZS-DDW,,12.0
+VR-HEP,Butterworth - Kota Bharu,10.0
+N74685,Newark - Philadelphia,28.0
+N93054,Minneapolis - Seattle,10.0
+I-DALO,Paris - Rome,17.0
+PP107,Hong Kong - Iwakuni, Japan,16.0
+TF-ISG,Vestmannaeyar Island - ReykjavÃ­k,20.0
+282,,14.0
+F-BBDO,Douala - Niamey,29.0
+HK-333,,2.0
+N19928,Kansas City, MO - Omaha, NB - Sioux City, Iowa,25.0
+HS-POS,,24.0
+HK-315,,27.0
+49-244,Loring AFB - Lakeheath AFB,53.0
+24142,,10.0
+PP-CCX,,14.0
+LV-ACY,Ushuaia - Buenos Aires,20.0
+HK-142,,26.0
+N63439,Santa Maria - Santa Barbara - Oxnard - Los Angeles,22.0
+43-48298,Godman AFB - Charleston, WV,21.0
+HS-SAE,Bangkok - Hong Kong,16.0
+CU-T188/39939,Miami - Havana,43.0
+N16088,Cleveland - Fort Wayne - South Bend - Chicago,11.0
+49-2660,,25.0
+G-AHPD,Bordeaux - Bovingdon,32.0
+PP-SPL,Santa Cruz de Rio Prado - Presidente Prudent,6.0
+,,10.0
+PP-NAL,,19.0
+HK-504,,3.0
+N88846,Johannesburg - Accra - Monrovia - New York,40.0
+YU-ACE,Rejeka and Zagreb,14.0
+N37543,Salt Lake City - Denver,50.0
+VT-CHT,,3.0
+PP-LPG,Maceio - Aracaju,33.0
+45-57801A,Frankfort - Bordeaux,36.0
+VW194,,10.0
+VH-EBQ,,7.0
+F-OABX,Pakse, Laos  - Saigon, Vietnam,3.0
+CF-CPC,Vancouver - Tokyo,37.0
+OO-CBA,,3.0
+CB-39,Cochabamba - Rio de Janeiro,7.0
+VH-TAT,,2.0
+F-BAXB,Training,5.0
+PP-YPX,,10.0
+N37550,Boston - Hartford - Cleveland - Chicago - Oakland,50.0
+PP-SPQ,,13.0
+N31230,,3.0
+F-BEIZ,Perpignan - Oran,39.0
+VT-CCA,Bangalore - Trivandrum,28.0
+CB-43,,27.0
+XA-GOR,Mexico City - Villahermossa,8.0
+ZS-AVJ,Port Elizabeth - Durbin,17.0
+49-2602,Azores - Westover AFB,12.0
+CF-FOQ,Kildala - Vancouver,23.0
+YU-ACC,Belgrad - Skopje,12.0
+FAGO961,,27.0
+N93039,Oakland - Albuquerque,29.0
+TC-ACA,Ankara - Cairo,5.0
+VT-AUO,,17.0
+4X-AND,Zurich - Rome,7.0
+XA-DOQ,,21.0
+N17109,Training,3.0
+VH-UR,,3.0
+N1678M,Fort Smith - Newark,56.0
+SU-AHH,,22.0
+N3944C,Pittsburgh - Buffalo,40.0
+N68963,Umiat - Fairbanks,4.0
+47-76266,New York - Williams AFB,28.0
+VT-COA,,3.0
+F-BAMQ,,11.0
+EI-AFL,Northolt - Dublin,23.0
+N45342,Tokyo - Elmendorf AFB,43.0
+N94229,Buffalo - Newark,23.0
+OO-CBN,,15.0
+,,17.0
+N90891,,63.0
+N86574,San Francisco - Seattle,7.0
+G-AHPI,Nice - Malta,31.0
+F-BEFX,,9.0
+VT-AXE,,16.0
+PP-PCN,Rio de Janeiro - Guiana,8.0
+F-BCUM,Nice - Paris,38.0
+PI-C5,,3.0
+,Training,15.0
+CF-BXZ,St. Johns - Goose Bay,4.0
+PH-TPJ,Rome - Frankfort,47.0
+F-ARTE,,21.0
+,,70.0
+YV-C-AZU,,12.0
+PI-C270,,29.0
+N1911M,,2.0
+N93043,Tokyo - Osaka,37.0
+VT-DFN,,4.0
+N88899,San Juan - New York City,69.0
+N8404C,Kansas City, MO - Phoenix - Burbank,29.0
+TG-AQA,Brownsville, TX - Guatemala City,2.0
+N1039V,Rio de Janeiro - New York City,50.0
+VT-AUN,Madras - Delhi,9.0
+LN-NAD,Amsterdam, Netherlands - Jarsberg, Norway,29.0
+PK-DPA,,17.0
+PP-SPM,Sao Paulo - Bauru,22.0
+PP-LDE,,6.0
+G-ALDN,Tripoli - Kano,18.0
+79001,Radio surveillance mission,8.0
+,,11.0
+VP261,,13.0
+N1030V,Rio de Janeiro - Buenos Aires,27.0
+PP-ANH,Rio Verde - Goiania,24.0
+G-ALDF,Blackbushe - Malta - Khartoum,57.0
+G783,Khewra - Peshawar,18.0
+ZS-DFW,Juba - Wadi Halfa,4.0
+WG235,,1.0
+,,46.0
+44-87741,,16.0
+VT-CGB,,3.0
+VP286,,14.0
+PP-AXJ,Sao Paulo - Porto Alegre,28.0
+44-77538,,25.0
+52-2711,,16.0
+F-BFVO,Fort Lamy - Beirut,6.0
+51-2560A,Elmendorf AFB - Big Delta,19.0
+51-2551A,,44.0
+51-2570,Elemndorf AFB - Kodiak NAS,20.0
+,Great Falls - Denver, Colorado,16.0
+51-107A,,52.0
+,,38.0
+,Sofia - Varna,18.0
+CU-T397,Madrid - Azores - Bermuda - Havana,41.0
+50-100,,115.0
+YV-C-ARC,,3.0
+YV-C-AVX,,5.0
+EP-ACJ,Abadan - Tehran,29.0
+PI-C38,,10.0
+G-AJDL,Northolt - Belfast,35.0
+F-BPJA,,10.0
+N1648M,Boeing Field - Cheyenne,40.0
+VX562 / TX270,,26.0
+I-LAIL,Cagliari - Rome,19.0
+G-AHFA,Lajes, Azores - Gander,39.0
+F-OAFR,,18.0
+F-BFGR,,20.0
+1001,,35.0
+N90893,Miami - Orlando - New Orleans,46.0
+CF-CUN,Karachi - Rangoon,11.0
+N4717N,New York, NY - Winsor Locks, CT,2.0
+AP-AEG,Delhi - Dacca,16.0
+F-BEFG,Hue - Da Nang,8.0
+51-13721A,Azores - Rapid City AFB,23.0
+N88942,Roswell - Oakland - Guam,35.0
+PP-SLG,,14.0
+VP-YEY,Nairobi - Dar-es-Salaam,13.0
+VP-JBC,,13.0
+F-BALE,,4.0
+VT-AUJ,,3.0
+N65743,Spokane - Ellenburgh,25.0
+F-BESS,Hanoi - Na San,30.0
+N91303,Los Angeles - San Francisco - Oakland,10.0
+G-ALYV,Calcutta - Delhi,43.0
+WG258,,10.0
+VT-AUD,Delh - Ahmedabad - Bombay,18.0
+CF-CRV,Sandpit, BC - Prince Rupert, BC,19.0
+N28345,Dallas - Shreveport,20.0
+PH-TEI,Amsterdam - Paris,34.0
+CC-CLD-0100,,7.0
+TI-1002,Palmar Sur - San Isidoro,14.0
+F-BEST,Vientiane - Saigon,34.0
+PP-PDA,,17.0
+51-137A,Tachikawa AB - Kimpo AB,129.0
+N90806,Wake Island - Honolulu - Oakland,58.0
+131663,Whitting NAS - Norfolk NB,46.0
+,,21.0
+CF-HMV,,2.0
+F-BAZS,Rome - Beirut,42.0
+AP-AAD,Sharjah - Bahrain,25.0
+,,23.0
+XA-GOT,,2.0
+F-BAZZ,Paris - Nice - Hong Kong,42.0
+N19941,Monterey, CA - Tacoma, WA,21.0
+XH-TAR,San Pedro - San Andres,3.0
+XA-GIC,Campeche - MÃ©rida,2.0
+N94255,Boston - Hartford - Albany - Chicago,28.0
+TC-EGE,Ankara - Van,21.0
+N66534,Philadelphia - Louisville,41.0
+OO-AWQ,Frankfurt - Brussels,44.0
+F-VNAE,,7.0
+XA-GOT,Monterrey - Falcon Dam,21.0
+N119A,New York City - San Juan,27.0
+VH-BPE,Sydney - Honolulu - San Francisco,19.0
+CP-600,Camiri - Suere,28.0
+WL746,,10.0
+EC-AEG,Bilbao - Madrid,33.0
+VT-CHF,,14.0
+OO-AWO,,44.0
+YK-AAF,,15.0
+,,21.0
+TC-BAG,Bandirma - Canakkale,10.0
+WJ474,Bovingdon AF - Thorney Island,17.0
+G-ALYP,Rome - London,35.0
+HK-160,Medellin - Armenia,21.0
+,,1.0
+PI-C294,,16.0
+OK-WDS,Praha - Moravska - Ostrava,15.0
+N49551,,3.0
+44-78027A,Misawa - Chitose,35.0
+5895,,16.0
+WL794,Military exercise,10.0
+VT-ATU,,3.0
+N8407H,Salt Lake City - Cedar City - Rapid City,9.0
+42-24096A,Tripoli, Libya - Hahn, W Germany,20.0
+G-ALAM,Australia - London,40.0
+VH-BBV,,2.0
+51-7993,Oklahoma - Long Island, NY,18.0
+XA-GUN,Mazatlan - Monterey,18.0
+TC-ARK,Adana - Istanbul,25.0
+F-BFGQ,,4.0
+G-ALYY,Rome - Cairo,21.0
+CF-TFW/RCAF3309,,36.0
+956,,16.0
+F-OALK,,23.0
+LV-ACX,Mendoza - Cordoba,25.0
+VT-DEM,,11.0
+ZK-AQT,Churchchrist - Paraparaumu,28.0
+PP-ANO,Governador Valadares - Belo Horizonte,19.0
+OO-CBY,Blackbushe, UK - Beogard, Serbia,4.0
+PP-VBZ,Sao Paulo - Porto Alegre,3.0
+F-BCCL,,4.0
+HB-IRW,Geneva - London,9.0
+C-28-2901,,20.0
+VR-HEU,Singapore - Hong Kong - Bangkok,18.0
+N91008,McGrath - Colorado Creek,2.0
+HK-163,Lajes, Azores - Bermuda,30.0
+F-BSGS,Saigan - Hanoi,3.0
+F-VNAI,Red River delta - Saigon,55.0
+N61451,Memphis - Minneapolis,19.0
+PH-DFO,Shannon - Amsterdam,21.0
+G-AGHP,,3.0
+51-13722,,27.0
+PH-LKY,Shannon - New York City,56.0
+PP-CDJ,,30.0
+SU-AFO,Test,4.0
+43-16044,,21.0
+128441,Patuxent River NAS - Kenitra, Morocco,42.0
+128441,New Jersey - Azores - Port Lyautey, Moroco,42.0
+VH-TVA,Training,8.0
+FAP-403,Pucallpa - Lima,24.0
+N17891,Laconia, NH - Berlin, NH,7.0
+F-BEIA,Luang Prabang - Nam Tha,28.0
+OK-WDK,,4.0
+YV-C-AMP,,2.0
+I-LINE,Rome - New York City,32.0
+N24320,Newark - Tacoma,28.0
+G-ALSA,London - Glasgow,36.0
+,,45.0
+,Peking -  Irkutsk - Cyprus,17.0
+WG531 / Wl743,,18.0
+N93211/N999B,Cincinnati - Cleveland,15.0
+N73154,Newark - Des Moines - Lincoln,39.0
+HK-1000E,,5.0
+VT-CVB,Nagpur - Delhi,10.0
+VR-NAD,Enugu - Calabar,13.0
+OO-SDB,Brussels - Rome,29.0
+N40416,Albuquerque - Sante Fe,16.0
+VP-YKO,Salisbury - Lusaka,26.0
+PP-YPZ,,21.0
+XA-DIK,Puerto Vallarta - Guadalajara,26.0
+HK-328,Condoto - Cali,8.0
+N94234,Newark - Chicago - St. Louis - Springfield - Tulsa,35.0
+131612,,66.0
+N1032V,Portland - Honolulu,23.0
+N51424,Mobile, AL - Macon, GA,2.0
+N37512,Training,3.0
+VT-DEP,Hong Kong - Jakarta,19.0
+F-BGOI,Yaounde - Douala,14.0
+VP-KKH,Dar-es-Salaam - Nairobi,20.0
+YV-C-ALU,,13.0
+CF-HMY,,2.0
+F-BFVT,Douala - Fort Lamy,3.0
+PP-PDJ,Sao Paulo - Asuncion,24.0
+XA-LID,,18.0
+XA-DOB,Acapulco - Oaxaca,22.0
+N3422,Kansas City, MO - Chicago,43.0
+4X-AKC,Wien - Tel Aviv,58.0
+N94221,Springfield, IL - St. Louis, MO,30.0
+,Starllingrad - Moscow.,25.0
+53-3222/53-7841,,66.0
+PP-CBY,Rio de Janeiro - Caravelas,13.0
+VT-AZX,,3.0
+XY-ACQ,Meiktila - Lanywa,9.0
+N74663,Burbank - Oakland,33.0
+F-BDRE,LaLÃ©rÃ¨ - Douala,16.0
+CF-GBT,Edmonton, AB - Yellowknife, NT,6.0
+G-ALHL,Rome - Tripoli,47.0
+N90433,Wake Island - Honolulu,5.0
+OB-PAZ-228,Lima - Cuzco,35.0
+N30062,Denver - Salt Lake City - San Francisco,66.0
+YU-ADC,Beograd - Wien,29.0
+N37559,Denver - Portland,44.0
+N88852,Seattle - Newark,74.0
+44-9068,,14.0
+51-0149,,11.0
+52-8716,,10.0
+PP-CCC,,6.0
+N9904F,,2.0
+,Sao Paulo - Belem,26.0
+N112A,Miami - Jacksonville,17.0
+VH-BZA,,2.0
+CF-GVZ,Knob Lake - Oreway,18.0
+OK-WDZ,Bratislava - Kosice,26.0
+F-BCYK,,3.0
+CF-FZU,,2.0
+CF-BZH,,3.0
+39116,El Toro MAS - Alameda NAS,40.0
+G-ANSY,Malta - London,50.0
+F-BGOD,Saigon - Paris,64.0
+YK-AAE,,19.0
+AP-ACZ,Gilgit  - Islamabad,3.0
+VT-CGN,,21.0
+G-AMRB,Liverpool - Glasgow,3.0
+VT-DCM,Asansol - Bagdogra,3.0
+,,18.0
+N40403,Pittsburgh - Newark,36.0
+N74608,Seattle - Portland,38.0
+B5386N,Anchorage - Seward,6.0
+PP-PDB,Belem - Parintins,12.0
+G-AMUL,London - Malta,54.0
+VT-DBA,,33.0
+,,2.0
+TG-AHA,Kano - Tripoli,31.0
+YV-C-AMS,New York City - Caracas,74.0
+G-ALHE,Kano - Tripoli,45.0
+N6902C/N6324C,Los Angeles - Chicago / Los Angeles - Kansas City,128.0
+CF-TGR,Chicago - Montreal,35.0
+53-3301A,McGuire AFB - Harmon AFB,66.0
+LV-ACD,Buenos Aires - Rio Cuarto,18.0
+XY-ADC,Rangoon - Mandalay,20.0
+CF-CUP,Vancouver - Hong Kong,22.0
+JY-ABV,,57.0
+N33315 / N8143A,,18.0
+N 79069,Unalakleet and Nome,5.0
+1311588,RAF Lakenheath - McGuire AFB,59.0
+N90943,Honolulu - San Francisco,31.0
+VT-DGK,,3.0
+SU-AAB,Cairo - Dismascus,23.0
+G-ALDJ,Tripoli - Blackbushe,80.0
+LN-SUR,Trondheim - Oslo,12.0
+XA-HEG,Tocumen - Guatemala City,25.0
+PP-VCS,,2.0
+HK-385,Buenaventura - Cali,36.0
+OK-DBP,Eglisau - Prague,23.0
+I-LEAD,Rome - Paris -  Shannon - New York City,35.0
+YV-C-AMA,New York City - Maiquetia,25.0
+HK-133,Bogota - Medellin - Quibdo,16.0
+CF-TFD,Vancouver - Toronto,62.0
+F-BGNK,Training,5.0
+YU-ADA,Wien - Munchen,30.0
+I-LINC,Rome - Milan,21.0
+54-0165,,37.0
+N94247,Joplin - Owasso,10.0
+T-11,Buenos Aires - Mar Del Plata - Mendoza,33.0
+AN-AEC,San Carlos - Managua,16.0
+F-BAVG,Tunis - Paris,70.0
+N8210H/52-187OA,Santa Monica - Santa Monica,6.0
+N34954,New York City - Miami,101.0
+51-141A,Kimpo AB - Tokyo, Japan,159.0
+N90449,Fairbanks - Seattle,5.0
+XH117,,22.0
+HK-155,Condoto - Cali,15.0
+G-ALWE,Amsterdam - Manchester,20.0
+PI-C-,Cebu - Manila,25.0
+CP-535,Cochabamba - Oruro,19.0
+50-702A,Travis AFB - Tokyo,67.0
+PP-VCF,,40.0
+F-BEIK,,34.0
+PP-ANX,Rio de Janerio - Sao Paulo,30.0
+XA-KUN,,3.0
+VW832,,24.0
+F-BGNE,Tehran, Iran - Istanbul, Turkey,
+G-AJBO,Blackbushe - Tripoli,35.0
+VT-AUV,,3.0
+EC-ADI,Santiago de Compostella - Madrid,37.0
+T-3,,16.0
+N68736,,3.0
+VT-CFB,,2.0
+SP-LNF,Warsaw - Moscow,13.0
+HB-IRK,Training,9.0
+N88835,Training,3.0
+CF-EPI,Port Hardy - Vancouver,18.0
+AP-AJS,,24.0
+PH-LKT,Mokmer - Manila,68.0
+N8405H,Minneapolis -- Salt Lake - Cedar City - Las Vegas- LA,16.0
+CF-MCF,ReykjavÃ­k - Montreal,79.0
+CCCP-L1874,Riga - Copenhagen,23.0
+VT-ARH,,8.0
+XH-SAF,,12.0
+YV-C-AVG,Maiquetia - Barinas,8.0
+N33417,Martha's Vineyard - New Bedford,24.0
+PP-AQE,San Pablo - Porto Alegre - Montevideo,35.0
+G-AOFY,,3.0
+OD-ACK,Beirut - Kuwait City,27.0
+G-AOJA,London - Belfast,7.0
+EC-ACH,Tanger - Madrid,21.0
+XA-LIW,,3.0
+G-ANCA,,15.0
+N90944,San Fransisco - Honolulu,44.0
+EC-ANZ,Barcelona - Palma de Mallorca,4.0
+G-AKNU,Southhampton - Lisbona,58.0
+ZK-AYH,Paraparaumu - Timaru,4.0
+LV-AHZ,Buenos Aires - San Carlos,61.0
+CF-GKV,,3.0
+,Ozamis City - Pagadian,12.0
+G-AMUN,Malta - London,4.0
+143197,,23.0
+LV-AAR,Buenos Aires - Rosario - Corrientes,51.0
+PP-CEF,,3.0
+TAM-04,Tipuani - La Paz,11.0
+PP-LEM,Rio de Janerio - Fortaleza,67.0
+AP-AEH,Dehli - Karachi,38.0
+53-3277A/127723,Long Beach - McGuire AFB,49.0
+G-ALZU,Munich - Manchester,44.0
+F-AOVV,,15.0
+BU-141310,,22.0
+G-AICS,Isle of Man - Manchester,42.0
+129741/135350,,26.0
+SU-AGN,Athens - Cairo,26.0
+N300E,,4.0
+VT-CYN,Simra - Kathmandu,20.0
+N5904,,24.0
+52-981A/49-195A,,18.0
+HC-SND,Quito - Esmeraldas,14.0
+N7437,New York - Detroit - Saginaw - Chicago,47.0
+HC-ACL,Guayaquil - Quito,32.0
+EC-ANJ,Zaragoza - Barcelona,16.0
+N6328C/56-3755,Los Angeles - New York City,49.0
+OO-SFA,Lisbon - Leopoldville,65.0
+N7410/53-5966,Pittsburgh - Baltimore,11.0
+G-AMUV,,5.0
+F-BHKV,Algier - Colomb-Bechar - Tindouf,15.0
+PP-BTB,,4.0
+N1023V,San Francisco - Singapore,57.0
+XA-MEV,Guadalajara - Mexico City,45.0
+N49553,Training,3.0
+PP-CEP,Florianopolis - Curitiba,27.0
+VT-COJ,,7.0
+56-3599A,Westover AFB - London,15.0
+VT-CYM,,3.0
+VP-YNE,Wadi Halfa - Benina,54.0
+JA5045,Tokyo - Nagoya,33.0
+PP-LEQ,,10.0
+PH-LKM,Amsterdam - Shannon - Gander - New York,99.0
+N90670,New York City - Nantucket,34.0
+CCCP-L5442,,64.0
+56-0528,,17.0
+G-AIJE,,3.0
+52-1081A,Guam - Clark AB,19.0
+PP-LDX,,18.0
+56-661 / 56-681,,16.0
+N6920C,,8.0
+56-0526,,15.0
+OD-ADB,Beirut - Rome,5.0
+55-4521A,,19.0
+YV-C-ANC,,23.0
+TAM-03,Fortin Campero - Tarija,20.0
+CCCP-42362,Peking - Moscow,80.0
+Bu141294,Patuxent River, NAS - Argentia,NAS,29.0
+G-ANHC,London - Napoli,31.0
+CU-T603,Miami - Varadero,20.0
+YE-AAB,Rome - Belgrade,8.0
+TAM-05,San Borja - La Paz,3.0
+CS-THB,Cabo Ruivo - Funchal,36.0
+N1301N,,2.0
+EC-ANR,Vigo - Madrid,21.0
+,Test,12.0
+F-BGTZ,Johannesberg - Salisbury - Brazzaville - Nice - Paris,70.0
+PP-SQE,Rio de Janeiro - Sao Paulo,37.0
+ET-T-1,Tippi - Jimma,18.0
+XH-SAA,Copan - Nuovo Octopeque,5.0
+N18941,Nashville - Knoxville - Tri-City Aport,10.0
+D-ALAK,Hamburg - Rio de Janeiro,39.0
+N1240N,Burbank, CA - Seattle, WA,2.0
+LV-GED,Buenos Aires - Mar del Plata,52.0
+YV-C-LBI,Merida - Lagunillas,4.0
+JY-ACB,Jerusalem - Dobouk,15.0
+G-AGRG,,6.0
+N17314,Pueblo, CO - San Antoonio, TX,28.0
+N3794N,Mason City - Fargo,4.0
+N6101A,Chicago - New York City,73.0
+TC-SEV,Ankara - Istanbul -  London,24.0
+N68823,Arica, Colombia - Puerto Suarez, Bolilvia,5.0
+YA-BAG,Beirut - Tehran,27.0
+YS-09C,Las Mercedes - Tegucigalpa,19.0
+VT-CYH,,7.0
+EC-ADH,Palma de Mallorca - Mahon,18.0
+F-BGZB,,9.0
+VT-CGI,Dum Dum - Agartala-Singerbhil - Kumbhirgram,24.0
+N7840B,Orlando, FL - Atlanta, GA,2.0
+XA-MIS,Mexicale - Guaymas,26.0
+G-AGRH,Ankara, Turkey - Bahrain,12.0
+EC-ABC,Barcelona - Madrid,28.0
+OE-FDA,Palma de Mallorca - Wien,5.0
+N2735A,Pittsburg - Charleston,44.0
+N7463,New York City - Atlanta,31.0
+OB-WBP-507,Lima - Pucallpa,12.0
+LV-AFW,Mar del Plata - Bahia Blanca,10.0
+CC-CIA-497,Talara  - Arica,8.0
+TI-1020,,60.0
+HK-135,Bogota - Lima,14.0
+N7313C,Milan - Paris,68.0
+55-3633A,,1.0
+VT-DGP,Mohanbari - Along,6.0
+AP-AJE,,3.0
+N7514A,Training,5.0
+G-AMZD,Barcelona - London,32.0
+LV-AHP,,50.0
+N5140B,Abilene, TX - Forth Worth, TX,2.0
+,Mexico City - Merida,16.0
+N88900,San Salvador - Miami,3.0
+PP-SQV,Sao Paulo - Rio de Janeiro,20.0
+F-BIAP,Bordeaux - Bamako,65.0
+N63396,Shemya - Cold Bay - Adak - Anchorage,16.0
+N9705C,Houston - Dallas,34.0
+N67589,Los Angeles - Oxnard - Santa Maria - Paso Robles,19.0
+SX-BAD,Athens - Thessaloniki,18.0
+N55V,Washington DC - Charlottsville, VA,27.0
+CF-ILI,Montreal - Hall Lake,5.0
+N4891C,Tampa - New Orleans,42.0
+CCCP-11167,,40.0
+N102R,Chicago - Los Angeles,3.0
+N174A,Harrisburg - Willamsport,26.0
+HK-515,San Andres Island - Cartagena,45.0
+,Kabul - Tashkent,29.0
+N64T,Juneau - Annette Island,3.0
+I-LIZT,Training,2.0
+PP-SRG,Rio de Janeiro - Sao Paulo,33.0
+PK-GDV,,2.0
+CP-584,,11.0
+VT-CGG,,9.0
+N8225H,New York - Miami,34.0
+55-2974,Misurata - Benghazi,10.0
+N7462,Washington D.C. - Norfolk,50.0
+OY-KRB,Istanbul - Ankara,42.0
+SSR-75687,,61.0
+HK-177,Miami - Montigo Bay,46.0
+CR-TAI,Darwin - Baucau,9.0
+CP-609,Laguna de Huana-Costa - La Paz,59.0
+PP-AXD/131582,Campos - Rio de Janeiro,61.0
+I-DUVO,Shannon - New York City,52.0
+CCCP-11180,,32.0
+HK-1001E,Aracacuara - Villavicencio,13.0
+JA-5018,Tokyo - Nagoya,33.0
+N121US,Chicago - Miami,63.0
+HK-516,San Andres - Medellin,46.0
+AN-AIN,Siuna - Bonanza,18.0
+PP-CDS,,22.0
+,,18.0
+52-1062,Dover, Delaware - Mildenhall, England,9.0
+HK-390,Miami - Medellin - Bogota,51.0
+N2704R/N1807H,Cincinnati, OH - Hickory, NC,44.0
+OO-SBL,Cairo - Bunia,35.0
+YV-C-AFE,Maiquetia - Calabozo,13.0
+HB-ILA,Niamey - Khartoum,12.0
+LV-ADS,Asuncion - Buenos Aires,31.0
+LV-GGJ,Buenos Aires - Santiago,10.0
+N8804E,Training,4.0
+VH-TFB,Rockhampton - MacKay,29.0
+N1554V,Cordova - Anchorage,14.0
+PP-YRB,Belo Horizonte - Rio de Janeiro,54.0
+144242,,21.0
+VT-DGS,Doha - Sharjah,16.0
+45-1109A,Bogota - Quito,18.0
+N292,Okinawa - Manila,58.0
+ET-T-18,Bulchi - Jimma,11.0
+CP-36,,41.0
+N879,,13.0
+D-BELU,Frankfort - Rimini,34.0
+TAM-09,La Paz - Tipuani,6.0
+CCCP 75705,Cairo - Moscow,35.0
+WU-26,,20.0
+G-AMNK,Heraklion, Greece - Cairo, Egypt,3.0
+F-BHBC,Paris - Dakar,63.0
+N90779,Guam - Wake Island,94.0
+56541,Atsugi, Japan - Subi Point, Philippines,29.0
+OE-LAF,Warsaw - Moscow,37.0
+XA-HUS,Tapachula - Mexico City,18.0
+SU-AKW,Geneva - Rome,21.0
+N5533,Boston - Philadelphia,72.0
+I-AOMA,Rome - Genoa,11.0
+N1300N,Rapid City, South Dakota - Ogden, UT,2.0
+CCCP-42452,,3.0
+N48762,Spokane - Missoula,12.0
+N1244N,Toledo - Kansas City, MO,48.0
+9N-AAD,,4.0
+HC-ADV,Guayaquil - Quito,37.0
+PI-C133,Iloilo - Manila,33.0
+PP-AKF,Cuiaba - Manaus,15.0
+T-102,Buenos Aires - Lima,31.0
+CC-CLD-P210,Temuco - Santiago,24.0
+F-BHBM,Fort Lamy, Chad - Marseilles, France,78.0
+51-0174,,22.0
+N8013U/N6907C,Chicago - New York City / Columbus - New York City,128.0
+55-291,Munich - Northolt AB, England,20.0
+PI-C126,Cebu - Davao,37.0
+OK-MCZ,,10.0
+OH-LCC,Kokkola - Vaasa,25.0
+XA-XAX,New York - Mexico City,106.0
+BU143193,,22.0
+PK-GDI,Jakarta - Bandung,21.0
+51-17626,Azores - Argentia,Newfoundland,23.0
+N7502A,Training,6.0
+PK-GDY,Surabaya - Balikpapan,26.0
+OO-SJB,New York City - Brussels,72.0
+YV-C-AZQ,San Antonio-Maiquetia,12.0
+C-47-2055,Rio de Janerio - Belem,28.0
+OK-OAD,Prague - Zurich,52.0
+WD497,,13.0
+PH-DCL,Rome  - Lisbon -  Madrid - Santa Maria, Azores -Caracas,61.0
+PH-LLM,Rome - Cairo,36.0
+D-ABEB,Tripoli - Kano,7.0
+LV-FTO,Salta - Cordoba - Buenos Aires,35.0
+CCCP-42447,,85.0
+N8040U,Omaha - Denver,122.0
+OK-PAF,Zurich - Rabat,72.0
+LV-ADW,Buenos Aires - Comodoro,67.0
+N6118C,Seattle - Shemya AFB,6.0
+HA-TSA,,27.0
+G-AHPM,London - Sola,39.0
+B-136,,6.0
+CF-MEX,,6.0
+N86511,Chicago - Las Vegas,78.0
+ET-T-16,Addis Ababa - Asmara,19.0
+TI-1006C,,2.0
+PK-GDZ,,14.0
+N90773,Shannon - Gander,83.0
+F-BJTB,Paris - Rabat,77.0
+SE-BDY,Leopoldville - Ndola,16.0
+N137US,Chicago - Tampa,37.0
+TC-TAY,Adana - Ankara,29.0
+G-AMSW,London - Perpignan,34.0
+WD498,,37.0
+G-ANWL,Cherboug - Les Prevosts,10.0
+PP-PDO,Lisbon - Ilha do Sal - Recife,45.0
+N2737A,Baltimore - Columbia SC,79.0
+HH-ABA,San Juan, PR - Managua,3.0
+LV-AHR,Sao Paulo - Trinidad,52.0
+,,35.0
+VH-TVC,Sydney - Canberra,15.0
+D-ABOK,Training,3.0
+CP-23 / CP-25,,13.0
+AN-AOE,,2.0
+G-ARJM,Ankara - Nicosia,34.0
+N1503V,Old Harbor - Kaguyak,5.0
+CP-541,,6.0
+CCCP-11148,,13.0
+OB-PBH-530,Huanuco - Pucallpa,18.0
+YV-C-EVH,Porlamar - Cumana,23.0
+HK-502,Manizales - Bogota,2.0
+N7506A,New York City - Los Angeles,95.0
+G-ARUD,Douala - Lisboa,111.0
+ZS-DJC,Grahamtown - Queentown,7.0
+TC-KOP,Ankara - Adana,11.0
+I-DIMO,Khartoum - Rome,5.0
+55-0020,Training exercise,15.0
+N6911C,Cold Bay, AK - Adak, AK,7.0
+N6921C,Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon,107.0
+204,,11.0
+CU-T819,Santiago de Cuba - Havana,22.0
+FAC-563,Bogota - Araracuara - Villavicencio,31.0
+HK-524,Bahia Solano - Quibdo,40.0
+EC-ATB,Barcelona - Valencia - Seville,18.0
+G-AGZB,Jersey, Channel Islands - Portsmouth, England,18.0
+UB-BG-707,,32.0
+PP-CEZ,Rio de Janerio - Vitoria,25.0
+CF-IHA,Sondre Stromfjord - Godthab,21.0
+SU-AJM,Cairo, Egypt  - Beirut, Lebanon,3.0
+56-0546,,13.0
+131390,,26.0
+N70775,Chicago - Kansas City, MO,45.0
+F-BHSM,Paris - New York City,132.0
+CCCP-42491,,5.0
+F-BHST,Paris - Pointe-a Pitre - Santaigo,112.0
+CCCP11186,Lvov - Sochi,81.0
+CCCP-42370,,84.0
+,,14.0
+I-DIWD,Bangkok - Bombay,94.0
+OD-AEC,,6.0
+VT-AUS,Kabul  - Amritsar, India,3.0
+VT-DFZ,,9.0
+SU-AMW,Hong Kong - Bangkok,26.0
+CF-CZB,Honolulu - Nadi, Fiji,40.0
+CCCP-11186,,81.0
+F-BAOE,Training,8.0
+9N-AAH,Katmandu - New Deli,10.0
+PP-PDT,Rio de Janeiro - Lisbon,105.0
+HK-794,Berranca Bermeja - Bucaramanga,32.0
+OB-PBN-659,,9.0
+CCCP-42366,Khabarovk - Petropavlovsk,86.0
+KA-4628,,12.0
+N1000F,,13.0
+OK-MCT,Bratislava - Brno,34.0
+60-0352,Ellsworth AFB - Fairchild AFB,44.0
+CP-710,Caranavi - Rurrenabaque,4.0
+VT-DGX,,8.0
+N6923C,Gander, Newfoundland - Frankfurt, Germany,76.0
+CF-THA,,19.0
+PI-C503,Training,3.0
+XA-COL,,8.0
+N8415N,Washington D.C. - Providence, RI,52.0
+CCCP-42495,,10.0
+XV-NID,Hue - Da Nang,27.0
+JA8202,,4.0
+N7430,Newark - Washington D.C.,18.0
+7502,,37.0
+HA-MOD,Frankfurt - Paris,21.0
+PP-SRA,Sao Paulo - Rio de Janeiro,26.0
+PP-VJB,Porto Alegre - Lima,97.0
+N815D,Charlotte - New York City,51.0
+HK-437E,Bucaramanga - Barrancabermeja,26.0
+PP-PDE,Belem - Manaus,50.0
+N6913C,Chicago - Burbank,5.0
+SP-LVB,Berlin - Warsaw,33.0
+,,12.0
+PP-VCQ,Rio de Janeiro - Brasilia,40.0
+G-ARSF,Southend, England - Rotterdam, The Netherlands,18.0
+F-BELZ,Bastia - Ajaccio,25.0
+N994B,,2.0
+N65458,,6.0
+PP-CEV,,45.0
+N2703,Training,3.0
+N67933,,2.0
+N242V,Midland, TX - Kansas City, MO,8.0
+,,14.0
+OD-ADE,Nicosia - Ankara,17.0
+N9740Z,,8.0
+CCCP-11193,Training,7.0
+N724US,Miami - Chicago,43.0
+N842D,,26.0
+PI-C489,Cotabato - Davao,27.0
+N7000P,Kansas City - Dyersburg - Nashville,4.0
+OD-ACZ,Tehran - Beirut,4.0
+CP-707,Arica - La Paz,41.0
+SA-R-7,Geneva - Nice,18.0
+,,10.0
+SE-CCK,,43.0
+I-TAVI,Pescara - Rome,11.0
+TF-ISU,Copenhagen - Oslo,12.0
+F-BIAO,Douala - Lagos,55.0
+PP-CDW,Sao Paulo - Rio de Janeiro,50.0
+SU-AJX,Cairo - Alexandria,34.0
+N290,McChord AFB - Elmendorf AFB,101.0
+VT-AUL,Amritsar - Srinagar,29.0
+XY-ACS,Rangoon - Putao,20.0
+YR-ILL,Munchen - Constanta,31.0
+FAC-953,,20.0
+CP-45,,47.0
+CP-45,,47.0
+PP-VBV,Carazinbo - Passo Fundo,18.0
+N449A,Rochester - Newark,43.0
+ZK-AYZ,Auckland - Whenuapai - Tauranga,23.0
+CCCP42492,Moscow - Irkutsk,35.0
+5R-MAJ,,12.0
+B-148,,6.0
+SU-ALD,Bangkok - Bombay,63.0
+1718K,,13.0
+F-BGNV,Lille - Lyon,20.0
+N67941,,2.0
+JA6155,,19.0
+CCCP-45021,Tallinn - Moscow,52.0
+61-0319/61-0322,,16.0
+HG-ICV,Zurich - Geneva,80.0
+F-BJER,London - Perpignan,40.0
+VT-DIO,Madras - Nagpur - Delhi.,18.0
+56-2002,,10.0
+HP-385,Marseilles, France - Dhah, Saudi Arabia,6.0
+N6673D,Idlewild - Newark,6.0
+,,31.0
+CCCP-04188,,5.0
+G-ASHG,Test flight,7.0
+OH-LCA,Turku - Mariehamn,24.0
+CF-TJN,Montreal - Toronto,118.0
+N609,Lowery AFB - Ogden Hill AFB,3.0
+N709PA,Washington - Baltimore - Philadelphia,81.0
+OD-AEB,Kawait - Kabul,3.0
+SU-AFK,Cairo - Luxor,6.0
+N93131,,46.0
+LV-FYJ,Rosario - Buenos Aires,30.0
+N2136P,,2.0
+TC-ETI,Istanbul - Ankara,3.0
+N2999,Gainsville - Jacksonville,10.0
+CP- 568,,29.0
+N2157P,Freeport, Grand Bahamas - West Palm Beach, FL,4.0
+N3823C,Detroit - Akron,4.0
+,,13.0
+PI-C97,Cotabato - Malabang - Iligan - Cayagan de Oro,32.0
+,,22.0
+N1800D,,2.0
+N8607,Mexico City - New Orleans - New York City,58.0
+JA5098,Kagoshima - Oita,42.0
+G-AOVO,London - Innsbruck,83.0
+N86504,San Jose, CA - Lake Tahoe,85.0
+HK-862,Pereira - Bogota,28.0
+N410D,,30.0
+N384,New York - Winsor Locks - Boston,3.0
+N61442,Billings - Miles City - Glendive - Sidney,5.0
+N4320P,,3.0
+I-LAKE,Rome - Napoli,45.0
+N4726V,Honolulu - San Francisco,9.0
+VR-AAM,,15.0
+OD-AEM,,49.0
+N9984X,,2.0
+N2770R,Stockton - San Fransisco,44.0
+TC-46,,10.0
+T-47,Buenos Aires - Lima,49.0
+62-0332,,84.0
+PI-C51,Siocon - Zamboanga,11.0
+PP-SPZ,Training,3.0
+N5420P,,3.0
+HZ-AAN,Training,2.0
+N344S,Washington D.C. - Southhampton, MA,5.0
+B-908,Taichung - Tainan,57.0
+EC-AQH,Palma de Mallorca - Ibiza,28.0
+N18946,Martinsville, Virginia - Wilmington, Delaware,5.0
+N1007U,,53.0
+N769TW,Rome - Athens,73.0
+N7405,Philidelphia - Washington - Knoxville - Huntsville,39.0
+N5493W,,3.0
+N809D,New York City - Richmond - Jacksonville,76.0
+N8972M,Batesville - Nashville,2.0
+N6015Z,,3.0
+N5485Y,,2.0
+CP-680,La Paz - Tipuani,4.0
+CCCP-75531,Krasnoyarsk - Yuzhno,87.0
+PP-SRR,Vitoria - Rio de Janeiro,39.0
+,Khoke Kathiam - Vaong Nong,34.0
+HK-319,Condoto - Medellin,2.0
+F-BHMS,Palma de Mallorca - Port Etienne,80.0
+LX-IOK,Dublin, Ireland - Addis Ababa,7.0
+YR-ILB,,32.0
+N9340F,,2.0
+,,33.0
+N2849G,,5.0
+N745L,Phoenix - Las Vegas,29.0
+151362,,10.0
+N9574Z,,3.0
+OO-DEP,,14.0
+N5089U,,5.0
+CP-639,Tipuani - La Paz,17.0
+,,38.0
+PI-C569,Kalibo - Manila,39.0
+OB-XAU,,23.0
+N6915C,San Francisco - New York,3.0
+CC-CAN,,5.0
+N608Z,Cleveland - Detroit - Denver,4.0
+N2401G,,3.0
+N8689X,,2.0
+57-1442,,17.0
+,,10.0
+52-1058,,10.0
+F-OAFI,,4.0
+CC-CCG-104,Santiago - Buenos Aires,87.0
+N849D,New York City - Richmond VA,84.0
+YS-012C,,2.0
+JA5080,Osaka - Tokyo,2.0
+N2151D,,2.0
+62-1845,,7.0
+PI-C948,Manila - Naga,12.0
+CCCP-45028,,25.0
+CF-NAF,Halifax - Sidney NS,8.0
+HK-109,Bogota - Bucaramanga,28.0
+20727,Training exercise,16.0
+AP-AAH,Peshawar - Chitral,26.0
+EC-ATH,Malaga - Tangiers,53.0
+N84R,,2.0
+JY-ACQ,Beirut  - Amman,54.0
+G-ANTB,Paris - Jersey , Channel Islands,27.0
+N7397P,,2.0
+N6541C,Seattle, WA - Ogden, UT,5.0
+EC-AIN,Madrid - Tenerife,49.0
+AP-AMH,Karachi - Dhahran - Cairo - Geneva - London,125.0
+63-8760/63-8840,,18.0
+60-0373,El Toro -  Honolulu - Okinawa,85.0
+N761PA,San Francisco - Hawaii,153.0
+N70773,Los Angeles - Kansas City, MO,66.0
+AP-ATT,Rawalpindi - Skardu,4.0
+TG577,,41.0
+,Cairo - Yamen,31.0
+CF-CUQ,Vancouver - Whitehorse,52.0
+55-1036,Otis AFB,19.0
+N6503D,,12.0
+,,11.0
+777,Hong Kong - Da Nang,37.0
+OB-R-769,Panama City - Miami,7.0
+PP-BTH,Mato Grosso - Porto Velho,13.0
+N7036U,New York City - Chicago,30.0
+SP-LVA,Lille - Wroclaw,4.0
+149802,Hong Kong - Da Nang,72.0
+N6305U,,5.0
+PI-C942,Cebu - Bacolod,11.0
+ET-ABI,,17.0
+HC-AFQ,Coca - Pastaza,11.0
+XV-NIC,,39.0
+N708PA,Fort de France - Saint Johns, Antigua,30.0
+970,,10.0
+HK-118/HK-922F,Bogota - Bucaramanga,19.0
+VT-AUQ,,8.0
+F-BELV,,13.0
+PI-C-144,Manila - Tacloban,37.0
+G-APEE,Edinburgh - London,36.0
+316410,Djibouti - Obock,30.0
+TC-48,,68.0
+HK-1202,Neiva - San Vicente del Caguan,30.0
+N1996,New York City - Cincinnati,62.0
+CCCP-45086,,32.0
+N7030U,Denver - Salt Lake City,91.0
+N9915Z,,2.0
+N243F,Palm Springs - Burbank,8.0
+N485,Salt Lake - Albuquerque,13.0
+N748TW/N6218C,Boston - Newark,112.0
+HK-527,,8.0
+EC-ARZ,Tenerife - Manchester, England,32.0
+56-4376,Pleiku - Tuy Hoa,85.0
+N89805C,,2.0
+PI-C856,Manila - Legazpi,21.0
+N4554D,,3.0
+PK-GDU/PK-GDE,,34.0
+HK-730,Bogata - Crespo,64.0
+N4662,,35.0
+VT-DMN,Bombay - Beirut  - Geneva - Paris - London -New York,117.0
+54-0702,,46.0
+N598C,,3.0
+D-ACAT,Frankfurt - Bremen,46.0
+JA8302,Chitose - Tokyo,133.0
+PH-SAB,Srinngar - Jammu - Amritsar - Delhi,37.0
+N112U,,2.0
+VT-DPP,Calcutta - Delhi,80.0
+OO-ABG,Brussels - Milan,4.0
+CF-CPK,Hong Kong - Tokyo,72.0
+N1563V,,3.0
+G-APFE,Tokyo - Hong Kong,124.0
+N3296W,,6.0
+CF-MSK,,7.0
+OD-AEL,Beirut - Frankfurt,5.0
+SU-AOA,Nicosia - Cairo,30.0
+N1245N,,2.0
+N2486U,,2.0
+152171,,11.0
+N8744R,,2.0
+N183H,Monterey - Ardmore,98.0
+OB-R-771,Lima - Cuzco,49.0
+64-13138,,20.0
+N4546B,,2.0
+57-1444,,11.0
+N10415,Detroit, MI - Kansas City, MO,3.0
+CF-FBJ,Montreal - Kuujjuaq,2.0
+N17337,,12.0
+N5775Y,,4.0
+PI-C17,Mamburao - San Jose,26.0
+ZK-NZB,Training,5.0
+N538B,,4.0
+CP-730,Riberalta - Cochabamba,3.0
+N1553,Kansas City, MO - Omaha,42.0
+YR-TAN,Brasov - Mamia,24.0
+XA-PEI,Training,6.0
+N445,,4.0
+N1836H,,6.0
+150321,,1.0
+LV-GLA,Rio Gallegos -  Buenos Aires,16.0
+N88820,,9.0
+G-ANBB,Luton - Ljubljana,117.0
+VT-DSB,Training,4.0
+EC-AXC,,27.0
+VH-RMI,Mount Isa - Longreach,24.0
+HK-174,Bogota - Barranquilla,2.0
+N9101,Eugene - Portland,18.0
+63-9751,,32.0
+N1187W,,11.0
+CCCP-46467,,38.0
+N3279W,,6.0
+N411Z,,2.0
+N4816U,,3.0
+55-5262,Otis AFB,19.0
+JA8658,Osaka - Matsuyama,50.0
+N317PA,Frankfurt - Berlin,3.0
+N40406,,3.0
+VR-AAN,,30.0
+LZ-BEN,Bratislava - Praha,82.0
+4476574,Saigon - Korat AB,25.0
+PP-PCW,,11.0
+CCCP-76457,Moscow - Brazzaville,21.0
+N7301C,Miami - Bogota,59.0
+N228SW,,4.0
+HK-161,Bogota - Cali,29.0
+N2045D,,9.0
+N30046,,3.0
+,,10.0
+N4129P,,3.0
+G-ASOG,Manchester, England - Frankfurt, Germany,2.0
+YK-ACB,,19.0
+PP-SDJ,Sao Paulo - Curitiba,25.0
+N4855U,,2.0
+,,30.0
+CU-T827,Havana - Mexico City,10.0
+HB-IMF,Training,4.0
+N3796U,,2.0
+PK-GLB,Jakarta - Menado via Surabaya,63.0
+HR-SAG,San Pedro Sula - Tegucigalpa,55.0
+PI-C501,Manila - Mactan,20.0
+PP-PEA,Rome - Monrovia,90.0
+N73130,Colombus - Toledo,38.0
+F-BMHU,,6.0
+N1063T/N6127V,Pittsburgh - Dayton,26.0
+99844,Siagon - Cam Ranh Bay AB,25.0
+N2712,,4.0
+I-CLAI,Venezia - Belluno,5.0
+ZS-CVA,Port Elizabeth - East London,25.0
+N80194,,2.0
+N1333Z,,2.0
+N802E,New Orleans AP - New Orleans AP,6.0
+N7979Y,,2.0
+N706G,,5.0
+N3727G,,9.0
+,Yoido AB - Taegu,15.0
+7T-VAU,Algiers - Tamanrasset,39.0
+5-107,Shiraz - TerhanI,23.0
+HB-ITB,Bombay - Cairo,130.0
+53-0549,Otis AFB,15.0
+HK-326,,18.0
+PK-PFB,,21.0
+151365,,12.0
+N80013 / N5836W,,14.0
+N1301G,,4.0
+FAC-956,,16.0
+CF-NAD,,4.0
+CF-TJM,Training -Montreal - Ottawa,3.0
+G-APYK,,88.0
+G-ALHG,Palma de Mallorca - Manchester,84.0
+58-0737,,10.0
+HZ-AAJ,,18.0
+EI-APM,Glasgow - Dublin,2.0
+XA-FUW,La Paz - Mazatlan,4.0
+C-47-268,Belem - Cachimbo,25.0
+64-0547,,11.0
+60-0293,An Khe - Tan Son Nhut,56.0
+EI-AOF,Training,3.0
+N6936C,,7.0
+N1116J,Elmira - Washington DC,34.0
+638572/153305,,35.0
+HZ-AAM,Nejran - Jeddah,17.0
+HS-TGI,Seoul - Hong Kong,80.0
+PI-C527,Bacolod - Mactan,21.0
+5R-MAD,,42.0
+N68650/N3121S,Ashville - Roanoke,82.0
+XW-PDL,Vientiane - Luang Prabang,16.0
+B-112,Vientiane - Luang Prabang,18.0
+N3308W,,7.0
+39,,11.0
+54-0621,,11.0
+OK-WAI,Gander - Havana,69.0
+N9507Z,,8.0
+61-2649,,23.0
+N8372U,,3.0
+G-ARCO,Athens - Nicosia,66.0
+N396Z,,4.0
+B-1541,Phan Rang - Pleiku,16.0
+N2677B,,2.0
+EC-BDD,Malaga - London,37.0
+VR-HFX,Hong Kong - Saigon,127.0
+N742TW,Cincinnati - Los Angeles,36.0
+CCCP-75538,,130.0
+N821TW,Los Angeles - Cincinnati,82.0
+N784LC,,5.0
+N9450Z,,3.0
+62-4175,,26.0
+XW-PFM,,12.0
+OB-R-148,Huanuco - Tingo Maria,72.0
+N390R,Cleveland, OH - Madison WI,8.0
+N8501F,,3.0
+N3408W,,6.0
+XF702,,13.0
+N65276,Denver, CO - Scottsbluff, NE,2.0
+HS-TDH,Bangkok - Chiang Mai,31.0
+CCCP-46215,Riga - Liepaja,51.0
+N6139V,,6.0
+N82B,,4.0
+N7921V,,5.0
+153710,,42.0
+50850,Buckley ANGB - Seattle NAS,19.0
+SU-AJG,Cairo - Beirut,4.0
+152144,,12.0
+58-0026,,13.0
+F-OECD,,16.0
+153440,,12.0
+N791SA,Honolulu - Vancouver,61.0
+BL534,Chandigarh, Punjab - Leh, Kashmir,98.0
+B-1018,Hong Kong - Taipei,63.0
+N1838F,,3.0
+XW-TAD,Vientiane - Sayaboury,37.0
+CCCP-74252,Krasnoyarsk - Petropavlovsk,82.0
+F-BLCJ,Caracas - Pointe a Pitre,63.0
+54-0590,Hue - Khe Sanh,49.0
+PI-C871,Manila - Lapu Lapu,14.0
+43748,Saint Denis - Paris,20.0
+N2623F,,2.0
+N2224U,,5.0
+EI-AOM,Cork - London,61.0
+N970Z/N8669G,Peoria, IL - St. Louis, MO,51.0
+,,2.0
+153445,,12.0
+G-ARWE,London - Zurich,127.0
+CC-CBM,,36.0
+N3152R,,4.0
+XA-GEV,Aguascalientes - Mexico City,18.0
+WB833,,11.0
+6616441/6717255,,26.0
+ZS-EUW,Windhoek - Luanda,128.0
+CCCP-75526,Training,5.0
+N6275N,,5.0
+64145,,22.0
+N9707C,Houston - Dallas-Fort Worth,85.0
+XR133,Libya - England,11.0
+60-0297,,155.0
+N4307Y,,4.0
+N303Y,Anaheim - LAX,23.0
+PK-GJA,,29.0
+N7395U,,4.0
+N798PA,Bangkok - Karachi,63.0
+I-PIAI,,6.0
+,Kaunas - Ryazan / Moscow - Gomel,120.0
+,,29.0
+N6898D,,27.0
+G-AMAD,Deauville, France - London, England,8.0
+N5694Y,Ft. Lauderdale - Bahama Island,4.0
+HZ-AAZ,,11.0
+OO-SJK,Brussels - Lagos,7.0
+PP-VBJ,,3.0
+CC-CDI,,5.0
+51-5178,,10.0
+N8317S,,3.0
+I-DIWF,Rome - Milan,95.0
+N4634S / N8742S,,15.0
+G-ATFN,London - Innsbruck,48.0
+N712U,Cincinnati - Charlston, WV,37.0
+N3821,Halifax, NS - Santa Maria, Portugal,3.0
+N300Y,,21.0
+SU-AOL,Cairo - Damascus,40.0
+YV-C-AMY,,7.0
+N2520Y,,2.0
+LN-BFD,,6.0
+LZ-BEG,,89.0
+N8283F / N8828W,,9.0
+F-BOHB,Ajaccio - Nice,95.0
+55-3133,,52.0
+N90427,Lagos - Port Harcourt,57.0
+N674T,,3.0
+63-9753,,13.0
+639753/6619041,,25.0
+N4040B,,4.0
+TI-1063C,,10.0
+N5140Y,,3.0
+OK-MCY,Praha - Kosice,40.0
+17949,,10.0
+PP-SAD,,19.0
+450934,Saigon - Da Nang,23.0
+N380NE,Boston, MA - Montpelier, VT - Lebanon, NH,42.0
+N3810C,,8.0
+JA8032,Tokyo - San Francisco,107.0
+N7666,Los Angeles - Santa Ana,9.0
+N1386N,,28.0
+N2202T,,5.0
+N4905,Anchorage - Iliamna,39.0
+N433AC,,11.0
+N6257X,,3.0
+N494PA,New York City - Caracas,51.0
+N5802,Detroit - Erie - Bradford - Washington D.C.,47.0
+N760AL,Fairbanks - Prudhoe Bay,4.0
+N799PA,San Francisco - Anchorage - Cam Ranh Bay, Vietnam,3.0
+,Tijuana - Black Warrior Lagoon, Baja,12.0
+N2045,Minneapolis - Chicago - Milwaukee,45.0
+64-0545,,12.0
+N4901,Fairbanks - Bethel - Minchumina,5.0
+VH-RMQ,Perth - Port Hedland,26.0
+XA-SAE,Reynosa - Tampico,26.0
+B-309,Kaohsiung - Hualien,24.0
+N4048G,,2.0
+YA-FAR,Frankfurt - London,65.0
+N5825,Washington - Harrisburgh - Bradford - Erie - Detroit,28.0
+,,24.0
+LN-MOO,Copenhagen - Los Angeles - Seattle,45.0
+949,Hue - Da Nang,12.0
+N7434U,Los Angeles - Denver - Milwaukee,38.0
+65-0990,,13.0
+N8181H,Port Angeles - Seattle,10.0
+65-0990,,14.0
+N15570,Hawthorne, NV - Burbank - Long Beach,35.0
+B-2009,Kaohsiung - Taipei,36.0
+N563PR,Saint Thomas - San Juan,19.0
+YV-C-AVD,Maracaibo - Miami,84.0
+N73997 / N22790,,3.0
+SU-APC,Jeddah - Aswan,105.0
+N142D,Memphis - New Orleans,27.0
+N3914,,2.0
+SP-LTF,Warsaw - Cracow,53.0
+67-18523,,78.0
+CF-THK,,21.0
+135749,,31.0
+,Kinshasa - Luluaburg,45.0
+N167W,,9.0
+VT-DOJ,Silchar, India - Khulna, Bangladesh,44.0
+9G-AAF,,33.0
+67-21493,,18.0
+LQ-IPC,,11.0
+TC-28,Service mission,11.0
+66-19029,,74.0
+N1243N,Medford, NJ - Allentown, PA,2.0
+XY-ACR,,6.0
+I-ATIT,Rome - Reggio di Calabria,36.0
+XA-SEL,Mexico City - Monterey,79.0
+N2665S,,3.0
+62-4137,Shemya, AK - Eielson, AK,19.0
+N2550A,Pasco - Spokane,2.0
+,,14.0
+N844NS,Atlanta, GA - Sumpter, SC - Greer, SC,14.0
+9N-AAP,Katmandu - Simra,35.0
+N58Q,Sagwon,AK - Elusive Lake, AK,2.0
+N558MA,New York - Newark,14.0
+N3007T,McGrath, AK - Sparrevohn, AK,4.0
+N88G,Kalaupapa - Lihue,13.0
+N787TW,Training,5.0
+7T-VAK,Paris - Hassi Messaoud,37.0
+N73909,Sightseeing,3.0
+CF-NAJ,,4.0
+N8403E,Sightseeing,3.0
+N196X,Long Tieng, Laos - Sam Thong, Laos,13.0
+HC-ALK,,1.0
+,,112.0
+F-BHSZ,Caracas - Pointe a Pitre, Guadeloupe,62.0
+CCCP-11381,,8.0
+N3149X,Chicago - Des Moines.,3.0
+,,35.0
+67-21495,,16.0
+FAC-685,Bogota - Villavicencio,28.0
+N988VJ/N7374J,Indianapolis - Bakalar AFB,83.0
+PI-C1131,Mactan - Manilla,47.0
+PP-SPP,Camp Grande - Londrina - Sao Palo,21.0
+CF-PWR,Vancouver - Campbell River,15.0
+XV-NUG,Pleiku - Da Nang,76.0
+XA-SEJ,Chicago - Mexico City,118.0
+CP-698,Santa Cruz - La Paz,74.0
+N52676,,5.0
+152796,,26.0
+N590CA,Rawling, WY - Denver, CO,5.0
+CF-AAL,Winisk - Timmins,4.0
+N8216V,Sitka, AK - Pt. Alexander, AK,2.0
+CCCP-11376,,9.0
+N7811M,Albany - Glenn Falls,14.0
+5N-ABD,Kano - Lagos,87.0
+SX-DAE,Chania - Athens,90.0
+N5090Y,Houlton, ME - Portland, ME,3.0
+150879,,1.0
+B-2005,,77.0
+XW-TDJ,,19.0
+N3472Y,Nulato, AK - Tanana, AK,4.0
+EC-BNM,Stockholm - Zurich,10.0
+,,27.0
+5W-FAC,Apia, Western Samoa - Pago Pago, American Samoa,32.0
+OB-R-776,Trujillo - Juanjui,28.0
+N3766,Detroit, MI - Chicago, IL,2.0
+XB-DOK,,19.0
+9N-AAR,Kathmandu - Delhi,23.0
+CCCP-47701,,34.0
+N2300H,Cleveland - Detroit,9.0
+CCCP-45083,,11.0
+LV-HGW,Corrientes - Rosario,37.0
+YR-AMT,Bucharest - Oradea,22.0
+CCCP-75798,,92.0
+N124PM,Groton, CT - New York, NY,5.0
+HK-1270,,12.0
+HI-177,Santo Domingo - San Juan,102.0
+N3218Q,Sherbrooke, Canada - Newark, NJ,4.0
+9Q-CUD,,17.0
+HB-ICD,Zurich - Tel Aviv,47.0
+D-INAH,Munchen - St. Moritz,11.0
+PP-BUF,Reclife - Belem,40.0
+145927,Taiwan - Da Nang,31.0
+N497DM,Binghamton, NY - Washington DC,11.0
+N4121R,Grand Canyon - Las Vegas,6.0
+CN-CCV,Agadir - Casablanca,82.0
+CCCP-47751,,45.0
+N3241W,Teterboro, NJ - Cambridge, MD,3.0
+54-1625,,10.0
+PI-C-1022,Cuayan - Manila,36.0
+MM52-6018,,19.0
+VH-TGR,,11.0
+N935F,New York City - St. Maarten,63.0
+52-5822,,14.0
+6O-AAJ,,30.0
+PI-C532,,33.0
+N434EJ,Detroit - Pellston,6.0
+CCCP11149,,11.0
+YV-C-AMK,,6.0
+HR-ASN,,6.0
+N40412,Chamblee, GA - Fort Myers,FL,33.0
+OK-NDO,,13.0
+PI-C507,Manila - Bacolod,44.0
+TC-75,,8.0
+N154R,McGrath AK - Galena, AK,27.0
+G-APDN,Manchester - Barcelona,112.0
+CF-TIW,Montreal - Toronto - Los Angeles,109.0
+CCCP-09303,Reykjavik - Halifax - Sidney,23.0
+N3016L,San Antonio, TX - Rudioso, NM,7.0
+N785FT,Tokyo - Okinawa,4.0
+,,37.0
+152159,Las Vegas - San Diego,10.0
+AP-ALM,Rawalpindi - Lahore,30.0
+OB-R939,Cuzco - Lima,100.0
+B-156,Hwa-Lien,31.0
+67-18445,,32.0
+VT-DWT,Silchar - Gauhati,39.0
+PH-NVA,,10.0
+CCCP-45012,,37.0
+CCCP-87690,,22.0
+N4863T,Jamaica, NY - Washington D.C.,11.0
+N855JA,San Juan - Ponce,1.0
+N2346S,Portland, OR - Cranbrook, Canada,4.0
+TF-FIL,,34.0
+B- 305,Pleiku - Hue,38.0
+CCCP-11031,,8.0
+N464M,Wichita - Denver - Logan, Utah,40.0
+64-0536,Taipei - Ching Chuan Kang,43.0
+N701X,Dubois, PA - Roanoak, VA,2.0
+ZS-DKR,Johannesberg - Orapa Mine, Botswana,11.0
+N9248R,Dayton, OH - Ft. Dix, NJ,3.0
+N7667J,Teleboro, NJ  - Wilmington, DE,2.0
+HK-792,,4.0
+N97S,Kingston, NC - Huntington, WV,75.0
+53-03724/560,,18.0
+N4909C,Anchorage - Yokota AFB,229.0
+55-4574,Saigon - Nha Trang AB,79.0
+54-0649,Cam Ranh Bay AB - Siagon,44.0
+TF-LLG,,4.0
+VT-CZC,,16.0
+YR-BCA,Tel Aviv - Constanta,27.0
+CCCP-09305,,25.0
+N8790R,New York - St. Thomas,55.0
+AP-AUV,,35.0
+F-BNGB,Algiers - Menorca,31.0
+CCCP-75773,Leningrad - Erevan,93.0
+SU-ALC,Algers - Boumediene,16.0
+N7595A/N60942,San Francisco, CA - Newark, NJ,21.0
+LZ-BED,Paris - Zurich - Sofia,47.0
+F-RBOA,Paris - Orange,21.0
+FAP-381,Mazamari - Lima,35.0
+CCCP 11000,,13.0
+PT-LJR,,8.0
+HL-5212,Kangnung - Seoul,60.0
+YV-C-AMV,Merida - Maiquetia,48.0
+CCCP-12996,,7.0
+N3680K,Mona Is., PR - Mayaguez, PR,3.0
+TAM-60,La Paz - San Borja,12.0
+VT-ATT,Gauhati - Calcutta,15.0
+N3166,Los Angeles - Ontairo,5.0
+CCCP-11145,,64.0
+293246,Manila - Nichols AFB,40.0
+N4960F,Kayenta, AZ - Tucon, AZ,2.0
+N456T,C. Amalie, VI - San Juan, PR,8.0
+N144H,Manchester, NH - Boston, MS,4.0
+N4922V,Tucon, AZ - Phoenix, AZ,12.0
+TG-ACA-A,Guatemala City - Tikal,35.0
+N9222,Sagwon, AK - Local,4.0
+YU-AHZ,London - Rijeka,83.0
+37653,,11.0
+N601JJ,Atlanta, GA - Martinsville, VA,6.0
+HA-MOC,Oslo, Norway - East Berlin, German,34.0
+ST-AAY,,42.0
+N9345/151458,Los Angeles - Salt Lake City,51.0
+N5832,Washington D.C. - Newport News, VA - Philadelphia,31.0
+61-0331,Hickam AFB - Pango Pango,24.0
+CP-926,Santa Cruz - Arica,6.0
+N90627,Shelter Cove, CA - San Jose, CA,24.0
+JA8764,Sapporo - Hakodate,68.0
+N7893S,Fairbanks, AK - Local,3.0
+6V-AAP,,6.0
+N461PA,San Francisco - Honolulu - Guam - Manila - Siagon,4.0
+CCCP-42405,Novosibirsk - Irkutsk,126.0
+JA8329 / ,Sapporo - Tokyo,164.0
+N747PA,San Francisco - Los Angeles,218.0
+49,Exercises,39.0
+,Odessa - Irkutsk - Vladivostok,100.0
+N5096V,Valdez, AK - Local,2.0
+66-19023,Ludwigsburg - Grafenwohr,37.0
+N595DE,Boston, MA - Rockville, ME diverted to  Augusta ME,8.0
+VT-DXG,Trivandrum - Madurai,31.0
+N2969G,Anchorage - Seattle,111.0
+D-ALAR,Hamburg, Germany - Malaga, Spain,121.0
+N2779B,Temple, TX - Columbus, GA,5.0
+4W-ABI,,5.0
+HA-LBD,Budapest - Kiev,49.0
+PP-CBV,Cruzerio do Sul - Rio Branco,32.0
+G-APEC,London - Salzburg,63.0
+CCCP-42490,,20.0
+N3250Q,Las Vegas - Grand Canyon,10.0
+N20DE,Detroit, MI - Hot Springs, VA,6.0
+HK- 595,,22.0
+N51CS,Chicago, IL - Peoria, IL,16.0
+,,31.0
+N986MA,Jamaica, NY - Allentown, PA,8.0
+XV216,San Giusto - Sardinia,52.0
+PK-MVS,Jakarta - Padang,69.0
+CCCP-46809,,47.0
+B-1852,Taipei - Hong Kong,25.0
+68-15866,Da Nang - Camp Eagle,34.0
+CCCP-46788,,57.0
+N8943E / N2110F,Miami, FL - Raleigh, NC,29.0
+,,47.0
+LZ-BES,Sofia IAP - Algiers,73.0
+OB-R-941,Lima - Pucallpa,92.0
+XA-SEV,Chetumel - Merida,23.0
+EC-ATV,Valencia - Ibiza,104.0
+N4897P,Omaha, NE - Hot Springs, SD,3.0
+TC-JAC,Damascus - Ankara,8.0
+HK-1347,Bogota - San Andres,20.0
+FAC-661,Medellin - Buenaventura,39.0
+YU-AHT,Stockholm - Belgrade,28.0
+XW-PEH,,9.0
+393,Ban Xon - Pha Khao,38.0
+N8933U,Gallup, NM - Battle Mountain, NV,2.0
+HK-1139,Bogota - Valledupar,19.0
+XW-TDE,Savannakhet - Vientiane,23.0
+N80398,Chicago, IL - Detroit, MI,2.0
+62-1813,,7.0
+N1027C,Hailey, ID - Boise, ID,4.0
+N5642V,Honolulu, HI - Lanai, HI,8.0
+N7818M,New York City - Albany, NY,48.0
+58-0048,,5.0
+OY-STL,Colombo - Dubai,112.0
+YU-AHR,Cairo - Aden,22.0
+55-0044,,14.0
+YV-C-EVF,,2.0
+PP-SMI,Sao Paulo - Rio de Janeiro,25.0
+I-ATIP,Rome - Foggia,18.0
+N8467E,Sightseeing,3.0
+5X-UVA,Addis Ababa - Rome,107.0
+OB-R-653,,6.0
+N391R,Long Tieng, Laos - Moung Cha, Laos,10.0
+64-0508,,6.0
+CCCP-87778,,18.0
+I-DIWB,Rome - Palermo,115.0
+YV-C-GAI,Ciudad - La Centella,7.0
+,Bien Hoa - Vung Tau,34.0
+N841NS,Albuquerque, NM - Sante Fe, NM,9.0
+CR-LLD,Luanda - Lobito - Sa Da Bandeira,25.0
+D-IDHC,,13.0
+N2256W,Dulac, LA - Gulf oil platform,11.0
+PP-PDG,,18.0
+N3305L,Training,4.0
+N3990G,Fairbanks, AK - Valdez, AK,2.0
+N234AP,Arkansas City, KS - White Plains, NY,2.0
+15-2182,Rota - Souda Bay,14.0
+EM2,Siagon - Hue-Phu Bai - Pleiku,32.0
+CC-CDU,,3.0
+,,47.0
+JA8012,Bangkok - Delhi,87.0
+VR-HFZ,Bangkok - Hong Kong,81.0
+N9077N,Harlingen, TX - Austin, TX,5.0
+55-0043,,15.0
+CCCP-11215,,122.0
+G-ARPI,London - Brussels,118.0
+N554PR,San Juan - Ponce,20.0
+N9067F,Almond Dam, NY - Salamanica, NY,3.0
+N90858/N4043B,Chicago, IL - Appleton, WI - Sheboygan, WI,13.0
+D-CASY,,8.0
+N29169,Sightseeing,5.0
+,Sacramento - San Francisco,86.0
+EC-ARA,Las Palmas - Hamberg, Germany,10.0
+156658,,67.0
+67-056,Bardufoss - Bodoe,19.0
+,,84.0
+HK1341X/HK107,,38.0
+62-1853,,44.0
+VT-DME,Gwalior - Delhi,18.0
+DM-SEA,Berlin - Birgas,156.0
+XY-ACM,Sandoway - Rangoon,31.0
+YV-C-AKE,Canaima - C iudad,34.0
+A4-233,Lae - Port Moresby,29.0
+CCCP-74298,,101.0
+VH-PNI,,4.0
+CP-959,,8.0
+ET-ABQ,Axum - Gondar,11.0
+9N-RF10,Panchkhal - Tribuvan,31.0
+N275X,,1.0
+XV-NUH,Vientiane - Saigon,13.0
+EC-AQE,Training,6.0
+XW-TDA,,9.0
+CCCP-75507,Adler - Moscow,109.0
+N4900,Bimini, Bahamas - Nassau, Bahamas,2.0
+CCCP-86671,Leningrad - Moscow,174.0
+T-571,Mendoza - Santiago,45.0
+N1812H,Anchorage, AK - Juneau, AK,4.0
+SX-BBQ,Kerkira - Athens,53.0
+F-OCRH,,8.0
+F-BMCH,Lyon - Clermont,68.0
+I-ATIR,Napoli - Bari,27.0
+,,22.0
+LZ-ILA,Burgas - Sofia,35.0
+N2700S,Hopkinsville, KY - Lexington, KY,11.0
+JA8040,Moscow - Tokyo,76.0
+N717B,Minneapolis, MN - St. Paul, MN,2.0
+EC-BZR,Tenerife - Munchen,155.0
+SU-AOW,Training,6.0
+64-0558,,12.0
+CF-AUQ,,3.0
+AP-AUS,Gilgit - Rawalpindi,26.0
+N3483Q,Spokan, WA - Walla Walla, WA,4.0
+N9031U,Washington - Chicago,61.0
+N20M,Detroit, MI - Lexington, KY,2.0
+N8897E/N954N,Tampa - Chicago / Chicago - Madison,133.0
+56-0490,,16.0
+F-OGFE,Guadeloupe - St. Maarten,13.0
+LN-SUY,Alesund - Oslo,45.0
+N310EA,New York City - Miami,176.0
+N500AE,San Juan, PR - Managua, Nicaragua,5.0
+CF-PWZ,Toronto - Edmonton,5.0
+G-AOHI,Test flight,4.0
+CCCP-46276,,44.0
+JY-ADO,Jeddah - Lagos,202.0
+N7295E,Knoxville, TN - Andrews, NC,4.0
+HR-TNO,,3.0
+SU-AOY,Cairo - Nicosia,37.0
+N9929V,Bethel, AK - Chevak, AK,2.0
+CCCP-85023,Moscow - Praha,100.0
+N14831,Oil platform - Morgan City, LA,5.0
+HP-560,David - Changuinola,28.0
+5A-DAH,Tripoli - Cairo,113.0
+N3149L,Mt. Empire, VT - Springfield, VT,2.0
+CCCP-75712,,79.0
+CCCP-87602,,32.0
+12,,15.0
+12,Warsaw - Goleniow,18.0
+PK-NUC,,13.0
+LZ-BEM,Sofia - Moscow,25.0
+EC-BID,,3.0
+EC-BII/EC-BJC,Palma de Mallorca - London,182.0
+524,,4.0
+VT-EAU,Training,3.0
+152749,,5.0
+XV-NUI,Saigon - Ban Me,62.0
+G-AXOP,Bristol - Basel,145.0
+157332/N711NA,,17.0
+N711NA / 157332,,16.0
+YA-GAT,Bamiyan - Kabul,19.0
+N310WA,,6.0
+N2985Q,Concord, NH - Greenville, ME,4.0
+N1214S,Fairbanks, AK - Prudhoe, Alaska,5.0
+CCCP-42411,Moscow - Chita,100.0
+XW-TDM,,11.0
+CF-QBB,,4.0
+VT-EAM,Madras - Delhi,65.0
+PP-PDX,Belem - Sao Luis,23.0
+CCCP-77102,Demonstration,6.0
+PP-VLJ,,4.0
+XA-SOC,Houston - Puerto Vallarta,27.0
+CCCP-65668,Amman, Jordan - Beiruit, Lebanon - Yerevan, Armenia,84.0
+PP-VJZ,Rio - de Janerio - Paris,134.0
+N417PA,Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles,79.0
+N4215,Marion, IL - St. Louis,44.0
+N234JC,Honolulu - Lihue,5.0
+N975NE,Burlilngton, VT  - Boston, MA,89.0
+N70295,Ketchikan, AK - Metlakatla, AK,5.0
+SSR-42486,Tbilisi - Moscow,119.0
+EC-BIC,Madrid - La Coruna,85.0
+N38JA,Port Au Prince - Cap Haitien,10.0
+CCCP-46435,,64.0
+HK-111,Villavicencio - El Yopal,17.0
+HK-777,Bogota - Cartagena,42.0
+63-8077,Athens - Madrid,25.0
+N8705T,Honolulu - Los Angeles,149.0
+N7881Y / N6270F,Grand Rapids, MI - Gary, IN,5.0
+N802WA,Travis AFB - Clark AFB - Yokota AFB, Japan,6.0
+N1834H,Humbolt, TN - Paintsville, KY,4.0
+YU-AHD,Skopje - Titograd,41.0
+N50JR,Natchitoches, La - Dallas, TX,6.0
+N3015C,Bakersfield, CA - Long Beach, CA,2.0
+N40LB,Lincoln, NB - Omaha, NB,3.0
+N94230,Memphis - El Dorado - Texarkana - Dallas,11.0
+PT-CEV,,9.0
+CCCP-42506,,108.0
+CCCP-12967,,10.0
+PT-DVN,,8.0
+PP-SMJ,Rio de Janeiro - Belo Horizonte,65.0
+N37JA,,4.0
+N6273Q,La Verne, California - Willow Rock, Arizona,7.0
+HK- 718,Arauca - Cucuta,16.0
+N60NA,Miami, FL - San Francisco, CA,128.0
+N458PA,New York City - Prestwick,3.0
+XV-NIE,,27.0
+CCCP-42503,,72.0
+CF- CFL,Montreal - Churchill Falls,8.0
+131615,Elmendorf AFB - Adak,10.0
+CCCP-45061,,51.0
+N407PA,Rome - Beirut,177.0
+N3269X,Norman, OK - Manhattan, KS,2.0
+TAM-47,US - La Paz,9.0
+,,20.0
+OO-SRD,Paris - Tanger,106.0
+CCCP-45004,,17.0
+ZS-DAK,,25.0
+I-TIDE,Bologna - Torino,42.0
+CP-990,San Borja - La Paz,4.0
+N125AE,Pittsburgh, PA - Johnstown, PA,17.0
+CCCP-46357,,24.0
+FAC-1103,Florencia - Bogota,31.0
+TAM-52,Santa Rose - La Paz,24.0
+HK-1216,,14.0
+CCCP-46277,,4.0
+N7888G,Ephrata, WA - Portland, OR,2.0
+TC-JAO,Izmir - Istanbul,73.0
+N633Q,Taos, NM - Albuquerque, NM,3.0
+N5290S,Thief River, MN - Owatonna, MN,4.0
+N454PA,Auckland - Pago Pago,101.0
+N732PA,San Francisco, CA - Honolulu, HI - Agana, Guam,298.0
+50-63,,40.0
+N864JA,St. Croix, VI - St. Thomas, VI,2.0
+,Baltimore - Atlanta,15.0
+CP-1052,,7.0
+5-122,,10.0
+TC-JAV,Paris - London,346.0
+,,18.0
+N8118Q,Carson City, NV - San Jose, CA,4.0
+N4819C,Bishop - Burbank,36.0
+OY-STK,Tehran - Kobenhavn,96.0
+A2-ZER,Francistown - Malawi,84.0
+N28358,Keahole, HI - Kahului, HI,11.0
+N446PA,Hong Kong - Bali, Indonesia - Sydney, Austrailia,107.0
+CCCP-75405,,115.0
+CCCP-75559,,118.0
+N853SA,Galveston, TX - Houston, TX,12.0
+HC-AUC,Pastaza - Ambato,24.0
+TF-OAE,Nice - Nurnberg,3.0
+N14ST,Alameda, CA - Indianapolis, IN,3.0
+CCCP-87579,,29.0
+CF-QWJ,,2.0
+HK-1058,Bucaramanga - Cucuta,44.0
+XW-TFR,Battambang - Phnom Penh,39.0
+N8679,Umiat, AK - Local,5.0
+HK-728,,3.0
+ST-4,Phnom Penh - Siagon,5.0
+C-FTAT,LaTuque - St. Honore,11.0
+115461,Beirut, Lebanon  - Damascas, Syria,9.0
+TZ-ABE,Bamako, Mali - Kano, Nigeria,60.0
+HK-508,Tumaco - Bogota,27.0
+N7620,Dietrich, AK - Happy Valley, AK,4.0
+YV-C-AMX,Cumana - Porlamar,49.0
+65-0274,Howard AFB, Panama - La Paz, Bolivia,7.0
+9T-TCD,,31.0
+PK-GFJ,,39.0
+N8734,Tel Aviv - Athens - Rome - New York,88.0
+N8984E,Charleston, SC - Charlotte, NC - Chicago, IL,82.0
+XV-NJC,Da Nang - Saigon,75.0
+N15528,Las Vegas, NV - Riverside, CA,5.0
+N70026,Fairbanks, AK - Dietrich, AK,2.0
+N357V,Fairbanks, AK - Lupine, AK,6.0
+N864JA,Saint Croix - Saint Thomas,2.0
+N2970W,,3.0
+SU-AXB,Training,6.0
+65-0965,,6.0
+N129WA,Kassan, AK - Coffman Cove, AK,8.0
+RP-C643,,8.0
+N20673,Kingman, AZ - Deming, NM,2.0
+N979L,Dallas, TX - Altus, OK,4.0
+N2HN,Indianapolis, IN - Chicago, Il,3.0
+N2580P,Willow, AK - Local,3.0
+N102AK,Fairbanks - Bettles,4.0
+N414K,Gallup, NM - Rapid City, SD,2.0
+C-FPAB,,34.0
+OY-DVJ,,3.0
+N97702Z,Juneau, AK - Tenakee, AK,4.0
+RP-C570,,8.0
+ET-AAR,Soddu - Beica,24.0
+D-ABYB,Nairobi - Johannesburg,157.0
+EC-CGG,,4.0
+N274US,New York City, NY - Buffalo, NY,3.0
+N54328,Columbus - Washington D.C.,92.0
+PH-MHB,Surabaya - Jeddah,191.0
+N1583V,Old Harbor, AK - Kodiac, AK,5.0
+,,54.0
+CCCP-87630,,7.0
+YV-C-AVM,,77.0
+N66HA,Riverton Heights, WA - Oak Harbor, OR,6.0
+YR-AMD,,33.0
+CCCP-45037,,61.0
+ST-1,Da Lat - Nha Trang,9.0
+N71972,Richland, WA  - Seattle, WA,4.0
+AE-259,,12.0
+FAC-688,San Vicente del Caguan - Florencia,21.0
+N6383,Ontario - Los Angeles,14.0
+N1944,Juneau, AK - Return,5.0
+HA-MOH,Berlin - Budapest,9.0
+,,16.0
+TC-JAP,Izmir - Istanbul,42.0
+HI-222,Santo Domingo - Port-au-Prince,30.0
+N54734,Kenai, AK - Gulkana, AK,2.0
+N15HC,Lawton, OK - Huntsville, TX,16.0
+RP-C1028,Manila - Iligan,33.0
+5063,,40.0
+N77DG,Fairbanks - Happy Valley Camp,3.0
+HK-1972,Medellin, Colombia - Miami, Florida,5.0
+PP-SBE,Sao Paulo - Bauru,15.0
+N2061C,Moline, IL - Racine IL,4.0
+XV-NUJ,,26.0
+TC-72,El Palomar AB - San Carlos de Bariloche,55.0
+ST-ADB,,6.0
+64-0641,Clark AFB - Japan,16.0
+68-218,Tan Son AFB - Clark AFB,330.0
+N7634Q,Fresno, CA - Santa Barbara, CA,3.0
+N59521,Anaktuvak, AK - Deadhorse, AK,4.0
+FAC- 663,Ocana - Cucuta,6.0
+VH-SJQ,,2.0
+N5067Y,Savoonga, AK - Gambell, AK,6.0
+68-10933,Nakhom Phanom AB - Utapao AB,23.0
+RP-C1184,Legaspi - Manilla,64.0
+PP-VDN,,15.0
+N8845E,New Orleans - New York City,124.0
+N791A,Detroit, MI - Peducah, KY,2.0
+HK-1309,Cucuta - Tame,3.0
+F-BTQE,Nantes - Brest,8.0
+FAC-970,,10.0
+HK-1976,Bogota  - Barranquilla,4.0
+N6817L,Homer, AK - Local,2.0
+N58137,Poway, CA - Pomona, CA,4.0
+CCCP-87475,,41.0
+57-0454,Exercise,6.0
+B-2029,Hualien - Taipei,76.0
+JY-AEE,Paris - Agadir,188.0
+412,Veracruz - Managua,20.0
+N88777,Denver - Wichita,131.0
+CCCP-87323,,28.0
+OK-DBF,Prague, Czechoslovakia - Damascus, Syria,128.0
+N44323,Monticello, NY - Portsmoutn, OH,4.0
+412,,20.0
+N4904,Nome - Gambell,32.0
+DM-SCD,Stuttgart - Leipzig,34.0
+ET-ABX,Bahar Dar - Debra Marcos,9.0
+PK-GVC,Jakarta - Palembang,61.0
+HA-LCI,Budapest - Beirut, Lebanon,60.0
+CF-MHU,Prince George - Dease Lake,7.0
+HK-1272,Bogota - Barranquilla,4.0
+VH-CLS,Mount Isa - Cairns,11.0
+N1495X,Las Vegas, NV - So. Lake Tahoe, CA,2.0
+TAM-44,Tomonoco - La Paz,67.0
+YU-AJO,Tivat - Praha,120.0
+N90057,,9.0
+N4QA,Latrobe, PA - State College, PA,4.0
+TG-AGA,Uaxactun - Flores,22.0
+CCCP-46349,,19.0
+CCCP-87458,,6.0
+LZ-ANA,Sofia - Varna,48.0
+11,,20.0
+N6645Y,,6.0
+N52SA,Ely, NV - Elko, NV,2.0
+RP-C2136,,9.0
+N133MA,Denver, CO - Grandby, CO,9.0
+OD-AFT,Beirut - Dubai,82.0
+CCCP-45036,Moscow - Vnukovo,61.0
+N651LJ,Anchorage, AK - Deadhorse, AK,6.0
+N5258Y,Albuquerque, NM - Gallup, NM,4.0
+RP-C2135,,7.0
+HK-172,Bogota - La Macarene,13.0
+N7385V,Butte, MT - Kooskia, ID,3.0
+CP- 573,,10.0
+FAE-683,Loja - Guayaquil,42.0
+B-492,Guangzhou - Changsha,40.0
+PT-TBD,,11.0
+CCCP-75558,Training,6.0
+N3329G,Lafayette, LA - Patterson, LA,2.0
+HK-1389,Santa Maria - Curacao,3.0
+60-0368,Mildenhall, England - Torrejon AFB,7.0
+N9172F,,4.0
+N901MA,Burbank - Ontario,6.0
+CCCP-42327,,24.0
+N4772C,St. Thomas, VI - St. Croix, VI,11.0
+YR-ILO,,9.0
+TAM-76,Camiri - Itaguasurenda,22.0
+CCCP-75408,Moscow - Yerevan,120.0
+N91142,South Nanek, AK - Dillingham, AK,4.0
+N1631V,Palm Springs, CA - Santa Ana, CA,2.0
+CU-T879,Training,5.0
+FAC-676,Florencia - Puerto Asis,16.0
+N124AS,Juneau - Ketchikan,50.0
+N1645U,Burlington, WA - Friday Harbor, WA,7.0
+N6061S,Denver, CO - Aspen, CO,2.0
+LV-HHB,,34.0
+N37D,San Diego, CA - Palm Desert, CA,6.0
+N8167J,,12.0
+N1707U,Anaktuvuk, AK - Bettles, AK,5.0
+N1963,New York City - Saint Thomas,88.0
+C-GDHA,,11.0
+RP-C2140,,10.0
+SX-BBR,Athens - Larisa,50.0
+5-283,Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey,17.0
+CCCP-46534,,52.0
+N55951,Haines, AK - Wrangell, AK,6.0
+RP-C1161,Davao - Manila,87.0
+CCCP-85102,Luanda - Moscow,46.0
+RP-C1061,Wake Island - Guam - Manila,45.0
+9M-ATZ,,12.0
+N7894S,Grand Junction, CO - Somerset, CO,2.0
+F-BVGG,Tel-Aviv - Athens - Paris,258.0
+,,17.0
+N7941C,,5.0
+N56712,Ulysses, KS - Greensburg, KS,3.0
+OK-NAB,Prague - Bratislava,79.0
+N8681Q,Billings, MT - Cody, WY,4.0
+HL7412,Tehran, Iran - Seoul, Korea,5.0
+T4/11-352,Moron - Canary Islands,33.0
+HC-ARS,Quito - Cuenca,59.0
+N9924X,Sunnyside, UT - Salt Lake City, UT,3.0
+OB-R-1104,Lima - Caracas,6.0
+67-0008,Thule AB - Sondrestrom AB,27.0
+67-0006,McGuire AFB - Mildenhall RAF,18.0
+F-BSGZ,Ho Chi Minh City - Bangkok,20.0
+7772,Caracas - Praira da Vitoria,68.0
+CF-MIT,Moosonee - Timmins,10.0
+46518/87772,Donetsk - Sochi /Rostov na Donu - Kerch,90.0
+YU-AJR/G-AWZT,Split - Koln / London - Istanbul,176.0
+TC-JBH,Istanbul - Antalya,154.0
+C-FAWF,,19.0
+N9389,Dagget, CA - Loma Linda, CA,4.0
+61-0296,,20.0
+TZ-ARC,,4.0
+CU-T1201,Bridgetown - Kingston,73.0
+N15025,Greensville, NC - Philadelphia, PA,4.0
+VT-DWN,Mumbai - Chennai,95.0
+N730JP,Santa Cruz - Viru,3.0
+N61436,Washington D.C. - Baltimore, MD,4.0
+HK-149,Villavicencio - Cucuta,32.0
+PT-TBA,,6.0
+PK-KFR,,38.0
+HP-671,Curacao - Port-au-Prince,2.0
+HB-LHT,Shannon, Ireland - Geneva, Switzerland,5.0
+C-FPWX,,6.0
+CCCP-42471,Moscow - Leningrad,72.0
+N4125R,Grand Canyon, AZ - Denver, CO,2.0
+N101AC,AtlantiCity - Cap May,10.0
+CCCP-46672,,55.0
+SU-AXA,Cairo - Bangkok,53.0
+N4573P,Anguilla Island, WI - Beef Island, WI,6.0
+OB-R-247,Trujillo - Tarapoto,19.0
+N12MK,Palm Springs - Las Vegas,4.0
+CCCP-42369,Novosibirsk - Alma Ata,96.0
+JA8054,Mosses Lake, WA - Tokyo, Japan,5.0
+C-GNTB,Prince George - Prince Rupert,12.0
+SE-FOZ,Malmo - Bromma,22.0
+C-FWAD,,2.0
+CP-983,,6.0
+OK-OCA,,5.0
+CCCP-75520,Tashkent - Mineralnyye Vody,77.0
+C-FNAR,,10.0
+7O-ABF,Aden - Al Kari,21.0
+MM61995,Training,44.0
+N8635,Paris, France - Niamey, Nigher,4.0
+N280F,Saint Louis, MO - Detroit, MI,3.0
+C-GNLL,Prince George - Tezzeron Lake,5.0
+N736PA/PH-BUF,Tenerife - Las Palmas / Tenerife - Las Palmas,644.0
+PK-NUP,Palu - Toli Toli,23.0
+CCCP-87738,,27.0
+N1335U,Huntsville - Atlanta,85.0
+HK-556,Villavicencio - Bogota,35.0
+,Parnu - Tapa,21.0
+TG-ACA,,28.0
+360,,54.0
+SP-LZA,Varna, Bulgaria  - Beiruit, Lebanon,9.0
+G-BEBP,Nairobi, Kenya  - Luskaka, Zambia,6.0
+N619PA,Pan Am building - JFK Airport,25.0
+CCCP-86614,,70.0
+N3345L,Houma, LA - Return,3.0
+FAB2157,,18.0
+CX-BJE,Carrasco - Salto-Nueva Hesperides,15.0
+156176,,16.0
+CCCP-46847,,7.0
+,,30.0
+ET-ABF,Tippi - Jima,5.0
+N22JA,Ruby - Colorado Creek,4.0
+FAC-989,Punta Arenas - Santiago,82.0
+FAH-301,Yoro - Honduran,40.0
+N9228K,Boise, ID - Flying B Ranch, ID,5.0
+N4TV,Burbank - Santa Barbara,2.0
+T-87,El Bolson - Rivadavia,6.0
+N8062Z,Albuquerque, NM - Las Cruces, NM,4.0
+N9265Q,Buffalo, NY - Parkersburg, WV,4.0
+N8817E,,3.0
+N59382,Deadhorse, AK - Eskimo Island, AK,3.0
+N4917,Honolulu - Kona,2.0
+G-ATZH,,4.0
+N99798,Minto Lake, AK - Fairbanks, AK,3.0
+HC-BCL,Guayaquil - Cuenca,33.0
+N563MA,Iliamna - Anchorage,13.0
+XY-AEH,Mongasat - Keng Tung,19.0
+N6314J,Yakutat - Anchorage,4.0
+62-3536,Kirkland AFB - Nellis AFB,20.0
+HA-LBC,Istanbul - Bucharest,53.0
+N1452M,Salida, CO - Cortez, CO,6.0
+JA-8051,Hong Kong - Kuala Lumpur,79.0
+N64391,Kenmore, WA - Lake Hatheume, Canada,7.0
+N157AL,New Iberia, LA - Grand Chenier, LA,2.0
+N55VM,Greenville - Baton Rouge,26.0
+157139,,37.0
+,,
+XA-FUA,Palenque - San Cristobal de las Casas,13.0
+CS-TBR,Brussels - Funchal,164.0
+ET-ACD,Rome, Italy - Asmara, Ethiopia,5.0
+N36MN,,2.0
+LV-JGY,Buenos  Aires - San Carlos de Bariloche,79.0
+182,,34.0
+N4461S,Charlotte, NC - Pinehurst, NC,2.0
+LZ-BTN,Jeddah - Benghazi,165.0
+9M-MBD,Penang - Kuala Lumpur,100.0
+N4730S,,19.0
+CCCP-47695,,23.0
+153428,,13.0
+N51071,Evansville - Nashville,29.0
+N1634H,Davenport, IA - Davenport, IA,2.0
+HB-ICK,Geneva - Funchal,57.0
+N8047U,San Francisco, CA - Salt Lake City, Utah,3.0
+N862JA,St Croix, VI - Vieques, PR,10.0
+CF-ABW,,8.0
+N116MM,Houston, TX - Austin, TX,2.0
+,,10.0
+HC-BEM,Guayaquil - Cuenca,24.0
+VT-EBD,Bombay - Dubai,213.0
+N719047,Greenville, KY - Marion, IL,2.0
+N1BE,Dubois, PA - Lancaster, PA,2.0
+HK-1351X,Neiva - San Vincente,14.0
+PT-GKW,,14.0
+T511,Artigas - Montevideo,44.0
+N199EA,Richland, WA - Seattle, WA,17.0
+C-FPWC,Calgary - Cranbrook,49.0
+N4307W,Los Angeles, CA - Lake Tahoe, CA,4.0
+N4508L,Dillingham, AK - Anchorage, AK,3.0
+N6143X,Visalia, CA - Santa Barbara, CA - Santa Maria, CA,7.0
+N68045,Los Angeles - Honolulu,200.0
+N101SX,Agana, Guam - Rota, TT,6.0
+5N-ANA / ,,18.0
+YV-45C,Caracas - Cumana,47.0
+N8114M,Jackson, MS - Laurel, MS,2.0
+N427Q,Flint, MI - Whitelake, MI,2.0
+LZ-TUB,Sofia - Warszawa,73.0
+N7354U,Santa Ana, CA - Lake Havasu, AZ,6.0
+XY-ADK,Yangon - Myitkyina,48.0
+PT - CIH,Local tour,4.0
+N140AL,,6.0
+N877A,St. John, VI - St. Croix, VI,9.0
+HL-7429,Paris - Seoul,109.0
+N49MC,Trenton, NJ - Indianappolis, IN,9.0
+N3SP,Pago Pago, American Samoa - Apia, Western Samoa,10.0
+HK-1705,Bogota - Barranquilla,12.0
+N37741,Anchorage, AK - Whittier, AK,6.0
+N4744,Miami, FL - Pensacola, FL - Mobile, AL,58.0
+,,13.0
+CCCP-85169,Baku - Leningrad,134.0
+C-GGAL,Survey,10.0
+C-FTLV,Toronto - Winnipeg,107.0
+LN-OQS,Bergen - Stratjford-A,18.0
+5Y-CMC,Samburu - Nairobi,11.0
+HK-1350,,18.0
+N1045,Laboucher, AK - Ketchican, AK,12.0
+N178MA,Kansas City, MO - Raton, NM,6.0
+XY-AEI,,14.0
+N44LV,Las Vegas, NV - Santa Ana, CA,10.0
+N7777V,St. Croix, VI - St. Thomas, VI,11.0
+C-FAIV,Victoria harbor - Victoria Harbor Water Aerodome,13.0
+3X-GAX,,17.0
+VP-WAS,Kariba - Salisbury,56.0
+N26AN,Savoy, IL - Cleveland, OH,6.0
+XA-BOP,Mexico City - Morelia,21.0
+N5384V,Wrangell, AK - Return,3.0
+PH-FKY,Laoag - Paranaque,28.0
+N1EC,King Salmon, AK - Kodiak, AK,3.0
+N4121Q,Bridgeport, CT - Albany, NY,3.0
+N533PS/N7711G,Los Angeles - San Diego,137.0
+N500L,Borinquen, PR - San Juan, PR,6.0
+DO-10,Kuopio - Helsinki,15.0
+XY-ADY,,44.0
+CCCP-87437,,38.0
+N2215W,Kenai, AK - Return,7.0
+H4-AAC,,11.0
+CCCP-46327,,26.0
+N866G,Oberlin, KS - Phoenix, NM,4.0
+PT-JXL,,9.0
+SU-AZM,,18.0
+N310BJ,Dallas, TX - Lubbox, TX,2.0
+TF-FLA,Jeddah - Colombo,262.0
+N910PC,Wichita, KS - Hays, KS,2.0
+F-OGHD,,20.0
+,Chandigarh - Leh,77.0
+HK-1393,Cucuta - Arauca,27.0
+N37906,Ketchikan, AK - Hydaburg, AK,5.0
+N8999A,Hartford, CT - Newburg, NY,3.0
+N25RM,Steamboat Springs - Denver,22.0
+I-ASON,,10.0
+VT-EAL,,132.0
+N4638Q,Terra Haute, IN - Moline, IN,2.0
+N7378U,St. Marys, AK - Chevak, AK,7.0
+I-DIKQ,Rome - Palermo,129.0
+HH-CNB,,10.0
+N8082U,Denver - Portland,189.0
+N33TN,Concord, MA - White Plains, NY,5.0
+CCCP46807,,13.0
+CCCP-67210,Training,3.0
+N7437S,Lansing, MI - Marquette, MI,6.0
+7T-VSU,,23.0
+F-BYAH,,6.0
+SP-TBB,,3.0
+PP-SBB,Bauru - Sao Paulo,18.0
+N29824,Clarksburg - Washington DC,25.0
+VP-YND,Kariba - Salisbury,59.0
+ZK-NFC,Gisborne - Auckland,4.0
+ET-AFW,,5.0
+TR-LXN,,3.0
+N2055K,Greenville, MS - Charlotte, NC,3.0
+N777AE,Houston, TX - Gulfport, MS - New Orleans, LA,8.0
+N5384A,Lebanon, TN - Galesburg, IL,4.0
+PK-GVP,Denpasar - Surabaya,4.0
+N418SA,New York - Santa Monica,7.0
+JY-ADU,Amman - Doha,64.0
+B-274,,12.0
+CCCP-42444,Moscow - Odessa,106.0
+CCCP-78390,,29.0
+CCCP-65031,Gorkiy - Liepaya,5.0
+N733CT,Bethel, AK - Tooksook, Alaska,7.0
+DM-STL,,10.0
+CF-QBL,Quebe- Montreal,24.0
+N6309C,Carrizozo, NM - Albuquerque, NM,3.0
+N11CS,San Pedro, CA - Catalina, CA,11.0
+N618PA,Newark, NJ - Flushing, NY,18.0
+HC-AVP,Quito - Cuenca,57.0
+CCCP-26569,,4.0
+N110AA,Chicago, IL- Los Angeles, CA,271.0
+N1690Z,Ambler, AK - Kobuk, AK,9.0
+N581PA,Bullen Point - Deadhorse,3.0
+5T-MAX,Bouceif - Dakar,12.0
+N68DE,Boston - Rockland,18.0
+H2178,,27.0
+N454SA,Positioning,2.0
+N383EX,New York, NY - Hyannis, MA,10.0
+PK-GVE,Talang Betutu - Medan,61.0
+N402TH,Anchorage, AK - Kenai, AK,7.0
+DQ-FBO,Suva-Nausori - Bua-Dama,9.0
+N63250,Positiioning - San Jose - Honolulu,3.0
+OD-AFX,Training,6.0
+N575PR,St. Croix - St. Kitts,21.0
+G-BEKF,,47.0
+N15NY,,3.0
+CCCP-67206,,14.0
+VT-DXJ,Bombay - Pune,45.0
+N6286B,Boise, ID - Indian Creek, ID,6.0
+N105AC,Flushing, NY - AtlantiCity, NJ,3.0
+N711AF,Athens, Greece - Jeddah, Saudi Arabia,5.0
+65735/65816,Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev,178.0
+FAC-1101,,1.0
+CCCP-12963,Norisk - Krasnoyarsk,16.0
+CCCP-45038,,63.0
+C-GROW,,9.0
+CCCP-46269,,43.0
+OY-SBS,,10.0
+B-1834,Training,6.0
+N455SW,Redmond - Klamath Falls - Medford,12.0
+I-ATJC,Alghero - Cagliari,31.0
+C-FZVV,,9.0
+58-0127,Training,5.0
+C-FWAF,,16.0
+N1726U,Juneau, AK - Return,3.0
+N6642L,Covington, KY - Nashville, TN,8.0
+HB-IDE,Zurich - Geneva - Athens - Bombay - Beijing,156.0
+N6224H,Anchorage, AK - Anchorage, AK,4.0
+N1320G,Centrailia, IN - Columbus, IN,2.0
+XC-PGR,Monterey, Mexico - San Ysidro, CA,10.0
+XC-BOS,,10.0
+N903WA,Los Angeles, CA  - Mexico City, Mexico,88.0
+C-GTJA,Pickle Lake - Big Trout,3.0
+N66893,Greenville, SC - Colombia, SC,7.0
+N1316G,John Day, OR - Salem, OR,3.0
+,Chicago - Washington D.C.,78.0
+CCCP-87454,Positioning,5.0
+N859U,Ogden, UT - Las Vegas, NV,3.0
+C-FJIK,,4.0
+AP-AWZ,Jeddah - Karachi,156.0
+ZK-NZP,Auckland - Christchurch,257.0
+HK-2059,,9.0
+N8061V,Nome, AK - Return,4.0
+CCCP-26547,,7.0
+CP-1440,,11.0
+FAC-1106,Arauca - Bogota,19.0
+FAP-348,Pucallpa - Puerto Esperanza,29.0
+TC-JAT,Ankara - Samsun,45.0
+P2-DNL,,15.0
+HH-CNC,Port au Prince - Cape Haitien,9.0
+N442NC,Shreveport - Baton Rouge,2.0
+EP-IRD,Babol Sar - Tehran,128.0
+PK-PCX,,13.0
+5003,Mandalay - Rangoon,44.0
+CU-T1219,Moa - Baracoa,37.0
+VH-AAV,Sydney - Tomora,13.0
+N442Y,Leeville, LA - Grand Isle, LA,7.0
+,,47.0
+B-1826,Taipei - Manila,135.0
+SP-LAA,New York City - Warsaw,87.0
+74-2064,,18.0
+N55932,Houston, TX - Brownwood, TX,10.0
+PT-HKB,,14.0
+C-FEIA,,9.0
+PT-JSC,,9.0
+PT-TYS,Sao Paulo - Florianopolis,58.0
+62-1809,,7.0
+G-BDAN,Manchester - Tenerife,146.0
+HS-THB,Khon Kaen - Bangkok,53.0
+PT-KHK,,7.0
+CU-T322,Training,3.0
+HK-1810,Rio Hacha - Medellin,70.0
+N125NE,West Palm Beach, FL - New Orleans, LA,2.0
+T.10-1/311-01,,11.0
+CP-1117,,13.0
+D2-TYC,,29.0
+N6505,Appleton, WI - Minneapolis, MN, - Lincoln, NE,15.0
+CCCP-87689,,29.0
+N2564Q,Honolulu, HI - Lihue, HI,2.0
+I-TIGI,Bologna - Palermo,81.0
+XC-DAK,,13.0
+CCCP-85355,Alma Ata - Simferopol,166.0
+N90238,Nome, AK - Unalakeet, AK,8.0
+N2683S,Tusayan, AZ - Phoenix, AZ,8.0
+N5MS,Hazelton, PA - Philadelphia, PA,3.0
+OB-R-1143,Lima, Peu - Mexico City, Mexico,7.0
+N443GR,Dillingham, AK - Return,9.0
+N95AL,Oil Platform SS-224 - Houma LA,13.0
+YR-TPH,Bucurest  - Nouadhibou,168.0
+PT-KAC,,3.0
+EC-DFA,,4.0
+HZ-AHJ,Dhahran - Karachi,291.0
+69-6581,Ramstein AFB - Oslo, Norway,11.0
+HZ-AHK,Riyadh - Jeddah,301.0
+PK-IVS,Banjarmasin-Sjamsudin Noor  -  Jakarta,37.0
+KAF317,,8.0
+HK-329,Barranquilla - Bogota,3.0
+N75KW,West Palm Beach - Freeport Grand Bahama Islands,34.0
+9T-TCE,,36.0
+453,,89.0
+9T-CBA,,36.0
+TF-RTO,,3.0
+CCCP-11104,,45.0
+N65V,Bartow, FL - Lake City, FL,3.0
+3556,,11.0
+67-0030,Ramstein AB - Cairo,13.0
+VH-BSG,,4.0
+HL-7445,Anchorage - Seoul,226.0
+HK-1221G,,20.0
+N816D,,2.0
+5H-TAL,Dodoma - Dar es Salaam,10.0
+N2181L,Chicago, IL - Michigan City, IL,4.0
+N2243Q,King Cove, AK - Cold Bay, AK,4.0
+VH-EGU,,2.0
+HK-1320,Florence - Neiva,50.0
+N390CA,Moses Lake - Spokane,9.0
+N500JP,Reno, NV - Winnemucca, NV,3.0
+CCCP-42332,,52.0
+N1323G,New Orleans, LA - Houma, LA,4.0
+N520S,White Plains, NY - Toronto, Canada - White Plains, NY,8.0
+N324Y,San Pedro, CA - Avalon, CA,8.0
+PT-GLB,Tucurui - Belem,14.0
+N5489J,North Adams, MA - New York, NY,3.0
+64-0564,,24.0
+N77FB,Fallon, NV - Austin, NVq,2.0
+29,,18.0
+61-2664,Fairbanks - Shemya AFB,24.0
+SP-LTU,,52.0
+N68856,Hughes, AK - Galena, AK,4.0
+P2-GKJ,,8.0
+CP-1470,,7.0
+N400PG,Cincinnati - Detroit,2.0
+N11360 / N4862F,Denver, CO - Gillette, WY,19.0
+PK-OBK,,17.0
+61-0328,Training,21.0
+LV-LOX,Tucuman - Buenos Aires,31.0
+D2-EAS,,4.0
+XA-KEH,Oaxaca - Puerto Escondido,20.0
+HC-BAX,,18.0
+FAE-723/FAE-457,Quito - Macara,27.0
+N140S,Avalon, CA - Visalia, CA,3.0
+SU-BAH,,17.0
+CCCP-41838,Ulan - Severomuysk,52.0
+B-11108,,2.0
+HK-1078,,12.0
+G-ASPL,London - East Midlands,3.0
+N7957F,Muskegon, MI - Pontiac, MI,5.0
+LV-JTN,Tehran, Iran - Larnaca, Cyprus,4.0
+6O-SAY,Mogadishu- Hargeisa,50.0
+N17705,Kansas City, MO - York, NE,4.0
+5R-MGB,,19.0
+HK- 772,,9.0
+XA-DEN,Monterey - Chihuahua,66.0
+N8224Q,Skagway, AK - Local,6.0
+B-2603,Taipei - Kaohsiung,110.0
+CCCP-46653,Komsomol'sk-na-Amure - Blagoveshchensk,32.0
+CCCP-87346,Chita - Zeya,34.0
+HK-2651,,22.0
+CCCP-87455,,33.0
+74-1672,Fort Lewis, WA - Indian springs, NV,68.0
+,,0.0
+5-158-8552,Ahwaz - Tehran,60.0
+N44CJ,Casper, WY - McAllen, TX,3.0
+PH-CHI,Rotterdam - Eindhoven - Hamburgh,17.0
+OE-FCT,,9.0
+HI-328,Saint Croix - Saint Thomas,5.0
+TJ-CBC,,24.0
+XA-DEO,Acapulco - Guadalajara,18.0
+N178RB,Millinocket, ME - Mount Pocono, PA,4.0
+CCCP-85480,Krasnoyarsk - Norilsk,167.0
+9N-ABJ,,10.0
+N3486F,,3.0
+YU-ANA,Ljubljana - Ajaccio,180.0
+N8185H,Haliive, HI  - Honolulu, HI,12.0
+N9461M,Tyonek, AK - Anchorage, AK,4.0
+N4311R,Talkeetna, AK - Return,4.0
+9M-SSC,,
+HK-2217,,13.0
+ZS-KVG,Cape Town - Johannesburg,9.0
+N41070,Albuquerque, NM - Durango, CO,6.0
+CCCP-67290,,18.0
+N9763X,,2.0
+N62AF,Washington D.C. - Fort Lauderdale, FL,79.0
+71383,,73.0
+N113WA,Newark, NJ - Boston, MA,212.0
+YR-BMD,Training,7.0
+140/88JA,,35.0
+,,53.0
+,Parhankot - Leh,23.0
+JA-8061,Fukuoka - Tokyo,174.0
+RP-C141,Manila - Sicogon,32.0
+HK-1706,,4.0
+N127PM,New York City - Bridgeport - New Haven - Groton - Boston,12.0
+LN-BNK,Berlevag - Mehamn,15.0
+G-BDXH,Kuala Lampur - Perth,257.0
+CCCP-45229,Leningrad - Kiev,132.0
+N567LT,None,3.0
+58-0031,,27.0
+PK-GVK,Jakarta - Bandar,27.0
+HK-2382,Villavicencio - Bogota,21.0
+N11058,Banddanack, AK - Fairbanks, AK,3.0
+74-1678,Erzurum - Incirlik,27.0
+B-266,Guangzhou - Guilin,112.0
+N6911,Hilo, HI - Honalulu, HI,2.0
+C-GIMF,,13.0
+7O-ACK,,49.0
+64-0543,Training,7.0
+ZA-294,,30.0
+PP-SMY,,118.0
+PK-PDU,,10.0
+56-4391,,53.0
+PP-SRK,Rio de Janerio - Fortaleza,137.0
+PT-LBV,Eirunepe - Tabatinga,44.0
+VT-DJJ,Kuala Lumpur - Mumbai,111.0
+TR-LYQ,,12.0
+CCCP-86513,,90.0
+N4737,New Orleans - Las Vegas,145.0
+RP-C1014,,30.0
+N8230U,Imnaha, OR - Fort Fairfield, ME,4.0
+N87701,Movie set,1.0
+N9682Q,Sitka, AK - Warm Springs, AK,4.0
+N81786,Groton, CT - Concord, CT,2.0
+N754PA,Tokyo - Honolulu,
+XY-AEB,,8.0
+67191 / 65836,,11.0
+223,Managua - El Rodeo,20.0
+VP-LAE,,10.0
+64-0652,Training,9.0
+HC-BHZ,Zumba - Loja,44.0
+PT-JBQ,,10.0
+74-22292,,46.0
+EC-DEG,Malaga - New York City,394.0
+N33249,Nondalton, AK - Port Alsworth, AK,5.0
+C-FDJA,,5.0
+N5331X,Kiana, AK - Kotzebue, AK,6.0
+CCCP-86470,Moscow - Luxembourg,77.0
+,Anguilla - St. Thomas, VI,8.0
+B-2311,,15.0
+N18411,Cullman, AL - Louisville, KY,2.0
+D2-TAB,,15.0
+HK-2536,,22.0
+N32750,Philadelphia, PA - Pottstown, PA,5.0
+N30093,Sante Fe, NM - Pueblo, CO,2.0
+265,,88.0
+N68081,Ketchikan, AK - Craig, AK,8.0
+CC-CJE,Santiago - La Serena,46.0
+N297EB,Columbus, OH - Difiance, OH,2.0
+PH-TSM,,10.0
+CCCP-26627,,16.0
+B-202,,69.0
+N844H,Minneapolis-St Paul - Brainerd,33.0
+N8053U,Detroit - Los Angeles,3.0
+P2-ISH,,10.0
+TC-JBR,Istanbul - Ankara,67.0
+74-1693,,6.0
+N28216,Tallahssee, FL - Lakeland, FL,2.0
+PT-HJN,,11.0
+YA-GAZ,,19.0
+YV-67C,Caracas - Barquisimeto,50.0
+N72B,Jacksonville, FL - Atlanta, GA,4.0
+N51CA,Chicago - Newark,2.0
+F-BVRP,,8.0
+N37MN,Nome - Ambler,3.0
+EL-AIH,,9.0
+CCCP-87291,Nalchik - Leninakan,21.0
+58-1009/68-1015,,14.0
+,,14.0
+HC-BAT,Guayaquil - Quito,100.0
+141010,Jacksonville NAS - Guantanamo Bay, Cuba,15.0
+L4K-12/18,,30.0
+N334EA,Miami, FL - Nassau, Bahamas,172.0
+PK-GFV,,61.0
+C-FTLU,Dallas-Fort Worth - Toronto,46.0
+,,47.0
+152720,,14.0
+TZ-ACH,,7.0
+N5413X,Blanding, UT - Farnington, New Mexico,5.0
+74-2068,Training,6.0
+B-889,Pyongyang, North Korea - Conakry, Guinea,23.0
+HC-BIG,Quito - Cuenca,119.0
+G-BEON,Penzance - Scilly Islands,26.0
+C-GAUN,Ottawa - Edmonton,69.0
+PK-KCA,,11.0
+PK-KNF,,2.0
+N400NA,,2.0
+N88LV,Las Vegas, NV  - Grand Canyon, AZ,10.0
+N17ST,,7.0
+VH-KTE,,12.0
+CCCP-65129,Kazan - Chelyabinsk - Alma-Ata,90.0
+HL-7442,Anchorage - Seoul,269.0
+C-GIPF,,9.0
+B-264 / ,Guilin - Beijing,106.0
+A40-BK,Karachi - Abu Dhabi,112.0
+N7353N,Flagstaff, AZ - Mesa, AZ,2.0
+B-11109,,10.0
+CCCP-87618,,9.0
+N5191E,Little Rock, AR - Springfield, MO,4.0
+PP-SBH,,15.0
+XY-AEE,Lonkin - Myitkyina,14.0
+N748LL,Springfield, Il - Carbondale, IL,10.0
+N26288,Middletown - Washington DC,30.0
+D2-TBN,Lubango - Luanda,130.0
+C-GTLA,,7.0
+N1910L,Wichita, TX - Midland, TX,8.0
+HK-2910,Paris - Madrid - Bogota,192.0
+5N-ANF,,72.0
+EC-CFJ/EC-CGS,Madrid - Rome,135.0
+N208JP,Put-In-Bay, OH - Kelly's Island, OH,4.0
+HK-2401,Medellin - Miami,3.0
+C-FGJK,Inuvik - Paulatuk,12.0
+CCCP-46617,Arkhangelsk - Leshukonskoye,49.0
+324,,13.0
+C-GSCA,Saint Louis, MO - Toronto, Canada,2.0
+LZ-TUR,Berlin - Sofia,50.0
+CP-1090,,3.0
+PK-PCL,,9.0
+CCCP-47358,,47.0
+N63Z,Training,3.0
+1506,,38.0
+,,28.0
+VH-FSA,,2.0
+HK-2685,,7.0
+,,12.0
+LN-RKB,Oslo, Norway, New York, NY,177.0
+68-10944,,18.0
+N6629L,,3.0
+HK-1322P,Barranquilla - Bogota,6.0
+CP-862,,23.0
+157132,Pohang - Kannung,29.0
+CP-1206,,5.0
+N44NC,Ft. Lauderdale - Bimini,6.0
+PT-LCN,,4.0
+PT-GJZ/PT-GKL,,35.0
+,,2.0
+LV-TDF,,12.0
+N5523,Baltimore - Detroit,4.0
+N101PP,,3.0
+N5784M,,3.0
+PP-SBC,,18.0
+,,9.0
+,,30.0
+64-0624,,9.0
+N2021A,Kodiak, AK - Ouzinkie, AK,4.0
+N43SP,Pango Pango - Tau Island,14.0
+N7984Q,Anchorage, AK - Cantwell, AK,5.0
+N589SA,Vieques, PR - St. Croix, VI,9.0
+S2-ABJ,Chittagong-Patenga - Dhaka,49.0
+CCCP-10232,Karachi - Tashkent,24.0
+5Y-AMS,,9.0
+N70003,Memphis - Chicago,3.0
+PK-OBC,,3.0
+N9011Y,Bolivar, TN - Pontiac, MI,2.0
+N6399U/N112SM,San Luis Obispo - San Fransisco,17.0
+TJ-CBD,Douala - Yaounde,116.0
+P2-ISG,,11.0
+N89PB,Naples, FL - Tampa, FL,6.0
+9Q-CAH,,30.0
+SP-AMK,Airshow,26.0
+HC-BKN,Quito - Guayaquil,4.0
+,,50.0
+C-GXFZ,Training,2.0
+N1842R,Reno, NV - Eureka, NV,3.0
+C-FPPL,Fort Norman - Fort Franklin,7.0
+CCCP-85243,Krasnodar - Omsk,179.0
+C-FAUS,St. Anthony - Goose Bay,4.0
+CCCP-86739,,20.0
+CCCP-08837,,240.0
+RP-C138,Davao - Manila,4.0
+G-HGGS,,1.0
+FAE-446,Loja - Zumba,14.0
+CCCP-67225,,10.0
+N96PB,Jacksonville - Tampa,13.0
+,,19.0
+N6099Y,Binghamton, NY - Bainbridge, NY,4.0
+FAP-307,,21.0
+9N-ABH,,23.0
+CCCP-85338,,110.0
+N819EA,Asuncion, Paraguay - La Paz, Bolivia,29.0
+N357Q,Detroit - Kansas City,3.0
+B-434,Nanjing - Jinan,41.0
+CU-T899,Havana - Managua,38.0
+N40TE,Albuquerque, NM - Taos, NM -,3.0
+N5532,Reno, NV - Minneapolis-St. Paul, MN,71.0
+56-0501,Howard AFB - Trujillo AP,21.0
+HK-2638,Florencia - Cali,17.0
+HK-1910,Medellin - Quibdo,23.0
+N27522,Burlington, VT - Whitefield, NH,5.0
+CCCP-65910,Minsk - Leningrad,80.0
+N50NP,Anchorage, AK - Anchorage, AK,9.0
+N5780M,Altus, OK - Oklahoma City, OK,2.0
+CCCP-76569,,57.0
+N233W,Gold Beach, OR - Metford, OR,4.0
+PK-VIO,,10.0
+EC-DDU,Madrid - Bilbao,148.0
+N4522V,Taipei - Los Angeles,274.0
+TZ-ACT,Tombouctou - Bamako,51.0
+55-3121,,3.0
+64-0549,Training,6.0
+FAC-1140,Bogota - San Vicente del CaguÃ¡n - Florencia,46.0
+LV-ALW,Buenos Aires - Salta,7.0
+N3RU,El Dorado, AR - Houston, TX,4.0
+HS-TBB,,11.0
+N718AA,Dallas, TX - San Diego, CA,89.0
+N8849Q,Tuba City, AZ - Page, AZ,6.0
+YN-BZF,Positioning,5.0
+CP-1489,,4.0
+CCCP65856/26492,Tallin - L'vov,76.0
+,Iwakuni - Fulemma, Okinawa,17.0
+C9-AMV,,5.0
+N73635,Golovin, AK - Elim, AK,5.0
+N10GE,Branson, MO - Harrison, AR,2.0
+YV-84C,,13.0
+N181TG,Nashville - Indianapolis,2.0
+N64339,Athens - Rome,153.0
+PT-GJN,Juara - Cuiaba,17.0
+VT-EFO,Montreal - London,329.0
+N542TW,,2.0
+CCCP-85311,Karshi - Leningrad,200.0
+N71MA,Louisville, KY - Cleveland, OH,2.0
+FAC-902,Leticia - Bogota,80.0
+N726DA,Fort Lauderdale - Dallas-Fort Worth,163.0
+JA8119,Tokyo - Osaka,524.0
+PK-NUG,,19.0
+7O-ACO,Aden - Abu Dahbi,73.0
+N455JA,Anchorage, AK - Gulkana, AK,3.0
+G-BGJL,Manchester - Kerkira,137.0
+N300WP,Boston, MA - Auburn, ME,8.0
+59-1443,Training,7.0
+P2-DNW,,5.0
+YA-BAM,Kandahar - Farah,52.0
+N100ME,Milwaukee - Atlanta,31.0
+,,26.0
+N339HA,Washington D.C. Baltimore, MD,14.0
+CCCP-69321,Dnepropetrovsk - Moscow,9.0
+N551CC,Parachuting,17.0
+ZK-EHT,,9.0
+PT-GKA,,2.0
+VH-IWJ,Sidney - Brisbane,2.0
+CP-1593,Beni - La Paz,2.0
+CCCP-87803,,14.0
+N3257,State College - Pittsburgh,1.0
+XY-ADS,,4.0
+N456JA,Anchorage - Juneau,4.0
+N9241F,Bethel, AK - Chevak, AK,4.0
+54-2817,Test flight,4.0
+N74DJ,Bethel, AK - Quinhagaki, AK,7.0
+A-1322,,11.0
+SU-AYH,Athens - Cairo,103.0
+,,22.0
+N950JW,Gander - Fort Campbell, KY,256.0
+RAN-23,,25.0
+N711Y,Guntersville - Dallas/Ft. Worth,9.0
+HC-BAE,Guatemala City - Flores,87.0
+N1498W,,3.0
+PP-SME,Sao Paulo - Belo Horizonte,72.0
+XA-IOR,Villa Constitucion - Los Mochis,21.0
+9Q-CWT,,14.0
+B-1870,Taipei - Makung,13.0
+CCCP-46423,,38.0
+HB-LLS,,8.0
+N1356P,Detroit, MI - Alpena, MI,9.0
+PK-NCF,,16.0
+C-FAGM,Snegamook Lake - Goose Bay,5.0
+CCCP-11795,,9.0
+,,0.0
+42,Pemba - Maputo,54.0
+XA-MEM,Mexico City - Puerto Vallarta,167.0
+N54340,Rome - Athens,121.0
+66-0211,,11.0
+HK-2761,Bogota - Saravena,13.0
+FAS-302,San Salvador - Panama City,37.0
+,,22.0
+4R-ULD,Colombo - Male, Maldives,150.0
+CCCP-87301,Test,5.0
+N414NY,AtlantiCity, NJ - AtlantiCity, NJ,5.0
+19,,19.0
+,,13.0
+SU-GAD,Cairo - Alexandia,26.0
+G-BGPC,Glasgow - Port Ellen,16.0
+63-7983,,4.0
+N76GC/N6TC,Grand Canyon - Grand Canyon,25.0
+CCCP-65142,Penza - Simferopol,59.0
+CCCP-65120,,94.0
+7312,,17.0
+N3643W,San Andreas, CA - Death Valley, CA,6.0
+V2-LCJ,Vieux Fort - Kingstown,13.0
+556,Tegucigalpa - Duzuna,59.0
+ST-ADY,Malakal - Khartoum,60.0
+N73569,McDermitt, OR - Burns, OR,6.0
+N2727A,Lander, WY - Riverton, WY,7.0
+N252K,Little Rock - Texarkana,2.0
+XA-JED/N4891F,Tijuana - Los Angeles,67.0
+VH-RED,Tullamarine - Leongatha,6.0
+N656PA,Bombay-Karachi-Frankfurt-New York,384.0
+56-0468,,4.0
+G-BDTP,London - Amsterdam,1.0
+N219AS,Sao Jose dos Campo - Manaus,5.0
+PK-ESC,Mangole - Manado,13.0
+N15ST,Kelly AFB - Warner Robins AFB,3.0
+CCCP-67264,,14.0
+EP-IRG,,80.0
+148,,11.0
+N3962M,Groton, CT - Fisher Island, NY,4.0
+C9-CAA,Lusaka - Maputo,44.0
+CCCP-65766,Yekaterinburg - Kuybyshev,92.0
+N8617B,Traffireporting,2.0
+AP-AUX,Lahore - Peshawar,54.0
+294,,23.0
+,Bakhtaran - Zahedan,103.0
+G-BWFC,,47.0
+,,40.0
+CCCP-65795,Minsk - Berlin,82.0
+B-3413,Lanzhou - Chengdu,44.0
+YI-AGJ,Baghdad - Amman,106.0
+DQ-FEF,Savu Savu - Nadi,14.0
+T-12B-32,Bata - Malabo,22.0
+PP-VJK,Abidjan - Rio de Janeiro,51.0
+C-GIRH,,3.0
+,Asrmara - Addis Ababa,54.0
+N163SW / N6485U,Pocatello - Salt Lake City,10.0
+N9613F,Ontario, CA - Las Vegas, NV,1.0
+ARU-021,,18.0
+F-GDHR,,11.0
+P2-RDM,Rabaul - Hoskins,17.0
+,,36.0
+N712PC,,135.0
+N160FB,Cleveland - Detroit,22.0
+CCCP-26007,,9.0
+60-0361,Training,6.0
+,,2.0
+N31SK,Denver - Vail,3.0
+,,40.0
+N967JW,Local Flight,2.0
+LN-KCR,Hanover, West Germany - Skien, Norway,10.0
+PK-GNQ,Banda Aceh - Medan,45.0
+N144SP,Wichita - Kansas City,4.0
+N505LB,Wilmington - Lumberton,2.0
+ST-AIJ,,13.0
+CCCP-11418,Tikis - Batagay,6.0
+N432CA,San Juan, PR - Mayaguez, PR,6.0
+SP-LBG,Warsaw - New York City,183.0
+C-FADD,Big Trout - Pickle Lake,2.0
+N32774,Sayre, PA - Washington, District of Colombia,3.0
+CP-1018,Camiri - Santa Cruz,16.0
+PK-NUW,,8.0
+PK-MAM,,30.0
+D-IAEC,,4.0
+YV-230C,,10.0
+YA-BAL,Kandahar - Kabul,53.0
+FAP-392,Lima - Saposa,46.0
+CCCP-87826,,29.0
+XY-ADP,Heho - Mong Hsat,45.0
+RP-C1015,Manila - Baguio,50.0
+68-10945,,6.0
+,Brazzaville - Paris,163.0
+HI-481,Mexico City - Miami,12.0
+N28ST,,3.0
+CC-CHJ,Santiago - Calama,33.0
+B-222,Beijing - Chongqing,108.0
+N312RC,Detroit, MI - Phoenix, AZ,155.0
+G-BGEO,,7.0
+HS-TBC,Hat Yai - Phuket,83.0
+FAB2129,,9.0
+,,15.0
+SU-BCA,Training,5.0
+N2545S,,3.0
+XY-AEL,Rangoon - Nyaung-U,49.0
+HK-2920,,9.0
+I-ATRH,Milan - Koln,37.0
+CCCP-12162,,9.0
+N4178Q,Tacoma, WA - Bellingham, WA,4.0
+7Q-YMB,Blantyre - Lilongwe,10.0
+C-GVYX,Fort Nelson - Ross River,4.0
+N626TX,Denver, CO - Boise, ID,82.0
+N401RA,Kodiak - Homer,21.0
+ZK-SFB,Wellington - Christchurch,2.0
+B-11125,,11.0
+N68TC,Denver, CO - Durango, CO,17.0
+ZS-SAS,Taipei, Taiwan -  Mauritius - Johannesburg, South Africa,159.0
+HL-7406,Abu Dhabi - Bangkok,115.0
+5Y-EJS,,14.0
+N350PS,Los Angeles - San Fransisco,43.0
+AE-560,Pucallpa - Lima,43.0
+P2-MIB,,4.0
+EI-BTJ,Cebu - Iligan,15.0
+C-130-2468,Recife - Fernando de Noronha,29.0
+F-GEGH,Brussels - Bordeaux,16.0
+N3596N,,15.0
+N105GP,Alliance, AK - Chadron, NE,3.0
+N496SC,Kenai, AK - Anchorage, AK,8.0
+N712AN,Honolulu, HI - Molokai, HI,8.0
+PK-NUY,Samarinda - Berau,17.0
+D-ABHD,Stuttgart - Izmir,16.0
+N79SF,Memphis, TN - Monroe, LA,2.0
+CP-1244,,9.0
+CCCP-85254,Moscow - Krosnovodsk,143.0
+CCCP-87549,Nizhnevartovsk - Tyumen,31.0
+FAP215,,16.0
+N517S,Missoula, MT - Helena, MT,3.0
+D-CABB,Hannover - Dusseldorf,21.0
+N622AV,Raleigh - Richmond,12.0
+CCCP-65675,Tyumen - Surgut,51.0
+TC-AKD,Istanbul - Ercan,15.0
+ZS-LGP,Phalaborwa - Johannesburg,17.0
+F-GCPS,Nancy - Paris,23.0
+FAE-068,,11.0
+8524462/8724605,,17.0
+HK-1716,Cucuta - Cartagena,143.0
+5N-ARH,Cairo - Sharjah,4.0
+9K-ADA,Bangkok - Kuwait,112.0
+,Maimana - Mazar,29.0
+ZS-UAS,Bloemfontein - Johannesburg,24.0
+F-GERA,,6.0
+CCCP67518,Muya - Bagdarin,17.0
+14-27,,29.0
+N442NE,Allentown, PA - Morristown, NJ,2.0
+B-4218,Sightseeing,46.0
+N73711,Hilo - Honolulu,95.0
+LN-WFN,Namsos - Bronnoysund,36.0
+N897P,Anchorage, AK - McGrath, AK,3.0
+N75356,Belize City, Belize - New Orleans, LA,45.0
+YN-CBE,,6.0
+OY-APE,Billund - Hannover - Nurnberg,2.0
+FAE-068,,11.0
+61-2373,Training,6.0
+N1003G,Resistencia - Posadas,22.0
+,,25.0
+F-GFKC,Basel - Basel,136.0
+EP-IBU,Bandar Abbas - Dubai,290.0
+HK-3148,,8.0
+N33VX,El Salvador - New Orleans,3.0
+D2-TOV,Oostende, Belgium - Lagos, Nigeria,6.0
+N70168,Ketichikan, AK - Security Cove, AK,3.0
+LZ-DOK,Sofia  - Varna,37.0
+C-GILU,Narsarsuaq, Greenland - Reykjavik, Iceland,3.0
+,,39.0
+23494,Bahawalpur - Islamabad,30.0
+N39272,,6.0
+9Q-CBG,,5.0
+CCCP-67235,Kirensk - Irkutsk,4.0
+,Air show,3.0
+B-2218,Guangzhou - Hong Kong,89.0
+XC-COX,Uruapan - Lazro,20.0
+XA-HUL,,20.0
+N473DA,Dallas/Fort Worth, TX - Salt Lake City, UT,108.0
+N111VA,Sitka - Petersburg,10.0
+VN-A102,Hanoi - Bangkok,90.0
+HC-AZY,Lago Agrio - Quito,7.0
+C-GFFA,Montreal - Ottawa,2.0
+ET-AJA,Bahar Dar - Asmara,104.0
+,,34.0
+60-0317,Sawyer AFB - Wurtsmith AFB,17.0
+N4113R,Sedona, AZ - Sedona, AZ,5.0
+5X-UBC,London - Rome,52.0
+VT-DMC,Silchar - Gauhati,34.0
+VT-EAH,Bombay - Ahmadabad,129.0
+OB-R-1020,Juliaca - Arequipa,69.0
+SP-LTD,Warszawa - Rzeszow,29.0
+N8342L,Brunswick, GA - Jacksonville, FL,4.0
+OH-EBA,Helsink - Ilmajoki,12.0
+F-GFHR,,7.0
+F-GCPG,MontluÃ§on - Paris,4.0
+5A-DDD,Hamada al Hambra - Tripoli,14.0
+CCCP-67127,,14.0
+N284,Dakar - Agadir,5.0
+,Kabul - Khowst,25.0
+CCCP-86732,,83.0
+5N-AYJ,Dar-es-Salaam - Cairo,8.0
+VH-BBA,,10.0
+N739PA,London - New York City,259.0
+N128MP,Terre Haute - Lafayette,2.0
+G-OBME,London - Belfast,126.0
+C-GDOV,Dayton, OH - Montreal, Canada,2.0
+CP-1418,La Paz - Apolo,5.0
+130318,Exercise,11.0
+63-7990,,19.0
+XY-AEK,Rangoon - Kentung,29.0
+F-GEJE,Marseille - Paris,3.0
+N7231T,Bergamo - Orio al Serio - Santa Maria,144.0
+YR-TPJ,Training,5.0
+N807FT,Singapore - Kuala Lumpur,4.0
+N69383,Las Vegas, NV - Santa Ana, CA,10.0
+N4713U,Los Angeles - Honolulu - Auckland - Sidney,356.0
+HR-AKZ, - Tegucigalpa - Toncontin,10.0
+C-FBZN,,2.0
+C-FONF,Dryden - Winnipeg,69.0
+OB-T-1271,Sightseeing,10.0
+N931F,Fort Worth, TX - Oklahoma City, OK,2.0
+157140,,34.0
+PT-TCS,Manaus - Sao Paulo-Guarulhos,3.0
+F-GGDM,Paris - Valence,22.0
+FAC-1110,Cucuta - Arauca,11.0
+HK-3325X,Baranquilla - Bogota,5.0
+XA-JPE,Chichen Itza - Cozumel,19.0
+N95PB,Memphis - Columbia,2.0
+SE-IZO,Stockholm - Oskarshamn,16.0
+JA9596,,
+N1809E,Paramaribo - Zanderij,187.0
+HK-2486,El Yopal - Tame,22.0
+N34AP,Hilo, HI - Kahului, HI,11.0
+DDR-SEW,Berlin - Moscow,113.0
+YA-BAK,Kabul - Zaranj,39.0
+FAP-329,San Ramon - Captain Alvarino,62.0
+B-12206,Kaohsiung - Chi-mei,13.0
+TJ-CCF,Douala - Yaounde,47.0
+6O-SAZ,Hargeisa - Mogadishu,30.0
+N125CA,Carterville, GA  - Montgomery, AL,2.0
+N138JR,Baltimore, MD - Winchester, VA,5.0
+N1819U,Denver, CO - Chicago, IL,298.0
+CCCP-26685,Observation flight out of Cape Schmidt,10.0
+P2-RDW,,22.0
+RP-C1193,Zamboanga - Manila,98.0
+,,30.0
+,Luena - Cazombo,48.0
+HL-7328,Jeddah - Tripoli,199.0
+,,19.0
+ZK-FTB,Auckland - Christchurch,3.0
+SX-BGE,Thessaloniki - Samos,34.0
+ET-AIL,Addis Ababa - Bole,16.0
+ZK-EVK,Wanaka - Milford Sound,10.0
+N1976Q,Hattiesburg, MS - Gulfport, MS,2.0
+B-3417,Shanghai - Hongqiao,40.0
+N25ST,Medford, OR - Medford, OR,3.0
+AP-BBF,Gilgit - Islamabad - Chaklala,54.0
+N234J,Salisbury, MD - Lynchburg, VA,5.0
+CU-T1281,Havana - KÃ¶ln, Bonn,126.0
+PP-VMK,Maraba - Belem,54.0
+LN-PAA,Oslo - Hamburg,55.0
+PK-NUE,Manokwari - Bentuni,22.0
+N887PE,Orlando, FL - Mayfield, KY,6.0
+N54629,N'Djamena - Paris,171.0
+57-1481,,7.0
+N416US,New York City - Charlotte, NC,63.0
+,,26.0
+,,24.0
+VT-EJF,Pune - Hyderabad,11.0
+C-GSLB,,7.0
+ST-AIW,,6.0
+N75GC,Grand Canyon National Park,21.0
+CCCP-48095,,9.0
+56-3592,,4.0
+N208W,Uncertain, TX - Destsin, FL,5.0
+OB-T-1254,,12.0
+N21FL,New York, NY - AtlantiCity, NJ,5.0
+CCCP-76466,Ul'yanovsk - Leninakan,25.0
+N88705,Managua - Tegucigalpa,146.0
+B-180,Hualian - Taibei,54.0
+,,36.0
+N707PV,Kahului, Maui - Kaunakakai, Molokai,20.0
+9L-LAV,,10.0
+LDF-46,,18.0
+LN-AA,,4.0
+CCCP-46335,Perm - Sovietsky,42.0
+,,24.0
+HL-7255,Seou - Ulsan,52.0
+HK-1803,Bogota - Cali,107.0
+N9205T,Kamina - Jamba,5.0
+YV-478C,Canaima - Ciudad Guayana -Charallave,7.0
+N127JL,Block Island, RI - Westerly, RI,8.0
+N296CA,Fort Belvoir - Patuxent River NAS,5.0
+TAM-62,Guayaramerin - Santa Cruz,28.0
+HK-3315X,Bogota via Neiva - Ibague,15.0
+N410UE,Yakima - Pasco,6.0
+YR-BMJ,Bicharest - Beogard,7.0
+ZK-DAX / ZK-DQF,,5.0
+PK-PCM,Palambang and Jakarta,16.0
+CCCP-65951,Tyumen - Ufa,71.0
+TI-SAB,San Jose - Palmar Sur,23.0
+N835FE,Denver - Montrose,1.0
+N331DP,Detroit, MI - Louisville, KY,2.0
+ARV-0210,Caracas - Puerto Ayancucho,25.0
+HK 2016,Medellin - New York City,158.0
+PK-OBW,Ujung Pandang - Selaparang,19.0
+TN-230,Pointe-Noire - Brazzaville,28.0
+N4688B,Burlington, VT - Albany, NY,2.0
+N854FE,Plattsburg - Syracuse,1.0
+PT-LCG,San Palo - Bauru - Aracatuba,40.0
+VT-EPN,Bombay - Bangalore,146.0
+AF316,M'bala - Likouala,29.0
+N820FE,Aspen - Denver,1.0
+,,1.0
+,,30.0
+N5778W,,3.0
+EC-DDR,,13.0
+HR-TNL,San Pedro - Tegucigalpa,3.0
+CU-T1436,,46.0
+CCCP-78781,Kokand - Kabul,11.0
+T-410,,25.0
+PT-CMY,Rio de Janeiro - Juiz De Flora,4.0
+LN-BNS,Vaeroy - Bodo,5.0
+N187AS,,22.0
+9T-TCG,,24.0
+RP-C81,Manila - Roxaz City,24.0
+C-FGAW,Timmins, Ontario - Ship Sands Island, Ontario,4.0
+WR965,,10.0
+N84BL,Guatamala City - La Aurora,3.0
+F-GHXA,Tapachula - Tuxtla-Gutierrez,40.0
+EI-BZG,Manila - Iloilo,119.0
+VH-ANQ,Proserpine - Mareeba - Claims,11.0
+50-39,,10.0
+RP-C314,Manila - Surigao City,21.0
+C-FWAB,,2.0
+PT-ICA,Belem - Altamira,42.0
+G-BJRT,Birmingham, England - Malaga, Spain,85.0
+N9985M,Seward, AK - Aialak Bay, AK,5.0
+N59291,Aurora, OR - Penticton, Canada,5.0
+P2-DNJ,,12.0
+J6-SLW,,2.0
+,,30.0
+OB-1362,,9.0
+CCCP-87453,Yerevan - Zvartnots,47.0
+,,83.0
+1905,,18.0
+N16933,Elkhorn, WI - Chicago, IL,5.0
+,,61.0
+68-0228,Ramstein AB - Rhein-Main AB,17.0
+N59783,Nulato, AK - Kaltag, AK,10.0
+OB-1303,Malta - Miami - ReykjavÃ­k - Gander,18.0
+OY-CGM,Sondre Stomfjord - Goose Bay,8.0
+CCCP-42351,Volgograd - Sverdlovsk,129.0
+PT-FAW,Fernando de Noronha -  Recife,12.0
+N79DD,Van Nuys, CA - San Luis Obispo, CA,4.0
+,,130.0
+B-2812/B-2510,Guangzhou - Shanghi,226.0
+N8923E,,97.0
+CP-735,Bella Vista - La Paz,4.0
+CU-T1202,Camaguey - Santiago de Cuba,31.0
+CCCP-69320,,10.0
+I-ATJA,Milano - ZÃ¼rich,46.0
+FAC-1150,,16.0
+CCCP-22389,,15.0
+N565PC,Cleveland - Indianapolis,2.0
+OB-1358,Bangkok - Koh Samui,38.0
+I-EHPA,,13.0
+N278US/N3313L,Detroit - Pittsburg,198.0
+ST-SAC,,10.0
+PK-PUI,,12.0
+N9444F,Cold Bay - False Pass,1.0
+ARV-0209,Caracas - Merida,22.0
+PT-KKV,,5.0
+PK-NCY,,21.0
+69-6567,,13.0
+N388US/N683AV,Columbus - Los Angeles \  Los Angeles - Fresno,99.0
+748,,63.0
+N27818,Macon, GA - Anniston, AL,4.0
+N535PC,Las Vegas, NV - Aspen, CO,3.0
+FAE447,Macao - Taisha,22.0
+CC-CET,Punta Arenas - Puerto Williams,72.0
+N999UA,Denver - Colorado Springs,25.0
+YV-23C,Maracaibo - Santa Barbara de Zulia,45.0
+D-ICLW,,7.0
+N831LC,San Diego - Amarillo, TX  - Evansville, IN,10.0
+CP-1564,,9.0
+PT-LLL,Ubrraba - Brasillia,7.0
+N5785C,,5.0
+469,,98.0
+158930/159325,,27.0
+CCCP-46472,Trashkent - Navoi,63.0
+,,28.0
+N402BL,Zeldiver - San Pedro,8.0
+C-FQNF,Sturdee - Smithers,7.0
+N3645D / N78S,Williamsport, PA  - Philadelphia, PA,5.0
+N270AS,Atlanta - Brunswick,23.0
+F-OHAB,Hiva Ou - Nuku Hiva,22.0
+ST-AHX,,8.0
+PK-MFD,Ambon - Ternate - Manado,13.0
+N6280H,Local sightseeing,7.0
+HK-3177,Villavicencio - Miraflores Guaviarel,14.0
+CCCP-85097,Sukhumi - Leningrad,181.0
+LZ-INK,,10.0
+OE-LAV,Bangkok - Wien, Austria,223.0
+N8071L,Grada Zuma, Bahamas - Cape Hatien,3.0
+J6-SLQ,Luanda - Cafunfo,7.0
+HK-3511,Bogota - Malambo,18.0
+CCCP-46724,Saint Petersburg - Voronezh,10.0
+5N-AOW,Benin - Kano,53.0
+HK-2889X,,3.0
+OB-1218,,15.0
+N7217L,New Orleans - Mobile - Birmingham,15.0
+C-GMXQ,Jeddah - Sokoto,261.0
+H4-SIA,Kira-Kira - Honiara,15.0
+N959SC,Detroit - Chicago,3.0
+N5183U,Local flight - Flying B Ranch,5.0
+YJ-RV4,Nogougou - Luganville,9.0
+DQ-FCN,Altukaki - Rarotonga,10.0
+YR-IMH,Bucharest - Timisoara,9.0
+N4075W,Gustavus, AK - Haines, AK,6.0
+J5-GBB,Kano - Bamako,3.0
+VT-EFL,Calcutta - Imphal,69.0
+N68HA,Ketchikan, AK - Wrangell, AK,4.0
+N64SF,,3.0
+9M-AZB,Bario - Marudi,20.0
+PK-VIP,Sampit - Plangkaraya,10.0
+N33701,Laredo - Houston,14.0
+CCCP-74002,,13.0
+HK-2701,,7.0
+ET-AJL,,4.0
+C-FICA,Moncton - Hamilton,2.0
+CCCP-13320,,16.0
+CCCP-46724,,10.0
+HK-3238,,10.0
+A-1324,,135.0
+PK-WWE,,9.0
+YV-O-CVG-4,Kavanayen - Luepa,12.0
+PK-KTC,Palangkaraya - Sampit,17.0
+N3456M,Concord, CA - Novato, CA,3.0
+130322,Edmonton - Point Alert,18.0
+,,40.0
+CCCP-87526,Ellsta - Makhackala,51.0
+PT-SCU,,15.0
+N951FE,Memphis - Destin,1.0
+,,20.0
+,,23.0
+N5011K,San Francisco, CA - Sacramento, CA,3.0
+,,20.0
+C9-STD,,3.0
+CCCP-47823,Nizhnevartovsk - Bugulma,41.0
+FAB2333,Brasilla  - Guarantinguerta,20.0
+N350MR,Grand Canyon, AZ - Las Vegas, NV,5.0
+N25BR,Rome, GA - Huntsville, AL,9.0
+D-CCCC,Frankfurt - Frankfurt,30.0
+OY-KHO,Stockholm-Copenhagen-Warsaw,129.0
+5Y-SRV,,5.0
+B-198,Taipei - Anchorage,5.0
+N55000,Plattsburgh, NY - SaranaLake, NY,4.0
+N22592,Grand Canyon, AZ - Las Vegas, NV,5.0
+F-GGED,Lyon - Strasbourg,96.0
+C-FRVR,Nanaimo - Port Mellon,9.0
+,Agdam - Shusha,47.0
+PT-TBB,Salvador - Guanambi,12.0
+58-0732,Training,5.0
+N862FW,Dakar - Yoff - Cap Skiring,56.0
+N794AL,Seattle - Toledo,4.0
+,,
+CP-754,Estencia el Trompillo - La Paz,5.0
+TN-ACX,Dwando - Brazzaville,8.0
+N165PC,Training,2.0
+N485US,New York City - Cleveland,51.0
+RA-30002,Chekurdakh - Tiksi,10.0
+ST-ALX,Amsterdam - Athens,7.0
+CCCP-67130,Etropavlovsk - Kamchatskiy,12.0
+J5-GAE,Khartoum - Tunis,13.0
+B-11116,,10.0
+P2-RDS,,15.0
+218,,46.0
+N62774,Philadelphia, PA - Reading, PA,4.0
+N141PV,Local,22.0
+N342E,Local sightseeing,9.0
+2525774,Manshahr  - Tehran,39.0
+64-0501,Training,9.0
+HP-1205,Panama City, Panama - Cali, Colombia,47.0
+N355CA,San Juan - Mayaguez,5.0
+N118GP,Atlanta - Anniston, AR,6.0
+N38DJ,Sheboygan - Manitowoc,2.0
+VH-JDL,Bankstown - Cooma,6.0
+N2715X,Meadview, AZ - Las Vegas, NV,10.0
+PP-SND,Rio Bran- Cruzeiro do Sul,3.0
+CCCP-11896,Igarka - Omsk,12.0
+N59LD,St Thomas, Virgin Islands, Fajardo, Puerto Rico,4.0
+CR872,,19.0
+N20086,Bethel - Chevak,1.0
+CCCP-11111,Nakhichevan - Rostov,34.0
+,,57.0
+CCCP-85222,Tbilisi - Mineralnye Vody,24.0
+PK-RVU,Jakarta - Surabaya - Ujung Pandang - Ambon,70.0
+CCCP-11342,,8.0
+XA-SCM,Puebla - Mexico City,4.0
+PT-LHU,Curitiba, PR - Rio de Janeiro,6.0
+N8476E,Arecibo, PR - Ponce, PR,4.0
+AP-BCP,Karachi - Kathmandu,167.0
+N11002,New York City - San Francisco,292.0
+HS-TID,Bangkok - Kathmandu,113.0
+B-2755,Nanjing - Xiamen,126.0
+CP-1961,La Paz - Santa Ana de Yacuma,10.0
+N342AE,Test,3.0
+CCCP-65058,Donetsk - Ivanovo,84.0
+N400NC,Test,3.0
+FAES121,,14.0
+FAP304,Estrecho - Iquitos,41.0
+ZS-DHX,Jamba - Pretoria,17.0
+N3657G,Local Flight,12.0
+OB-1443,Tarapoto - Bellavista,43.0
+RA-22738,,14.0
+N350SM,Sightseeing,7.0
+YV-502C,Curacao - Miami,3.0
+HK-3468X,Villavicencio - Mitu,11.0
+RA-22651,,10.0
+NAF911,Lagos - Kaduna,158.0
+4X-AXG,Amsterdam - Tel Aviv,4.0
+63-7881,Training,6.0
+B-4211,Lanzhou - Xi'an,35.0
+CCCP-48088,,13.0
+PK-MNN,Semarang - Bandung,31.0
+CCCP-28785,,16.0
+FAP306,,11.0
+CCCP-69346,Petropavlovsk - Novosobrisk,14.0
+N250TJ,,3.0
+N67941,Kiana, AK - Selawik, AK,3.0
+CCCP-09303,Migalovo AB - Yerevan,33.0
+,,20.0
+VN-A449,Ho Chi Minh City - Nha Trang,31.0
+CU-T1270,Santo Domingo - Porto Plata,34.0
+N6257H,Selway Lodge, ID  Salmon, ID,3.0
+B-2523,Guangzhou - Guilin,141.0
+650255/660142,,13.0
+XA-RML,Uruapan - Guadalajara,9.0
+9Q-CBH,,37.0
+PH-MBN,Amsterdam - Faro,340.0
+5A-DIA,Benghazi - Tripoli,157.0
+N1078V,,4.0
+D-BEAT,Bremen - Paris,23.0
+PK-IHE,,44.0
+G-ZAPE,Southend - Glasgow,2.0
+C-FAAM,Bronson - Wrangell,2.0
+9Q-CJK,,21.0
+9M-PID,Medan - Banda Aceh - Jakarta,16.0
+EP-ITD,Tehran - Khoram,133.0
+,Faisabad - Daraim,30.0
+HP-1200CTH,,2.0
+B-12238,,6.0
+PH-KXL,Skopje - ZÃ¼rich,97.0
+N4320W,Albuquerque, NM - Oakland, CA,4.0
+LN-TSA,Pucallpa - Dagali - Trujillo,10.0
+PP-SBJ,Cuiaba - Vihena - Rondonia,6.0
+N47EV,,5.0
+N500AK,Bristol, TN - Blountville, TN,4.0
+N3153R,,4.0
+YV-03C,Test,11.0
+B-2171,Shanghai - Los Angeles,264.0
+N86SD,Cincinnati, OH - Pierre, SD,8.0
+BHMAY-14102,Ulan Bator - Bayan Olgiy,40.0
+VT-ECQ,Aurangabad - Bombay,118.0
+,Kabul - Mazar-i- Sharif,76.0
+AF-319,Lusaka - Libreville - Dakar,30.0
+N115GP,Training,2.0
+DQ-FEO,,2.0
+XA-SEA,,5.0
+HK-2422X,Panama City - Medellin,132.0
+HK-2759X,Bogota - El Yopal,2.0
+ST-AID,,11.0
+P2-SWA,,11.0
+PK-NUL,,3.0
+RA-26035,Batumi - Baku - Chimkent,40.0
+PK-GFU,Ambo - Sorong,43.0
+,,23.0
+N818AN,,3.0
+N9116F,Birmingham - Talladega,2.0
+B-2716,Yinchuan - Beijing,113.0
+HL-7229,Seoul - Mokpo,110.0
+9M-AXM,Ba Kelalan - Marudi,17.0
+9N-ACL,Kathmandu - Bharatpur,19.0
+N90BP,,4.0
+N814CK,Norfolk, VA - Guantanamo, Cuba,3.0
+RA-67656,,24.0
+CCCP-87995,Khorag - Dushanbe,86.0
+D-AIPN,Frankfurt - Warszawa,70.0
+CCCP-65893,Sochi - Sukhumi,27.0
+CCCP-85163,Tbilisi - Sukhumi,132.0
+CCCP-65001,Sukhumi - Tbilisi,30.0
+,,60.0
+ZK-NOM,Glentanner - Queenstown,9.0
+B-2103,Shenzen - Fuzhou,80.0
+LN-BNM,Trondheim - Namsos,20.0
+N41010,Pontiac, MI - Greensburg, IN,5.0
+C-GQTH,Winnipeg - Sandy Lake,7.0
+B-2141,Beijing - Urumqi,102.0
+RA-82071,Dubai - Kerman,17.0
+RA-42390,GenÃ¨ve - Skopje,116.0
+TG-ACP,Santa Elena - Guatemala City,13.0
+N334PX,Minneapolis/St. Paul - Hibbing,18.0
+C-GMOP,Tuktoyaktuk - Inuvik,7.0
+6V-ADE / C5-GAA,,3.0
+RDPL-34117,Vientiane - Phonesavahn,18.0
+4761,Manila - Naga,29.0
+N309CK,Fresno, CA - Santa Ana, CA,5.0
+CCCP-26141,Krasnadar - Gyumri,36.0
+RA-85656,Irkutsk - Moscow,124.0
+VH-SVQ,Newcastle - Lord Howe Island,9.0
+N230TW,Kissimmee - Opa,10.0
+N304UE,Washington D.C. - Columbus, OH,8.0
+9Q-CBC,Cotonou - Kinshasa,2.0
+RA-11118,Volgograd - Nalchik,13.0
+OB-1559,Jananjui - Tocache - Tingo Maria - Lima,31.0
+G-OHOT,Edinburgh - Coventry,2.0
+N18835,New York City - Denver,116.0
+VT-SIA,Training,4.0
+VH-SWP,,1.0
+69-6576,,8.0
+2418393,Tehran - Moscow,32.0
+N3433Y,Spokane - Portland,2.0
+N150FB,Key West Harbor - Key West,2.0
+VH-JUU,,6.0
+PT-OMV,Manaus - Bogota,4.0
+ZD576,Aldergrove AB - Fort George,29.0
+F-OGQS,Moscow - Hong Kong,75.0
+88-0171/6810942,,7.0
+N27736,,5.0
+PH-KSH,Amsterdam - Cardiff,24.0
+FAE450,Taura - Latacunga,17.0
+9XR-NN,Tanzania - Kigali, Rwanda,12.0
+8726000/8826060,,26.0
+PK-ZAA,Pontianak - Nanga Pinoh,11.0
+B-1816,Taipe - Nagoya,271.0
+N990RA,AtlantiCity, NJ - Stratford, CT,9.0
+HK-3479,Furatena - Quipama - Boyaca - Bogota,9.0
+PT-GJW,Sao Paulo - Sao Gabriel,16.0
+HK-2890,San Jose - Villavicencio,11.0
+HK-2213,Villavicencio - La Primavera - Puerto Carreno,29.0
+N126UA,Sightseeing,7.0
+B-2610,Xian - Guangzhou,160.0
+XA-SLU,Lazaro - Cardenas - Michoacan,9.0
+XA-BBA,Mexico City - Washington D.C.,12.0
+PK-MFI,Balikpapan - Palu,12.0
+N13GA,Taku Lodge, AK - Taku Lodge, AK,10.0
+TU-TIP,San Pedro - Abidjan,17.0
+,,70.0
+F-WWKH,Toulouse - Toulouse,7.0
+5T-CLF,Nouakchott - Tidjikja,93.0
+N954VJ,Columbia, SC - Charlotte, NC,57.0
+N8297X,Portage Creek, AK - Dillingham, AK,3.0
+N151BH,Lihue, HI - Lihue, HI,7.0
+8P-TAD,Bridgetown - Fort de France,6.0
+RA-87256,Training,9.0
+HP-1202AC,Colon - Panama City,21.0
+PK-OBT,Kilo Lima - Kelawit,18.0
+,Dzhida - Boda,47.0
+HL-7296,Seoul - Cheju,160.0
+N17394,Caribou Lake, AK - Nikiski, AK,3.0
+N124NH,New York, NY - AtlantiCity, NJ,3.0
+N4839S,Merrill Field, AK - Port Alsworth, AK,4.0
+CN-CDT,Agadir - Casablanca,44.0
+N513AU,Chicago - Pittsburgh,132.0
+5N-ATQ,Lagos - Abuja,5.0
+C-FDMR,Fish Egg Inlet - Pruth Bay,4.0
+5N-IMO,Tunis - Tamanrasset,39.0
+PK-PLV,Hong Kong - Jakarta,12.0
+RA-87468,Krasnoyarsk - Tura,28.0
+FAP2009,Bahia Negra - Asuncion,27.0
+LV-WEN,Cordoba Pajas Blancas - Buenos Aires, Brazil,9.0
+RA-27209,Chaibukha - Provedenia,20.0
+N96BF,,2.0
+HK3929X,Villavicencio - Mitu,10.0
+EP-PAV,Isfahan - Terhan,66.0
+C-130-2460,Rio de Janeiro - Belem,21.0
+H534,,22.0
+RA-33008,,19.0
+RA-11790,Yushno - Ust Ilimsk,23.0
+N401AM,Indianapolis - Chicago,68.0
+XA-SVS,Cozumel - Chichen Itza,14.0
+PK-YNM,Nabire - Obano,4.0
+OB-1569,Trujillo - Saposa,30.0
+N63995,Burbank - Oakland,1.0
+P2-SWC,Selbang - Bolvovip,7.0
+N954U/N411KM,,142.0
+H584,,22.0
+EI-BWF,Manila - Cebu - Tokyo,293.0
+N1238K,Nome, AK - Koyuk, AK,5.0
+N918AE,Greensboro - Raleigh,20.0
+YV-761C,,9.0
+P2-MFS,Tabubil - Selbang,28.0
+7T-VEE,East Midlands - Coventry,5.0
+F-GBEC,Alger - Paris,239.0
+TC-JES,Ankara - Van,76.0
+1003,Isfahan - Tehran,12.0
+PK-NUK,Bima - Ruteng,14.0
+HK-3839X,Bogota - Cartagena,52.0
+N746FE,Flagstaff - Phoenix,1.0
+C-GPUN,Vancouver - Masset,5.0
+N754FE,Visalia - Oakland,1.0
+N1535E,Sequim, WA - Seattle, WA,4.0
+N2209P,Los Angeles, CA - Burbank, CA,4.0
+9N-ABI,Kathmandu - Rumjatar,24.0
+RA-67120,Krasnoyarsk - Abakan,19.0
+F-GHLN,Paris - Romania,10.0
+B-22717,,4.0
+N27245,AZ - Las Vegas, NV,10.0
+N782AL,Kansas City - Chicopee,3.0
+RA-26084,Petropavlovsk -  Ossora,10.0
+N9417B,Sacramento, CA - Reno, NV,1.0
+ZK-TIK,Hamilton -  New Plymouth,6.0
+YR-LCC,Bucharest - Brussel,60.0
+84-0136,Camp Springs, MD - San Antonio, TX,8.0
+5N-AJQ,Port Harcourt - Lagos,9.0
+VH-AJS,Tindal - Alice Springs,3.0
+4R-HVA,Anuradhapura - Palaly AFB,52.0
+C-GYYB/ C-GYPZ,Red Lake - Sioux Lookout  / Sioux Lookout - Red Lake,8.0
+N409MA,Buenos Aires - La Paz - Quito,7.0
+HK-3079G,Mitu - Villavicencio,9.0
+62-1838,Boise, ID - Colorado Springs, CO,6.0
+G-OEAA,Leeds - Aberdeen,12.0
+HK-3213,Villavicencio - Miraflores,11.0
+6V-AGH,,10.0
+N908VJ,Atlanta - Miami,62.0
+ZK-NEY,Auckland - Palmerston North,21.0
+CCCP-68142,Poliny Osipenko - Nikolayevsk-on-Amur,12.0
+RA-07743,Poliny - Nikolayevsk-on-Amur,14.0
+T401,Ondjiva - Catumbela,48.0
+RA-65617,Kaduna - Lagos,80.0
+N356SA,Santo Domingo - Aguadilla, Puerto Rico,2.0
+N8385G,Karluk - Kodiak,4.0
+P2-VTC,Port Moresby - Tabubil,3.0
+N6281J,Sightseeing,6.0
+P2-MBI,Alotou - Dagura,15.0
+PK-NUT,,18.0
+5R-MMG,Maintirano - Antananivo,34.0
+P2-TNT,,2.0
+RA-05708,Johannesburg - Jamba,3.0
+N125GU,Guatemala City - San Salvador,65.0
+PK-KHL,Tual - Langgar - Kaimana,10.0
+HK-2594,Neiva - Cali,10.0
+N256AS,Atlanta - Gulfport,29.0
+N30GA,Farewell - Anchorage,1.0
+XV239,Air Show,7.0
+N6234G,Las Vegas, NV - W. Yellowstone, MT,8.0
+FAC1152,Villavicencio - La Macarena,22.0
+YA-BAO,Kabul - Jalalabad,51.0
+CR861,Ratmalana - Palali base,81.0
+N69303,Bimini - Mores Cay,9.0
+9M-MGH,Kota Kinabalu - Tawau,53.0
+VH-NEJ,Training,3.0
+BNMAU-10103,Ulan Bator - Moron,43.0
+77-0354,Anchorage-Elmendorf AFB - Anchorage-Elmendorf AFB,24.0
+RA-24553,Cape Chelyuskin - Sterligov Cope,15.0
+C-FEBX,Triumph Bay - Campbell River,10.0
+PK-ZAG,Medan - Meulaboh,14.0
+EX-25179,,15.0
+N4834V,,3.0
+,,13.0
+XA-SVM,Saltillo - Piedras Negras,11.0
+TC-72,Comodoro Rivadavia - Cordoba,53.0
+5N-AUA,Jos - Kano,137.0
+CR862,Colombo - Palay AFB,63.0
+9M-AYW,,10.0
+4K-401,,6.0
+TJ-CBE,Cotonou - Douala,78.0
+4K-65703,Nakhichevan - Baku,82.0
+RA-85164,Yushno - Khabarovk,98.0
+F-OHRK,Cayenne - Port-au-Prince,20.0
+YR-AMR,Verona - Timisoara,49.0
+9Q-CRR,Kinshasa - Jamba,144.0
+N651A,Miami - Cali,164.0
+P2-NAM,Madang - Bundi,12.0
+EZ-22684,,12.0
+RA-26222,Kinshasa - Kahemba,6.0
+J8-VAK,Union Island - Bridgetown,10.0
+5N-AXO,,14.0
+CH-587,,39.0
+ZK-SFA,Wellington - Picton,6.0
+HK-3979X,Asuncion - Campina Grande,4.0
+N131T,St. Johns, AZ - Brownsville, TX,4.0
+TC-GEN,Puerto Plata - Gander,189.0
+XA-SLQ,Tijuana - Ensenada,8.0
+,,20.0
+N224E,Port-au-Prince - Cap Haitien,15.0
+TG-JAK,Guatemala City - Cantabal,2.0
+D-CASH,Berlin - Salzburg,10.0
+,El Obeid - Khartoum,91.0
+ER-ACE,Ludana - Lukapa,8.0
+OB-1451,Lima - Arequipa,123.0
+PT-LSD,Brasilia - Sao Paulo,9.0
+EP561,Condorcanqui - Bagua,23.0
+P4-AVB,Ariba - Punto Fijo,8.0
+N9983Z,,5.0
+73-1149,Tizla - Dubrovnik,35.0
+RA-76752,Novosibirsk - Petropavlovsk,20.0
+B-12257,Taipei - Matsu Island,17.0
+N35207,Cheyenne, WY - Lincoln, NE,3.0
+ST-FAG,Wadi Halfa - Khartoum,53.0
+C-GDOB,,2.0
+XA-SWJ,Durango - Otaez,19.0
+P2-ISD,Menyamya - Marakawa,10.0
+N904VJ,Miami - Atlanta,110.0
+G-BEDZ,Inverness - Lerwick,3.0
+UR-76539,Kinshasa, Congo  - Athens, Greece,10.0
+EP-IRU,Training,7.0
+A25-113/A25-209,,28.0
+PK-GIE,Fukuoka - Denpasar,275.0
+B-3822,Dalian - Shanghai,12.0
+N927DA,Pensacola - Atlanta,142.0
+P2-MBB,Bosavi - Mendi,20.0
+VT-ETC,Delhi - Shimla - Kulu,9.0
+CH-06,Villafranca, Italy - Eindhoven AB,41.0
+N93119,New York City - Paris,230.0
+XA-TCF,Holvox Island - Playa del Carmen,18.0
+N313RS,Emmonak - Aniak,4.0
+XY-AET,Rangoon - Mergui,49.0
+C-GNDN,Iqaluit - Markham Bay,2.0
+C-FGNI,Bronson Creek - Wrangell,3.0
+74-1662,Jackson Hole, WY - New York, NY,9.0
+C-GCMY,Tasu - Alliford,3.0
+RA-76513,Belgrade - Malta,12.0
+RA-85621,Moscow - Svalbard,141.0
+PT-WAV,Porto Alegre - Joinville,2.0
+N7312C,,5.0
+PH-DDA,Texel - Amsterdam,32.0
+N52AW,Lima - Santiago,70.0
+9Q-CXK,,21.0
+RA-11101,,19.0
+RA-82069,Moscow - Turin, Italy,23.0
+N64276,,3.0
+N744W,Port Meiner, Quebe- Bangor, Maine,8.0
+N751MA,Manta - Miami,4.0
+RA-88527,Tyumen - Khanty,34.0
+PT-MRK,Sao Paulo - Rio de Janiero,95.0
+TG-TPA,Guatemala City - Flores,16.0
+HB-LRX,Geneva - Bordeaux,8.0
+D2-FVG,Luanda - Lucapa,16.0
+5N-BBF,Port Harcourt - Lagos,143.0
+HZAIH/UN-76435,New Delhi - Dhahran / Chimkent - New Delhi,349.0
+,,8.0
+RA-40309,,15.0
+N87GL / N1127D,Burlington, IA - Quincy, IA,14.0
+64-14856,San Diego, CA - Portland, OR,11.0
+ET-AIZ,Addis Ababa - Nairobi,175.0
+N4704B,Bethel - Kwigillingok,1.0
+RA-76804,Abakan - Petropavlosk - Kamchatsky,23.0
+HK-2602,Medellin - Bahia Solano,15.0
+PK-VSO,Banjarmasin - Sampit,17.0
+N75142,Boise - Salt Lake City,2.0
+,St. Petersburg - Krasnodar,18.0
+HK-4008X,Bogota - Medellin,4.0
+N827AX,Test flight,6.0
+H1032,Tanbaram AFB - Hyderabad,22.0
+N388LS,Bridgeport, CT - Lebanon, NH,2.0
+N802TH,Manteo - Edenton,2.0
+5W-FAU,Pago Pago - FagaliI,5.0
+N265CA,Cincinnati - Detroit,29.0
+N702SC,St. Marys - Kenai,2.0
+5N-AXS,Jos - Yola,16.0
+6AV-AEO,Tambacounda - Dakar,52.0
+T-400,Luanda - Cafunfo,37.0
+357 / 903,,73.0
+PP-CJO,Maraba - Carajas,52.0
+YV-160CP,Lima, Peru - Guatemala City, Guatemala,5.0
+C-FESJ,,1.0
+HK-3885,,4.0
+,Dezful - Mashhad,88.0
+RA-46516,Stavropol - Trabzon,50.0
+88-4408,Howard AFB - Tegucigalpa,10.0
+N83FA,Griffin - Americus,2.0
+N408GV,Barrow - Wainwright,5.0
+D2-TFP,Brazzaville - Luanda,7.0
+4K-87504,Training,6.0
+5U-MBD,,14.0
+PK-MTX,Jakarta - Tanjung Pandan,53.0
+,,36.0
+B-2925,Chongqing - Shenzen,74.0
+9Q-CWL,Bunia - Kisangani,27.0
+JU-1020,Ulan Bator - Mandalgobi,12.0
+VT-SSA,Mumbai - Banglaor,2.0
+N5164G,Sightseeing,5.0
+,,29.0
+PT-WHK,Sao Jose dos Campos - Congonhas,60.0
+CU-T1262,Santiago de Cuba - Havana,44.0
+N15199,Haines, AK - Skagway, AK,6.0
+PK-YPM,Bangdung - Jakarta,50.0
+P2-MMU,Chimbu - Goroka,4.0
+9V-ATD,Phuket - Ranong,2.0
+5N-BAA,Lagos - Calabar,55.0
+F-GPYE,Nice - Florence,17.0
+HL-7468,Seoul - Guam,254.0
+N27UA,Miami - Santo Domingo,4.0
+B-12256,Taipei - Matsu,16.0
+C-GIGK,,2.0
+VH-PJQ,Sightseeing,5.0
+PT-LML,,2.0
+FAC1115,San Felipe - Puerto Inirida,12.0
+VN-A120,Ho Chi Minh City - Phnom Penh,66.0
+9M-MIA,Bandar Seri Begawan - Miri,10.0
+9Q-CBO,Buknavu - Uvira,22.0
+1102/65-9405,,33.0
+PK-GAI,Jakarta - Medan,234.0
+N12022,Montrose, CO - Page, AZ,9.0
+EC-ERQ,,9.0
+LV-WEG,Posadas - Buenos Aires,74.0
+1310,,5.0
+N555JD,,1.0
+YA-KAE,,26.0
+C-GPRL,Fort MMurray - La Loche,6.0
+N750GC,Barrow - Wainwright,8.0
+RA-82005/08,Irkutsk - Vladivostok,23.0
+C-GVRO,Winnipeg - Little Grand Rapids,17.0
+CP-1635,Villamontes - Santa Cruz,19.0
+EY-85281,Dushanbe - Sharjah,86.0
+C-GKWV,Mackenzie - Bear Valley,3.0
+UR-42334,Odessa - Thessaloniki,70.0
+9V-TRF,Jakarta - Hatta - Singapore,104.0
+750,Search mission,5.0
+ER-ACF,Abidjan - Rundu, Nambia,5.0
+N4723U,Tokyo - Honolulu,393.0
+HP-986PS,Panama City - Rio Sidra,10.0
+N913FE,Maiden, NC - Greensboro, NC,1.0
+YA-DAB,Kandahar - Heart,51.0
+YV-928CP,Gomel - Kunovice,2.0
+XY-AES,Thandwe - Sittwe,45.0
+RP-C1507,Tacloban - Cagayan de Oro,104.0
+163045/CY-02,,2.0
+LZ-SFG,Terceira - Lisbon,7.0
+D-3B-9,,5.0
+,,57.0
+B-1814,Denpasar - Taipei,196.0
+N840FE,Memphis, TN - Bowling Green, KY,1.0
+N868FE,Grand Forks - Bismark,1.0
+SU-PBA,Mombasa, Kenya - Cairo, Egypt,6.0
+B-12255,Hsinchu - Kao Hsiung,13.0
+YA-FAZ,Dubai - Kandahar - Kabul,45.0
+RP-C3222,Manila - Bacolod,127.0
+OB-1388,Tumbes - Piura,55.0
+XA-TAP,,4.0
+HC-BSU,Bogota - Quito,53.0
+FAP-351,Iquitos - Andoas,88.0
+5T-MAG,Nema - Nouakchott,42.0
+34001,Vientiane - Xiang Khoang,26.0
+N96CW,Charlotte, NC - Monroe, NC,5.0
+JU-1017,Erdenet - Moron,28.0
+C-GQAL,Montreal - Peterborough,11.0
+N594BK,Sightseeing,6.0
+UR-76424,Rasal - Nikolaev, Ukraine,8.0
+LV-WPO,TucumÃ¡n - CÃ³rdoba,3.0
+UR-UCI,Bourgas, Bulgaria - Asmara, Eritrea,10.0
+XC-UTQ,,4.0
+VP-BPS,VP-BPS,18.0
+EC-FXD,Palma de Mallorca - Barcelona,2.0
+PT-LGN,Tefe - Manaus,24.0
+VT-EJW,Agathi - Kochi - Thiruvananthapuram,6.0
+D-CPRR,Cagliar - Genoa,31.0
+F-GSJM/F-GAJE,Lyon - Lorient,15.0
+C-FOCJ,Prince Rupert - Kincolith,5.0
+D2-FAZ,,13.0
+ZK-VAC,Stewart Island - Invercargill,10.0
+9N-ACC,Jomsom - Pokhara,18.0
+N2748J,St. Maarten - Roseau,11.0
+ZS-NKK,Pretoria - Durban,2.0
+XY-AEN,Rangoon - Tachilek,44.0
+CU-T1264,Quito - Guayaquil - Havana,91.0
+RA-26028,,24.0
+HB-IWF,New York City - Geneva,229.0
+N1433Z,Anchorage, AK - Hoholitna River, AK,5.0
+24143,,5.0
+TN-AFR,Huambo - Luanda,5.0
+U-614,Timika - Jayapura,9.0
+ZK-DKL,Sightseeing,3.0
+EC-GEO,Malaga - Melilla,38.0
+D4-CAX,Sao Nicolau - Praia,22.0
+EW-46465,Jaffna - Colombo,55.0
+YV-611C,Sighteeing,27.0
+9Q-CSG,Kindu - Kinshasa,41.0
+EK-88272,Yerevan - Krasnodar,37.0
+PT-WKH,Teresina - Fortaleza,3.0
+5Y-ANV,,11.0
+N3FY,Plaa Grande - Quetzaltenango,18.0
+RA-12955,Krasnoyarsk - Mirny,13.0
+RP-C606,,9.0
+N956DB,Brunswick, GA - Annapolis, MD,1.0
+N9352B,Vancouver - Victoria,2.0
+,,6.0
+N501EZ,Mena, AR - Texarcana, TX,1.0
+C-FCVK,Point-Lebel - Rimouski,10.0
+XY-AEO,Yangon - Sittwe,8.0
+HS-TIA,Bangkok - Surat Thani,146.0
+UR-11319,,11.0
+S9-SAT,Luanda - Saurimo,10.0
+HK-3930X,BogotÃ¡ - MedellÃ­n,5.0
+S9-CAO,Huambo - Saurimo,14.0
+D2-EHD,Huambo - Luanda,9.0
+G-CHNL,London - Guernsey,2.0
+59-1452,,4.0
+C-GWUG,Vancouver - Victoria,2.0
+VH-XFF,Horn Island - Coconut Island,4.0
+9N-ADA,Jumla - Nepalgunj,12.0
+,Managua - Bluefields,28.0
+EL-ASS,Luanda - Lucapa,14.0
+P2-ALH,Hoskins - Kandrian,11.0
+9Q-CDI,Kinshasa - Mbandaka,7.0
+N205RA,Tonopath - Bishop,1.0
+B-2622,Chengdu - Wenzhou,61.0
+K2673,Gwalior -  Pokhran - New Delhi,19.0
+HK-337,Cucuta - El Yopal,8.0
+C-FWLQ,Goose Bay - Davis Inlet,2.0
+PT-LEM,Training,5.0
+TC-JEP,Adana - Ciddah,6.0
+HK-2760,Bucaramanga - Malaga,5.0
+HL-7373,Shanghi, China - Seoul, Korea,3.0
+YJ-RV9,EspÃ­rita Santo - Port Vila,12.0
+M21-05,Training,5.0
+5Y-LET,Ol Kiombo - Mara Sika AS,2.0
+N215AA,Dallas-Fort Worth - Little Rock,145.0
+,Kassala - Khartoum,50.0
+RP-C471,,1.0
+N6099S,Sightseeing,7.0
+P2-ALX,Nadzab - Goroka,17.0
+C-FIFP,Test flight,2.0
+D-IBEX,London, England - Frankfort, Germany,2.0
+HK-1776,Villavicencio - Mitu,18.0
+VT-LCI,Kathmandu - New Delhi,5.0
+XA-TAL,Los Mochis - Toluca,4.0
+N9253N,Fairfield, N.J. - Martha's Vineyard, MA,3.0
+YN-CED,Managua - Bluefields,16.0
+,Tokyo, Japan - Chitose, Japan,517.0
+N5382W,,7.0
+DQ-AFN,Nausori - Nadi,17.0
+N518DM,Sky Diving,10.0
+D4-CBC,Sao Vicente - Santo Antao,18.0
+C-FLIH,Port-Menier - Sept-Iles,4.0
+B-150,Bangkok - Hong Kong,315.0
+B-17912,Taipei - Hualian,96.0
+UK-87848,Tashkent - Turtkul,33.0
+LV-WRZ,Buenos Aires - Cordoba,103.0
+5HNAT,Serener Airstrip - Kilimanjaro IAP,12.0
+G-ILGW,Glasgow - Aberdeen,11.0
+N4830S,Westerly, RI - Block Island, RI,5.0
+9N-AEG,Pokhara - Kathmandu,15.0
+SX-ECH,Athens - Bucharest,13.0
+PT-ODK,Belem - Monte Dourado,2.0
+3610,Test flight,5.0
+N411WL,Sightseeing,10.0
+N704H,,20.0
+I-AVJG,Napoli - Genoa,3.0
+EV-8012,La Carlota - Acarigua,6.0
+N47BA,Orlando, FL - Dallas, TX,6.0
+SU-GAP,New York City - Cairo,217.0
+N902CT,,4.0
+31242/31243,Training,16.0
+XA-TKN,Uruapan - Mexico City,18.0
+F-OHFV,Rome - Pristina,24.0
+5Y-RAN,Nairobi - Dar Es Salaam, Tanzania,4.0
+UK-91004,Moscow, Russia - Tashkent, Uzbekistan,7.0
+ZS-OJY,Johannesburg, South Africa  - Oranjemund, Namibia,9.0
+N1747U,,6.0
+RP-C-3883,Manila - Cauayan,17.0
+N525KL,Saint Louis - Branson,6.0
+SE-GDN,Sundsvall - Gothenburg,8.0
+63-7854,,94.0
+CS-TGM,Ponta Delgada - Horta,35.0
+F-GTDI,Havana - Guatemala City,314.0
+N86BE,Opa-Locka - Marianna,3.0
+ZS-ONT,,2.0
+HL-7451,London, England - Milan, Italy,4.0
+VT-EDW,Kathmandu - New Delhi,189.0
+CU-T1285,Havana - Valencia,22.0
+9N-AFL,Simara - Kathmandu,10.0
+3C-JJI,Kiev, Russia - Tehran, Iran,6.0
+5N-AXL,Lagos - Abuja,16.0
+HB-AKK,ZÃ¼rich - Dresden,10.0
+HB-AAM,Tripoli IAP - Marsa el-Brega,41.0
+YS-09-C,San Jose - Tortuguero,20.0
+,Ankara - Istanbul,4.0
+5Y-BEN,Abidjan - Lagos,179.0
+TL-ACM,Pepa, Congo - Kigali, Rwanda,24.0
+N286,Cagayancillo - Puerto Princesa,15.0
+N963AS,Puerto Vallarta - San Francisco,88.0
+,Training,8.0
+N756HG,Ilianma, AK - Koliganek, AK,6.0
+N8079U,Sacramento, CA - Dayton, OH,3.0
+N668SW,Las Vegas - Burbank,142.0
+RA-88170,Moscow - Kiev,9.0
+C-FNTF,Points North Landing, SK - Ennadai Lake,2.0
+HP-1267APP,Panama City - Puerto Obaldia,10.0
+TM-12D-73,Sevilla - Herreira,
+RA-11302,Bangkok - Colombo,8.0
+D2-MAJ,Huambo - Luanda,33.0
+LV-ZSR,,1.0
+N220JC,Boca Raton - Fort Pierce,3.0
+RP-C3010,Manila - Davao,131.0
+P2-ISA,,4.0
+G-MURI,,5.0
+8R-GAC,,1.0
+N241H,Kahului - Hoolehua,6.0
+TR-LFK,Libreville - Moanda,10.0
+N16EJ,AtlantiCity - Wilkes-Barre,19.0
+F-OHZN,Davao - Manila,298.0
+G-SSWN,Paris - London,2.0
+VH-MZK,Adelaide - Whyalla,8.0
+G-524,Tamale - Accra,52.0
+G-BMBC,Ronaldsway - Liverpool,5.0
+PT-LGL,Cuiaba - Rondonopolis,4.0
+B-3479,Enshi - Wuhan,44.0
+88-1027,Training,5.0
+N912FJ,Tuxtla Gutierrez - Villahermosa,19.0
+HK-851P,Villavicencio - Mitu,19.0
+N201RH,Hinckley, IL - Louisburg, NC,3.0
+VT-EGD,Calcutta - Patna - Lucknow - New Delhi,58.0
+C-GNAK,Moncton - Montreal,2.0
+N54AA,,2.0
+N510TG,Sight seeing,7.0
+F-BTSC,Paris - New York City,109.0
+348,,13.0
+9N-ABP,Bajhang - Dhangadhi,25.0
+PT-HRD,Cubatao - Navegantes,6.0
+230,Santiago - Coihaique,14.0
+N27944 / N2225G,Lakehurst, NY - Patuxent River, MD,11.0
+,Kinshasa - Tshikapa,27.0
+C-GMPB,Teslin - Dease Lake,2.0
+N801MW,Dothan, AL - Hazelhurst, GA,3.0
+A4O-EK,Cairo - Manama,143.0
+N923BA,Sightseeing,9.0
+HP-1357AAP,San Jose  - La Fortuna - Tamarindo,10.0
+FAC1659,,7.0
+VH-SKC,Perth - ,8.0
+,Colombo - Kalmunai,14.0
+N220CS,Deadhorse - Nuiqsut,10.0
+N936ML,Mexico City - Reynosa - Matamoros,88.0
+CP-1721,Cashaschanes - Sumacal,6.0
+C-FSDZ,Kuglluktuk - Yellowknife,3.0
+N941FE,Bellingham - Eastsound-Orcas Island,1.0
+C-FTBZ,Test flight,3.0
+N8354N,St. Louis - New Madrid,3.0
+RDPL-34130,Vientiane - Sam Neua,17.0
+RA-74295,Moscow - Batumi,86.0
+9V-SPK,Taipei - Los Angeles,179.0
+D2-FDI,Saurimo - Luanda,44.0
+ER-AFA,,11.0
+N731AC,Fort Wayne, IN - Milwaukee, WI,1.0
+D2-FCG,Luanda - Namibe,57.0
+N14056,Miami, FL - Port au Prince,114.0
+EC-DQG,Malaga - Cordoba,2.0
+N616F,Skydiving,9.0
+N19454,,2.0
+YV-224C,Canaina - Ciudad Bolivar - Por La Mar,24.0
+N81PF,Broomfield, CO - Stillwater, OK,10.0
+HK-3932X,El Yopal - Mitu,6.0
+N318DH,Chicago - Beaver Island,6.0
+I-MOCO,Nurnberg - Rome, Italy,3.0
+PZ-TBP,Paramaribo - Jakobkondre,10.0
+G-BNMT,Edinburgh - Belfast,2.0
+PT-OET,,6.0
+HS-TDC,Bangkok - Chiang Mai.,5.0
+93-1336,Fort Walton Beach, Fl - Oceana Naval Air Station, VA,21.0
+RA-85619,Istanbul, Turky - Moscow, Russia,174.0
+S9-CAE,Luanda - Lubango,17.0
+F-OGES,St. Maarten - St. BarthÃ©lÃ©my,19.0
+PK-MFL,Training,3.0
+N303GA,Los Angeles - Aspen,18.0
+N405PC,Green Bay - Ft. Myers, Fl,1.0
+,Adar Yeil - Khartoum,30.0
+VN-8415,Vinh - Dong Hoi - Hue,16.0
+LV-WSC,San Fernando - El Calafate,10.0
+,Diyarbakir - Ankara,34.0
+TC-76,Mendoza - Parana,5.0
+EP-TQP,Tehran - Gorgan,30.0
+RA-12135,Rzhevsk - Morsansk,7.0
+PK-VTP,Jayapura - Wamena,19.0
+RA-85845,Yekaterinburg - Irkutsk - Vladivostok,145.0
+HL9240,Jinhae - Ockpo,12.0
+YV-117CP,Puerto Cabello - Caracas,13.0
+RA-76588,Moscow - Norilsk,10.0
+N39586,Shagway, AK - Return,6.0
+D-CBNA,ReykjavÃ­k, Iceland - Narsarsua, Greenland,3.0
+N169PA,Grand Canyon NP - Las Vegas,7.0
+3C-LLA,Kama - Kapmene,11.0
+C-GITS,Toronto - Lisbon,304.0
+N153TW,Ithaca, NY - Jackson, MI,2.0
+N8097W,Abaco - Miami,9.0
+EC-FBC,Melilla - MÃ¡laga,47.0
+N591UA,Newark - San Francisco,44.0
+N644AA,Washington D.C. - Los Angeles,64.0
+N334AA,Boston - Los Angeles,92.0
+N612UA,Boston - Los Angeles,65.0
+XA-ACM,Chichen Itza - Cozumel,19.0
+PT-MRN,Recife  - Sao Paulo,82.0
+TG-CPE,Guatemala City - San Pedro Sula, Honduras,13.0
+N733SW,Decatur Island, WAAnacortez, WA,3.0
+RA-85693,Tel Aviv -  Novosibirsk, Russia,78.0
+SE-DMA / D-IEVX,Milan - Copenhagen / Milan - Paris,114.0
+C-GPUO,Iyachisakus Lake - Mollet Lake,7.0
+N9530F,Dillingham - King Salmon,10.0
+EC-GDV,Barcelona - Oran, Algeria,10.0
+C-GYPA,Gods Narrows - Shamattawa,3.0
+PT-EVF,Humiata - Altamira,6.0
+N400EH,Fire Island, AK - Anchorage, AK,5.0
+N14053,New York City - Santo Domingo, Dominican Rep.,260.0
+RA-75840,Khatanga - Moscow,27.0
+N5UJ,Pittsburgh, PA - Baca Raton, Fl,2.0
+ES-NOV,Tallinn - Kardla,17.0
+HB-IXM,Berlin - Zurich,33.0
+9G-MKI,Luxembourg - Port Harcourt,13.0
+HP-1405APP,San Jose - Quepos,8.0
+RA-76839,Moscow - Bratsk - Anadyr,18.0
+N499BA,Little Rock - Bessemer,2.0
+N997TD,Harlingen - El Paso,2.0
+5X-CNF,Bunia - Beni,6.0
+HK-4175X,Medellin - Quibdo,16.0
+HB-VLV,,2.0
+D-IAAI,Bremerhaven - Wangerooge,9.0
+N3525Y,,5.0
+N90AG,Birmingham, England - Bangor, MA,5.0
+160021,Jacobabad - Shamsi,7.0
+EC-GTJ,Madrid - Bilbao,3.0
+XC-FIT,Mexico City - Chilpancingo,17.0
+PK-GWA,Ampenan - Yogyakarta - Jakarta,62.0
+HC-AYM,Quito - Lago Agrio,26.0
+ZK-SEV,Te Anau  - Milford Sound,6.0
+T-304,,40.0
+HC-BLF,Quito -  TulcÃ¡n - Cali,92.0
+84-0097,Training,2.0
+EP-MBS,Tehran - Khorramabed,117.0
+ER-ADL,,10.0
+07RED,Sanofov - Lakhta,20.0
+92-0471,Basilan - Mactan Island,10.0
+LY-AVD,Budapest, Hungary - Tunis, Tunisia,3.0
+CU-T1020,Cienfuegos -- Cayo Coco,17.0
+N228PA,Minneapolis - Detroit,1.0
+J2-KBC,Mogadishu, Somalia - Djibouti,4.0
+VH-UJB,Cairns - Hicks Island,4.0
+EC-GKR,Madrid - Palma de Mallorca,2.0
+B-2552,Beijing - Busan,166.0
+VH-XGR,Mornington Island - Normanton,6.0
+HK-4171X,MedellÃ­n - PopayÃ¡n,8.0
+N7344N,,6.0
+,,20.0
+5N-ESF,Abuja - Jos - Kano - Lagos,77.0
+SU-GBI,Cairo - Tunis,62.0
+B-2138,Beijing - Dalian,112.0
+9Q-CEX,Port Harcourt - Calabar,5.0
+B-18255,Taipei - Hong Kong,225.0
+PK-YPZ,Nabire - Enaotali,6.0
+ZS-OJU,Bloemfontein - George,3.0
+,Luanda - demobilization camp,25.0
+PT-EPH,,5.0
+C-GPOW,Winnipeg Manitoba,8.0
+84-0475,,10.0
+RA85816/A9C-DHL,Moscow-Munich-Barcelona / Bahrain/Brussels,71.0
+N8145M,,2.0
+9XR-IS,N'Djamena, Chad - Brazzaville, Congo,27.0
+N3129F,Lake Hood, AK - Iliamna, AK,4.0
+PK-TAR,Tarakan - Krayan,10.0
+G-BJVX,Gas platform Clipper - drilling rig Golbal Sante Fe Monach,11.0
+9N-AGF,Jumla - Surkhet,4.0
+42,,2.0
+RA-86060,Moscow - St. Petersburgh,16.0
+90-0161,Roosevelt Roads NS - Borinquen NGB,10.0
+CR-873,,5.0
+89RED,,147.0
+9N-AFR,Jomsom - Pokhara,18.0
+RA-28932,Khabarovsk - Ayan,16.0
+N45CP,Marco, Fl - Lexington, KY,5.0
+PT-WRQ,Cruzeiro do Sul - Tarauaca - Rio Branco,31.0
+B-7023,Survey,3.0
+C-FRKZ,Edmond, Alberta - High Prarie, Alberta,2.0
+OB-1226,,6.0
+PT-MTS,Guarulhos - Londrina,2.0
+C-FLGA,Lake de l'Avion - Agunish River,4.0
+IN302 / IN304,Military exercises,12.0
+N5027Q,,5.0
+N76U,Mobile - Mongomery,1.0
+N41BE,St. Paul - Eveleth,8.0
+LX-LGB,Berlin, Germany - Luxembourg,22.0
+PK-VIZ,Tarakan - Long Bawan,10.0
+N61RS,Las Vegas, NV - Taos, NM,2.0
+RP-C6888,Manila - Laoag,34.0
+5Y-ONT,Ol Kiombo - Mombasa,20.0
+N127YV,Wichita, KS - Mena, AR,3.0
+P2-CBB,Gohu - Madang,8.0
+ / ,,22.0
+N277PM,Decatur - Rockford,1.0
+B-22708,Taipei - Macau,2.0
+UR-14003,Kharkiv, Ukraine - Trabzon, Turkey - Isfanan, Iran,44.0
+N1122Y,Elizabeth City - Manteo,1.0
+FAB-2292,Sao Paulo - Porto Alegre,16.0
+9XR-RB,Moroni Hahaya - Anjouan,16.0
+TC-THG,Istanbul - Ankara - Diyarbakir,80.0
+N233YV,Charlotte, NC - Greer, SC,21.0
+OB-1396,Chiclayo - Chachapoyas,46.0
+ER-AFT,Brazzaville - Douala,7.0
+5Y-EMJ,Busia - Nairobi,13.0
+RDPL-34141,Macau - Baucau,6.0
+UR-LIP,Agadir - Algiers,8.0
+ES-NOY,Tallinn - Helsinki,3.0
+N421TJ,Griffith-Merrill, IN - Somerset, KY,7.0
+15-22,Zahedan - Kerman,275.0
+10254,Islamabad - Kohat,17.0
+FLARF-01032,Skydiving,25.0
+7T-VEZ,Tamanrasset - Algiers,103.0
+PK-WAY,Mulia - Wamena,16.0
+N1636W,Aurora, IL - Morris, MN,3.0
+UR-UCB,Kinshasa - Lubumbashi,200.0
+UR-42352,Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain,75.0
+N70176,,4.0
+I-ERJC,Milan - Genoa - Farnborough,2.0
+PT-EPH,Oiapoque - Macapa,5.0
+ZK-NCA,Palmerston North - Christchurch,10.0
+PT-EHH,,4.0
+N4493M,Sightseeing,4.0
+F-GRJS,Nantes - Brest,24.0
+,,7.0
+N91303,Hallo Bay, AK - Homer, AK,3.0
+V5-CAS,,4.0
+7T-WHQ,Training,4.0
+PT-LFX,,4.0
+PT-YVM,,5.0
+ST-AFK,Port Sudan - Khartoum,117.0
+N314AB,Ft. Lauderdale, FL - Treasure Cay,10.0
+YV-1060CP,La Carlota - San Cristobal,10.0
+ZS-OYI,Nairobi - Samburu National Park,14.0
+N37741,Sightseeing,5.0
+N135PT,Farmingdale - Groton,2.0
+YV-1069C,Porlamar - Canaima,16.0
+,Kamchatka - Kuril Islands,20.0
+HH-TAD,Cap Haitien - Port au Paix,21.0
+N240CJ,,2.0
+C-FKAB,Pickle Lake - Summer Beaver,8.0
+N666TW,El Paso - Del Rio,2.0
+3603,Mexicali - Santa Lucia,6.0
+N270SH,Sightseeing,7.0
+C-FARL,GaspÃ© - ÃŽles-de-la-Madeleine,3.0
+PT-EBK,Sao Gabriel de Cachoeria - Yauarete,4.0
+ZK-KFU,Christchurch - Palmerston North,2.0
+YV-1128C,,2.0
+LV-MGV,,5.0
+XA-ISH,Tampico - Las Potrancas Ranch Airstrip,3.0
+N791FE,Casper - Cody,1.0
+,Fallujah - Baghdad,36.0
+8R-GMC,Ogle, Guyana - Ekereku, Guyana,7.0
+VH-YKL,,4.0
+N439AF,Seattle - Spokane,1.0
+9T-TAD,Boende, Congo - Kinshasa, Congo,24.0
+C-GOFF,,3.0
+HK-4246X,El Yopal - Mitu,3.0
+N600XJ,Chino,CA - Sun Valley, ID,2.0
+3X-GDO,Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon,161.0
+SU-ZCF,Sharm el Sheikh, Egypt - Cairo, Egypt,148.0
+UK-87985,Termez - Tashkent,37.0
+C-FAGA,Pelee Island, Ontario - Windsor, Ontario,10.0
+7T-VIN,Hassi R'Mel - GhardaÃ¯a,5.0
+Z3-BAB,Skopje - Mostar,9.0
+EP-LCA,Kish Island - Sharjah,46.0
+OE-FAN,Rome - Cagliari,6.0
+VH-RPI,Trefoil Island - Smithton,4.0
+UR-ZVA,Ankara - Baku - Kabul,7.0
+165938,Training,4.0
+N4826C,San Juan - Saint Martten,2.0
+N27RA,,5.0
+VH-MAR,Hamilton Island - Lindeman Island,6.0
+N502MT,Odessa, TX - Lubbock, TX,5.0
+XC-JEH,Ciudad Juarez - Mexico City,7.0
+YV-O-CBL-7,Ciudad BolÃ­var - UonquÃ©n,7.0
+HK-4275,Bogota - Carepa,7.0
+9XR-DC,Jiech - Ayod,10.0
+ST-SIG,Khartoum - Juba - El Obeid,7.0
+PT-WRO,Sao Paulo - Tefe - Manaus,33.0
+UN-70276,Kyzyl-Orda - Bozoy - Vozrozhdenya Island,12.0
+4K-AZ27,Taiyuan - Urumqi - Baku,7.0
+5Y-VVD,Nairobi - Mogadiscio,2.0
+9N-AFD,Katmandou - Lukla,3.0
+TR-LFW,Libreville - Franceville,30.0
+PT-EHH,Belo Horizxonte - Juiz de For a,4.0
+RA-27113,Freetown - Kailahun,24.0
+N280AT,Panama City, Panama  - Washington DC,6.0
+N45032,Waterbury,CN  - Oxford, CN,2.0
+PP-MYM,Campos, Brazil  -  Off-shore oil rig,11.0
+P2-MBA,Port Moresby - Ononge,3.0
+N586P,Memphis - Cincinnati,2.0
+N199GL,Billings - Kalispell,2.0
+5Y-TWH,Goma - Walikale,3.0
+FAV-1652,La Orchila Air Base - Maracay,25.0
+RA-85556,Moscow - Sochi,46.0
+RA-65080,Moscow - Volograd,41.0
+N197TT,Kenai - McGrath - Kotzebue,3.0
+XA-TFD,Mexico City - Villahermosa,2.0
+,Athens - Mount Athos,17.0
+N902GD,Mayaguez - San Juan,1.0
+ST-SAF,El Obeid - Juba,4.0
+N85VT,Dallas - Houston,3.0
+N960BW,Bagram - Farah, Afghanstan,6.0
+N8396A,Little Rock - Minneapolis,2.0
+9G-MKJ,Windsor Locks - Halifax - Zaragoza, Spain,7.0
+HK-1503,Villavicencio - Medellin,3.0
+RP-C1325,Coron Island - Manila,2.0
+N875JX,St. Louis, MO - Kirkville, MO,15.0
+N501RH,Concord, NC - Martinsville, VA,10.0
+N30DK,San Diego, CA - Albuquerque, NM,5.0
+YV-1083C,El Vigia - Caracas,21.0
+B-3072,Baotou - Shanghai,53.0
+N873G,Montrose, CO - South Bend, IN,6.0
+PK-LMN,Jakarta, Indonesia - Solo, Indonesia,154.0
+N604GA,Saint Louis - Toledo,2.0
+N25SA,Salt Lake City, UT - Sun Valley, ID,2.0
+HK-2882,,6.0
+GN-97121,Puerto Ayacucho - La Carlota,16.0
+PT-WAK,Sao Paulo - Uberaba,2.0
+ER-IBW,Baku - Kabul,7.0
+,,20.0
+RA-62597,Vanavara - Tura,9.0
+N49BA,Bangor, ME - Concord, NH,1.0
+,Ferrying troops,31.0
+HA-LAR,Bucharest -Lasi,2.0
+XV179,Bagdad - Balad,10.0
+EX-037,Herat - Kabul,104.0
+ST-EWB,Sharjah - Khartoum - Nyala,7.0
+N432AR,Fresno, CA - Santa Monica, CA,2.0
+N500AT,Richmond, VA - Saint Louis, MO  - Pueblo,CO - Irvine, CA,8.0
+P2-MFQ,Tabubil - Bimin,13.0
+,Jayapura - Sarmi,18.0
+YV-21CP,Maturin - Charallave,2.0
+G-BOMG,Glasgow - Campbeltown,2.0
+RA-46489,Ufa - Usinsk - Perm - Varandey - Naryan Mar,52.0
+ER-IBR,Mwanza - Khartoum - Zagreb,8.0
+HK-4146,Old Providence - San Andres,14.0
+87-0127,Training,9.0
+PK-LTZ,Timika - Enarotali,18.0
+EP-SHE,Krish - Teran,169.0
+EP-830,Training,13.0
+ZK-POA,Auckland - Blenheim,2.0
+EK-26060,Bangboka - Isiro,11.0
+VH-TFU,Bamaga - Lockhart River,15.0
+CC-CFS,Balmaceda, Argentina - Chile Chiro, Chile,10.0
+AF-216,Lusaka - Livingstone - Mongu - Lusaka,13.0
+9Q-CVG,Goma - Kindu - Kongolo,27.0
+ST-WAL,Kartoom - El Obeid - El Fasher,42.0
+3C-VQR,Malabala, Bioko Island - Bata,60.0
+F-GLZQ,Paris, France - Toronto Canada,309.0
+TS-LBB,Bari, Italy - Djerba, Tunisia,39.0
+OH-HCI,Talinn, Estonia - Helsinki, Finland,14.0
+5B-DBY,Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic,121.0
+HK-4374X,Panama City - Fort de France, Martinique,160.0
+OB-1809,Lima - Pucallpa - Iquitos,98.0
+ER-AZT,Beni - Isiro,11.0
+PK-RIM,Medan - Jakarta,117.0
+9Q-CFD,Boende - Kinshasa,14.0
+PT-WLX,Rio de Janeiro - Jacarepagua,2.0
+YV-412C,San Juan de Manapiare - Puetro Ayacucho,4.0
+N355NT,Sightseeing,6.0
+9Q-CWC,Kisangani - Bunia,100.0
+C-FEXS,Winnipeg - Thunder Bay, Ontario,1.0
+5N-BFN,Lagos - Abuja,117.0
+4P-OIN,Voronezh - Moscow-Domodedovo,8.0
+2415106,Tehran - Bandar Abbas,94.0
+N471WN,Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada,103.0
+5NBFD,Abuja - Port Harcourt,109.0
+N2969,Miami, Florida - Bimini, Bahamas,20.0
+4K-AZ48,Baku, Azerbaijan - Aktau, Kazakhstan,23.0
+PK-YPY,Mulia - Ilaga,12.0
+N781RS,Twin Falls - Truckee - Carlsbad - Monterrey,2.0
+P4-AOD,Moscow - Karkov,3.0
+9Q-CIH,Entebbe - Kinshasa,6.0
+15-2233,Tehran - Orumiyeh,11.0
+5605,Pristina - Kosice,43.0
+C-GRXZ,Tofino - Vancouver,8.0
+N3735W/N372AC,,3.0
+N629EK,Dayton, Ohio -,1.0
+EC-JAX,Madrid - Pamplona,6.0
+T-21,La Paz - Sana Cruz,6.0
+N54RP,Helena - Butte,2.0
+HC-BXD,Cuenca - Macas,14.0
+PT-FSE,MacaÃ© - Rio de Janeiro,19.0
+132,Nairobi - Eastleigh AFB,17.0
+UR-74038,Sebha - N'Djamena,6.0
+RF-30451,,5.0
+ZS-PDV,Kabul - Kandahar - Lashkar Gah,16.0
+ZS-ADL,Goma - Bunia, DCR,3.0
+EK-32009,Yerevan, Armenia - Sochi, Russia,113.0
+C-GSKJ,Training,3.0
+S9-BAL,Training,4.0
+N182K,AtlantiCity, NJ - Groton, CT,5.0
+,,40.0
+N5136X,Coeur d'Alene, ID - Missoula, MT,2.0
+TT-PAF,N'djamena - AbÃ©chÃ©,7.0
+9N-AEQ,Surkhet - Jumla,9.0
+ZS-POG,Polokwane - Vilanculos,3.0
+D-FVIP,Sightseeing,6.0
+9Q-CVT,Goma - Kisangani,5.0
+F-OGYP,Moscow - Irkutsk,203.0
+AP-BAL,Multan - Lahore,45.0
+9Q-COM,Lugushwa - Bukavu,17.0
+HK-3667X,Bogota - Leticia,5.0
+N59BA,Binghamton, NY - Benningham, VT,1.0
+7T-VHG,Algiers, Algeria - Frankfurt, Germany,3.0
+RA-851857,Anapa - St. Petersburg,170.0
+N431CA,Lexington, KY - Atlanta, GA,50.0
+EP-MCF,Bandar Abbas - Mashad,148.0
+XV-230,,14.0
+,Gizel - Khankala,15.0
+NAF033,Abuja - Obudu,18.0
+PR-GTD / N600XL,Manaus - Brasilia,161.0
+OY-CRG,Stavanger - Stord,16.0
+UK-70152,Training/Aranchi,15.0
+5N-BFK,Lagos - Abuja - Sokoto,105.0
+15-2255,Tehran - Shiraz,38.0
+N410MA,Loma Linda - Victorville,3.0
+N8361Q,Port Heiden - King Salmon,2.0
+5H-TZAÂ ,Mbeya - Dar es Salaam,6.0
+PK-KKW,Surabaya, East Java - Manado, Indonesia,102.0
+5H-MUX,Dar es Salaam - Matabwe,10.0
+ER-26068,Adana, Turkey - Balad Air Base, Iraq,35.0
+N444TW,Laredo, TX - Guadalajara, Mexico,2.0
+N77215,Van Nuys - Long Beach,2.0
+,,12.0
+F-GMPGÂ ,Pau - Paris,54.0
+VQ-TIU,North Caicos - Grand Turk,6.0
+N45MF,Great Falls - Bozeman,3.0
+PK-GZC,Jakarta - Yogyakarta,140.0
+N354NT,Sightseeing,7.0
+N911VC,,5.0
+PP-SEC,Petrolina - Salvador,4.0
+RA-65021,Surgut - Samara,57.0
+EW-78849Â ,Mogadishu - Djibouti,11.0
+8R-GET,Kato - Kopinang,5.0
+,,18.0
+5Y-KYA,Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya,114.0
+742/CB,El-Gora - Santa Katarina,9.0
+TN-AHE,Walikale - Goma,3.0
+FAP-303,Iquitos - Pucallpa,20.0
+,Shuttle,22.0
+N550BP,Milwaukee, WI - Detroit, MI,6.0
+,,22.0
+,Lilongwe to Rumchi,6.0
+9Q-CEU,Kamina - Lubumbashi,25.0
+XU-U4A,Siem Reap - Sihanoukville,22.0
+D2-TBP,Luanda - M'Banza,78.0
+XA-TFL,,3.0
+N208EC,Inishmaan - Connemara,9.0
+C-FAWC,Muncho Lake - Vancouver,5.0
+PR-MBK,Porto Alegre - Sao Paulo,187.0
+EX-030,Dire Dawa - Djibouti,9.0
+N995WA,Sightseeing,5.0
+RA-93912,Sightseeing,9.0
+N369CD,Ruidoso - Albuquerque,5.0
+F-OIQ,Moorea - Papeete,20.0
+N345KA,Sightseeing,10.0
+,Transporting troops,14.0
+PT-SDB,Curitiba - Jundiai,2.0
+9Q-CAC,Kongolo - Goma,15.0
+4L-SAS,Kisangi - Goma - Bukavu,8.0
+,Bosnia - Skopje, Macedonia,11.0
+HS-OMG,Bangkok - Phuket,130.0
+9Q-CVL,Lubumbashi - Malemba Nkulu,6.0
+9Q-COS,Kinshasa - Tshikapa,22.0
+N590GM,,3.0
+N430A,Star, ID - Shelton, WA,10.0
+HK-4055,Villavicencio - Uribe,18.0
+PT-OVC,Sao Paulo - Rio de Janeiro,2.0
+ST-JUA,Khartoum - Juba,4.0
+TC-AKM,Istanbul - Isparta,57.0
+N141LG,Cordova - Ancorage,4.0
+N28MG,Columbus, OH - Buffalo, NY,2.0
+D-IBDH,HradeKrÃ¡lovÃ© - Kiev,5.0
+YV2081,Los Rogues - Carac,18.0
+N509FN,Kodiak - Homer,10.0
+N410UBÂ ,Lihu - Kauai,1.0
+G-YMMM,Bejing, China - London, England,152.0
+D2-FFK,Luanda, Angola - Huambo, Angola,13.0
+19,Warsaw - Miroslawiec,20.0
+PK-VSEÂ ,Tarakan - Long Apung,3.0
+YV-1449,Merida - Caracas,46.0
+PP-MUM,Oil Rig P18 - Macae,20.0
+,,10.0
+5N-JAH,Lagos - Bebi Air Strip,3.0
+PZ-TSO,Paramaribo - Lawa,19.0
+VH-OZA,Sydney - Brisbane,1.0
+ST-AZL,Chrisinau, Moldova - Antalya, Turkey - Sudan,8.0
+9Q-CHN,Goma - Kisangani - Kinshasa,85.0
+3C-5GE,Bata - Annobon Island,13.0
+UR-24275,,20.0
+5Y-FLX,Wau - Rumbek - Juba,24.0
+N5998Q,Chelan - Stehekin,5.0
+N195GA,Billings - Great Falls,1.0
+N67GE,Long Beach - Two Harbors,6.0
+RA-12957,Chelyabinsk - Perm,9.0
+SAN-100,Tocumen - Colon,12.0
+EI-TAF,San Salvador, El Salvador - Tegucigalpa, Honduras - Miami,136.0
+CC-CTR,Puerto Montt - La Junta,10.0
+N416PH,Huntsville-Houston,4.0
+ST-ATN,Aman, Jordan - Damascus, Syria - Khartoum, Sudan,214.0
+N656WA,Hyannis - Nantucket,1.0
+,,10.0
+A-2106,Jakarta - aerial survelliance,18.0
+ST-ARN,Khartoum - Juba,8.0
+N407GA / N407MJ,Medical flight,7.0
+ST-WTB,Khartoum - Juba,4.0
+N199US,Hamilton, Ont, Can.- Shreveport, LA - Saltillo, Mexico,2.0
+N714CK,Bogota, Colombia - Miami, FL,8.0
+CC-CFM,Puerto Montt - Melinka Island,9.0
+N818MV,AtlantiCity, NJ- Owatonna,MN,8.0
+C-GPCD,Port Hardy - Chamiss Bay, Vancouver Island,7.0
+N612AZ,Ferrying fire fighters,13.0
+,Betong - ,10.0
+5Y-BVF,Kenya - Somalia,3.0
+EC-HFPÂ ,Madrid - Las Palmas, Canary Islands,172.0
+TG-JCSÂ ,Guatemala City - El Estor,14.0
+EX-009,Bishkek - Tehran, Iran,90.0
+YV-102T,Caracas - Latacunga,3.0
+ZS-OLD,Kisangani - Bukavu - Goma,17.0
+N587X,Colombus - Mansfield,3.0
+A6-AVL,,7.0
+VP-BKO,Moscow - Perm,88.0
+N999LJ,Colombia, SC - Los Angeles, CA,6.0
+N92MD,Medical evacuation flight,5.0
+9N-AFEÂ ,Katmandu - Lukla,19.0
+N992AA,Sandwich - Chicago,4.0
+XC-VMC,San Luis Potosi - Mexico City,8.0
+5Y-AOO,Kampi ya Kanzi Airstrip - Loitokitok,5.0
+S9-SAO,al-Asad air base - Baghdad,7.0
+C-FPCK,Vancouver - Powell River - Toba Inlet,8.0
+D-AXLA,Training,7.0
+N318WAÂ ,Tortola Virgin Islands - San Juan, PR,3.0
+N180AL,Sabine Pass - Oil Platform,3.0
+N650LP,Santiago, Dominican Republi- Providenciales,12.0
+N748P,Bayou Penchant - Off shore oil fields,9.0
+N106US,New York, NY- Charlotte, NC,155.0
+PT-SEA,Coari - Manus,28.0
+I-FEEV,Rome - Bologna,2.0
+N200WQ,Newark, N.J. - Buffalo, NY,49.0
+,,13.0
+S9-SVN,Entebbe, Uganda - Luxor, Egypt - Niklaev, Ukraine,5.0
+TC-JGE,Istanbul, Turkey - Amsterdam, Netherlands,134.0
+S9-SAB,Entebbe, Uganda - Mogadishu, Somalia,11.0
+C-GZCH,St. Johns - Hibernia platform,18.0
+N128CM,Oroville, CA - Butte, MT,14.0
+N526FE,Guangzhou, China - Tokyo, Japan,2.0
+,Miller field - Aberdeen,16.0
+A-2703,Militiary training,24.0
+PK-BRD,Jayapura - Wamena,6.0
+PK-LTJ,Ilaga - Mulia,11.0
+YV-1181,Canaima - Porlamar,11.0
+TL-ADMÂ ,Bangui, CAR- Brazzaville, Congo - Harare, Zimbabwe,7.0
+EV08114Â ,Patrol,18.0
+A-1325,Jakarta - Maduin,112.0
+9Q-CSA,Goma - Isiro,4.0
+F-GZCP,Rio de Janeiro - Paris,228.0
+C-FJJRÂ ,Lourdes de BlanSablon - Port Hope Simpson,1.0
+,Mechuka for Jorhat,13.0
