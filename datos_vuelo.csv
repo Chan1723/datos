@@ -82,7 +82,7 @@ D-257,,4
 L-72,Toulon - Algiers,52
 315,,1
 327,,1
-H-NABS,Lympne, England - Rotterdam, The Netherlands,3
+H-NABS,Lympne. England - Rotterdam. The Netherlands,3
 A16,,3
 297,,1
 F-AFBD,,1
@@ -95,7 +95,7 @@ H-NABM,,4
 F-AHBH,,2
 F-AFBI,,1
 ,,1
-ZR-1,Lakehurst, NJ - S.t Louis, MO,43
+ZR-1,Lakehurst. NJ - S.t Louis. MO,43
 ,,3
 F-AMFY,,2
 ,,1
@@ -190,7 +190,7 @@ CCCP-217,,1
 D-757,,5
 NR859E,,2
 NC9649,Albuquerque - Los Angeles,8
-G-EBMZ,London, England - India,5
+G-EBMZ,London. England - India,5
 F-AIUJ,,5
 ,Tijuana - Nogales,2
 ,,1
@@ -207,12 +207,12 @@ D-1594,,3
 ,,5
 NC184E,,1
 F-AJJK,,3
-NC9689,Aqua Caliente, Mexico - Los Angeles,16
+NC9689,Aqua Caliente. Mexico - Los Angeles,16
 F-AJCL,,2
-,Wichita - Kansas City, KS,5
-,Newark, NJ - Hartford, CT,1
+,Wichita - Kansas City. KS,5
+,Newark. NJ - Hartford. CT,1
 F-FHMY,,2
-,Albany, NY - Jersey City, NJ,4
+,Albany. NY - Jersey City. NJ,4
 F-AJPD,,4
 NC9675,,15
 D-864,Stettin - Norway,8
@@ -220,14 +220,14 @@ NC-394H,,5
 OK-FOR,Prague - Brun -  Pressburg,11
 OO-AIN,,2
 ,Calgary - Moosejaw,3
-G-FAAW,Cardington, England - Karachi, Pakistan,54
+G-FAAW,Cardington. England - Karachi. Pakistan,54
 D-1930,Berlin - Vienna,8
 F-AJUU,Casablanca - Bahat - Toulouse,4
 NC103W,,3
-G-EBIX,Paris, France - London, England,6
+G-EBIX,Paris. France - London. England,6
 ,,1
 P-BAHA,,9
-NC5340,Burbank, CA - Oakland, CA,3
+NC5340,Burbank. CA - Oakland. CA,3
 ,Shanghai - Hankow,6
 OO-AIL,,2
 NC741K,Portland - Pasco,1
@@ -249,33 +249,33 @@ VH-UGF,,2
 ,Constantinople - Budapest,7
 NC9662,,6
 NC606,,1
-NC10347,Oakland, CA - Seattle, WA,4
+NC10347,Oakland. CA - Seattle. WA,4
 D-1717,,3
 P-BALSA,,3
-NC12221,Newark, NJ  - Camden, NJ - Washington DC,5
+NC12221,Newark. NJ  - Camden. NJ - Washington DC,5
 ,,3
 NC7465,,1
 ,Nanking - Peiking,3
-NC10338,Portland,  WA - Pasco, WA,1
+NC10338,Portland.  WA - Pasco. WA,1
 NC433E,Kansas City - Chicago,6
 PH-AFO,,7
 F-AIOX,,2
-,Port Colombus, OH - Louisville, KY,5
-,Rockford - Chicago, IL - Madison, WI,1
-,San Francisco - Bakersfield - Los Angeles, CA,8
+,Port Colombus. OH - Louisville. KY,5
+,Rockford - Chicago. IL - Madison. WI,1
+,San Francisco - Bakersfield - Los Angeles. CA,8
 ,Miami - Bimini,5
 ,Chicago - Kalamazoo,1
 NC7470,,2
 F-AJOX,,3
 ,Training,5
-,Phoenix, AZ - Los Angeles, CA,7
+,Phoenix. AZ - Los Angeles. CA,7
 ,Columbus - McKeesport,1
 ,,3
 NC191E,,1
 ,,1
 NC830M,,2
 NC5589,San Diego - Burbank - Oakland,3
-NC403H,Santiago, Chile - Mendosa, Argentina,9
+NC403H,Santiago. Chile - Mendosa. Argentina,9
 F-AIQY,,7
 SE-AAE,,2
 NC9716,El Paso - Dallas,4
@@ -285,7 +285,7 @@ VH-UPM,,3
 ,,2
 ,,2
 D-724,Nuremberg - Frankfort,5
-,Little Rock, AR - Memphis, TN,2
+,Little Rock. AR - Memphis. TN,2
 NC9650,,2
 NC842M,,1
 VH-UMJ,,2
@@ -294,9 +294,9 @@ NC185H,Test flight,2
 N490W,,1
 NC11721,Big Springs - San Antonio,1
 NC431H,,3
-NC9723,Mendoza, Argentina - Santiago, Chili,2
+NC9723,Mendoza. Argentina - Santiago. Chili,2
 NC12226,Burbank - San Francisco,3
-G-AACI,Cologne, Germany - Croydon, England,15
+G-AACI,Cologne. Germany - Croydon. England,15
 D-534,,2
 ZRS-4,,76
 F-ALCE,,6
@@ -307,24 +307,24 @@ NC9607,,5
 YU-SAH,,8
 NC13304,Cleveland - Chicago,10
 F-AJMI,,2
-NC13345,Seattle, WA - Dallas, TX,9
+NC13345,Seattle. WA - Dallas. TX,9
 NC12292,,1
 ,Canton - Shanghi,8
 ,Test flight,20
 NC13324,,2
 D-1403,Berlin - Hamburg,8
 ZS-AEB,,6
-G-ABLU,Brussels, Belgium - Croydon, England,10
+G-ABLU,Brussels. Belgium - Croydon. England,10
 F-AMMY,Saigon - Paris,14
 F-AJKX,,2
 NC13357,Salt Lake City - Cheyenne,8
 F-AJPA,,6
-NC710Y,St. Louis, MO - Chicago, IL,4
+NC710Y,St. Louis. MO - Chicago. IL,4
 NC-9107,Quiddo - Cartago,6
 NC407H,,15
 NV17V,,3
-F-AMPH,Dieppe, France - New Haven, England,6
-F-AIVG,Croydon, England - Paris, France,2
+F-AMPH,Dieppe. France - New Haven. England,6
+F-AIVG,Croydon. England - Paris. France,2
 NC12354,New York - Chicago,7
 NC8417,Buenos Aires - Santiago,10
 D-1445,,7
@@ -339,19 +339,19 @@ VH-URN,Launceston - Melbourne,11
 VH-UHW,,4
 VH-USG,,4
 VH-USG,,4
-NC10809,Omaha, NB - Kansas City, MO,2
+NC10809,Omaha. NB - Kansas City. MO,2
 D-OMAS,,3
-NC106W,Kansas City, MO - Chicago, IL,1
+NC106W,Kansas City. MO - Chicago. IL,1
 NM-7,Santiago - Havana,8
-PH-AJU,Amsterdam - Batavia, Java,7
-NC12286,Louisville, KY - Nashville, TN,1
-NC13212,Newark, NJ - Columbus, OH,1
+PH-AJU,Amsterdam - Batavia. Java,7
+NC12286,Louisville. KY - Nashville. TN,1
+NC13212,Newark. NJ - Columbus. OH,1
 D-AREN,Koenigberg - Berlin,11
 D-AJYP,,
 SU-ABI,Jerusalem - Cairo,6
 D-OHIL,,5
 F-ALHQ,,3
-PH-AFL,Praha, Czechoslovakia - Amsterdam, Netherlands,7
+PH-AFL,Praha. Czechoslovakia - Amsterdam. Netherlands,7
 NC891E,,1
 NC13785,Los Angeles - Albuquerque - Kanasas City -  Washington,14
 WC-7864,Sightseeing,12
@@ -361,13 +361,13 @@ NC10894,Chicago - St. Louis,2
 ,,9
 C-31 / F-31,,20
 PH-AQJ,Amsterdam - Sweden,20
-NC-492K,New Orleans, LA - Mobile, AL,2
-PH-AKG,Milan, Italy - Amsterdam,13
+NC-492K,New Orleans. LA - Mobile. AL,2
+PH-AKG,Milan. Italy - Amsterdam,13
 NV40V,,
 NC14599,Dallas -  Atlanta,4
 NC14140,Helena - Denver,3
 NR12283,,2
-NC13314,Burbank, CA - Salt Lake City, UT,3
+NC13314,Burbank. CA - Salt Lake City. UT,3
 VH-URT,,5
 NC13317,Salt Lake City - Cheyenne,12
 OH-ALI,,6
@@ -378,17 +378,17 @@ F-AJIQ,Bahia - Aracaju,4
 NC980Y,Dallas - Waco,1
 F-AJPB,,3
 F-ANRK,,2
-OO-AGN,Brussels, Belgium - Croydon, England,11
+OO-AGN,Brussels. Belgium - Croydon. England,11
 D-UVOR,,3
 G-AASJ,Mirabella - Alexandria,13
-NC14274,Newark, NJ - Fort Worth, TX,17
+NC14274,Newark. NJ - Fort Worth. TX,17
 ,Cochabamba - La Paz,13
 F-AJIR,Marseille - Tunis,6
-NC13767,Chicago, IL - Oklahoma City, OK,6
-D-ADYS,Natal, Brazil - Bathhurst, Gambia,4
+NC13767,Chicago. IL - Oklahoma City. OK,6
+D-ADYS,Natal. Brazil - Bathhurst. Gambia,4
 ,,6
 X-ABCO,Mexico - Guatemala,14
-NC15152,Newwark, N.J. - Buffalo, NY,2
+NC15152,Newwark. N.J. - Buffalo. NY,2
 NC13721,Newark - Los Angeles,15
 NC1537,Miami - Rio de Janeiro,25
 I-AAXZ,Turin - Milan,7
@@ -407,7 +407,7 @@ C-40,,2
 G-ADEB,,2
 G-ABFA,,11
 G-ACOX,,2
-NC176W,El Paso, TX - Pueblo, CO,3
+NC176W,El Paso. TX - Pueblo. CO,3
 NC959Y,,4
 XA-BDH,,1
 G-ABWI,,1
@@ -420,7 +420,7 @@ F-AKGF,,5
 PH-AKL,Croydon - Amsterdam,17
 NC13370,Burbank - Las Vegas - Salt Lake City,7
 NC14935,,2
-NC13732,Miami, FL - Charleston, SC - Newark, NJ,14
+NC13732,Miami. FL - Charleston. SC - Newark. NJ,14
 NC14905,Test flight,6
 NC14269,,
 NC13355,Oakland - San Francisco - Los Angeles,12
@@ -428,22 +428,22 @@ NC13315,Salt Lake City - Burbank,13
 OO-AGR,Belgian Congo - Brussels,12
 NC16073,Los Angeles - San Francisco - Oakland,11
 VH-UHH,Brisbane - Sidney,7
-D-ALIX,Las Palmas, Canary Islands - Bathhurst, Gambia,4
-G-ADVA,Southhampton, England - Alexandria, Egypt,6
+D-ALIX,Las Palmas. Canary Islands - Bathhurst. Gambia,4
+G-ADVA,Southhampton. England - Alexandria. Egypt,6
 NC13730,Newark - Camden - Pittsburg,13
 D-UPOZ,,6
 D-LZ-129,Frankfurt - Lakehurst N.J.,97
 D-UXUV,,4
 NR16020,Lae - Howland Island,2
 PH-ALF,Amsterdam - Paris,15
-I-SUSA,Rome, Italy - Kartoum,9
-NC15065,Santiago, Chili - Cristobal, Panama,14
+I-SUSA,Rome. Italy - Kartoum,9
+NC15065,Santiago. Chili - Cristobal. Panama,14
 ,Canton - Shanghi,11
 NC-13739,Chicago - Daytona,9
 NC14298,Mendosa - Cordoba,3
 VH-URC,,2
 F-AQBB,,8
-G-ADVC,Alexandria, Egypt  - Athens, Greece,14
+G-ADVC,Alexandria. Egypt  - Athens. Greece,14
 PH-ALS,,5
 NC16074,Cheyenne - Salt Lake City,19
 D-AXAV,Berlin - Mannheim,12
@@ -452,22 +452,22 @@ D-AGAV,,3
 G-ADUZ,India - London,19
 F-AOTZ,,7
 F-AMYD,Bucharest - Vienna - Prague - Paris,3
-D-ABUR,Milan, Italy - Frankfurt, Germany,6
+D-ABUR,Milan. Italy - Frankfurt. Germany,6
 NC-17388,Seattle - Billings - Chicago,10
 NC16734,Honolulu - Pago Pago - Auckland,7
 CF-BEI,Sioux Lookout - Hudson,1
 04062 / 0463,,14
 CCCP-V6,Moscow - Murmansk,19
-F-ANPB,Marseille, France - Ajaccio, Corsica,12
+F-ANPB,Marseille. France - Ajaccio. Corsica,12
 XA-BAS,Test flight,2
-D-APAR,Berlin, Germany - Paris, France,3
+D-APAR,Berlin. Germany - Paris. France,3
 NC13789,San Francisco - Burbank,9
-F-ANQR,Hanoi, Vietnam - Paris, France,7
+F-ANQR,Hanoi. Vietnam - Paris. France,7
 VH-UNU,,1
 I-BAUS,,19
 XA-BFR,Mexico City - Juarez,6
 ZK-AFC,,2
-NC17394,Burbank,- St. Paul,9
+NC17394,Burbank.- St. Paul,9
 PP-CBC,,17
 NC18108,Newark - Cleveland - Chicago,10
 D-ATIO,,3
@@ -476,13 +476,13 @@ VP-KBE,,3
 NC14272,,4
 NC17383,Seattle - Chicago,10
 I-VOLO,Cagliari - Rome,20
-SP-BNG,Warsaw, Poland - Bucharest, Romania,14
+SP-BNG,Warsaw. Poland - Bucharest. Romania,14
 ,,1
 G-ABTG,Kisumu - Alexandria,4
 NC14714,Alameda - Manila,15
 J-ANES,,6
 ,,12
-OK-BAG,Prague - Paris, France,17
+OK-BAG,Prague - Paris. France,17
 PP-CAT,Guanabara - Victoria,9
 SP-BNJ,,7
 I-NILO,Sightseeing,13
@@ -516,11 +516,11 @@ G-ACPY,,6
 NC13727,Chicago - Dallas,12
 F-AOOT,,9
 G-ADVD,,6
-F-ARIC,Casablanca, Morocco - Dakar, Senegal,9
+F-ARIC,Casablanca. Morocco - Dakar. Senegal,9
 ,,1
 PH-AJK,,3
-HB-IXA,Vienna, Austria - Zurich, Switzerland,6
-D-AUJG,Toulouse, France - Casablanca, Morocco,7
+HB-IXA,Vienna. Austria - Zurich. Switzerland,6
+D-AUJG,Toulouse. France - Casablanca. Morocco,7
 NC16933,Miami - Rio de Janerio,16
 G-ASEY,London - Hamburg - Copenhagen,6
 VT-AEL,,2
@@ -532,9 +532,9 @@ G-AFYU,Egypt - England,11
 I-ARPA,Rome - Rio de Janerio,7
 PK-AFO,,9
 G-AAGX,Jask to Sharjah,8
-G-AFKD,Perth, Scotland - London, England,3
+G-AFKD,Perth. Scotland - London. England,3
 ,Test flight,5
-OH-ALL,Tallinn, Estonia - Helsinki, Finland,9
+OH-ALL,Tallinn. Estonia - Helsinki. Finland,9
 F-ARTD,,1
 F-AQBA,,
 ,Melbourne - Canberra,10
@@ -550,12 +550,12 @@ NC25678,New York City - Chicago,16
 I-BAYR,,10
 HA-JUA,,12
 ,,6
-NC17315,Kansas City, MO - New York,13
+NC17315,Kansas City. MO - New York,13
 CF-TCP,,12
 NC28394,New York City -  Washington D.C. - Atlanta - Brownsville,16
 D-AQUB,,12
 ZS-AST,,10
-YR-PIF,Bucharest , Romania- Sofia, Bulgaria,15
+YR-PIF,Bucharest . Romania- Sofia. Bulgaria,15
 M-604,,18
 AM261,,22
 AM260,,22
@@ -583,7 +583,7 @@ SE-BAF,,7
 VH-ADY,Brisbane - Bachelor Field,12
 NC18146,San Francisco - New York City,17
 NC 21714,Chicago - Seattle,14
-42-56093,Battle Creek - Florence, SC,21
+42-56093,Battle Creek - Florence. SC,21
 A16-198,,10
 N7253,,13
 F-AREJ,,
@@ -594,7 +594,7 @@ W4026,,14
 F-ARIZ,,25
 69,,
 38-524,Caomo - San Juan,22
-NC41880,New York - Botwood - Foynes, Ireland,37
+NC41880,New York - Botwood - Foynes. Ireland,37
 D-AYGX,,17
 NC16017,Palm Springs - New York City,13
 W7773,,10
@@ -602,9 +602,9 @@ NC16060,Salt Lake - Las Vegas - Burbank,19
 OY-DAL,,16
 G-AFCK,,13
 42-32939,,35
-41-1708,Accra, Ghana - Natal, Brazil,26
+41-1708,Accra. Ghana - Natal. Brazil,26
 NC14715,Hawaii - San Francisco,19
-NC33645,Santiago, Chili - Arequipa, Peru - Lima, Peru,15
+NC33645,Santiago. Chili - Arequipa. Peru - Lima. Peru,15
 AL-591,,21
 41-3,Test flight,10
 NC18603,New York City - Lisbon,39
@@ -646,19 +646,19 @@ D-ABAS,,16
 NC742N,Nome - Fairbanks,6
 D-AOCA,,7
 D-AAIG,,20
-,Montreal, Canada - European air base,16
+,Montreal. Canada - European air base,16
 82,Calcutta - Dinjan,12
 ,,14
 42-101035,,22
 42-100905,,22
 42-93095,,22
 85,Dijan - Kunming,6
-71,Kunming - Chungking,,4
+71,Kunming - Chungking.,4
 PP-VAG,,10
-42-107470,England - Long Island, N.Y.,26
+42-107470,England - Long Island. N.Y.,26
 42-93038,Bristol - Preswick,22
 7233,,24
-42-23652,Bruning, NB - Pierre, SD,28
+42-23652,Bruning. NB - Pierre. SD,28
 NC823M,Antilla - Miami,31
 32271,,2
 42-50291,,3
@@ -666,7 +666,7 @@ NC823M,Antilla - Miami,31
 PP-PBI,,16
 D-AUAW,,5
 VH-RDK,Merauke -- Cairns,20
-43-15738,Elmindorf AFB, Anchorage - Ladd Field, Fairbanks,19
+43-15738,Elmindorf AFB. Anchorage - Ladd Field. Fairbanks,19
 PP-PBH,,17
 D-AMHL,Stuttgart - Barcelona,9
 44-69943,,12
@@ -685,10 +685,10 @@ D-ARHW,,10
 56,,3
 NC17322,San Francisco - Burbank - New York City,17
 CF-CMU,,5
-44-70286,Twinwood, England - Villacoublay, France,3
+44-70286,Twinwood. England - Villacoublay. France,3
 77,Kunming - Tengchung,4
 NC14716,Miami - Leopoldville,30
-NC25684,New York City - Juarez, Mexico - Burbank,24
+NC25684,New York City - Juarez. Mexico - Burbank,24
 70,,6
 ,Chongqing - Kunming,3
 A72-70,,11
@@ -704,20 +704,20 @@ N18142,New York City - Los Angeles,22
 NC25692,Pittsburgh - Morgantown,20
 39067,,13
 D-ANAJ,,18
-41-18451,Midland, TX - Nashville, TN,25
+41-18451,Midland. TX - Nashville. TN,25
 D-ASHH,,21
 43-38856,Ridgewell - Nutts Corner,31
-NC33328,Washington, D.C. - New York, Ny,13
+NC33328,Washington. D.C. - New York. Ny,13
 44-9043,,21
 44-77839,,30
 RF230,England - Brussels,31
 43-49788,,23
-44-76406,Accra, Ghana - Monrovia, Liberia,21
+44-76406,Accra. Ghana - Monrovia. Liberia,21
 81,,3
 VH-USF,,11
 JT985,,27
 ,,2
-JT982,Montreal, Canada - England,15
+JT982,Montreal. Canada - England,15
 6812,,28
 NC25647,Boston - NY - Washington DC - Jacksonville - Miami,10
 43-0577,,3
@@ -734,7 +734,7 @@ NC18199,Miami - Jacksonville,15
 LJ668,London - Cairo,26
 KL595,Belgium - India,31
 44-78591,Hankou - Peking,59
-A65-83,Ambon, Indonesia - Darwin, Australia,25
+A65-83,Ambon. Indonesia - Darwin. Australia,25
 ,Shanghai - Canton,31
 KJ957,,14
 OB-PAG-139,,5
@@ -745,20 +745,20 @@ OB-PAG-139,,5
 42-24363,Athens - Naples,24
 43-9197,France - Athens,20
 PJ950,,29
-,Chabau, India - Karachi, Pakistan,44
+,Chabau. India - Karachi. Pakistan,44
 A6554,,28
 KH126,,27
-KH125,India - Cambridge, England,28
+KH125,India - Cambridge. England,28
 ,,14
-,Newark, N.J. - Seattle, WA,21
+,Newark. N.J. - Seattle. WA,21
 KN413,,17
 F-BALV,,8
 NC18l23,Philadelphia - New York City,12
-N21786,New York City - Birmingham, AL,11
+N21786,New York City - Birmingham. AL,11
 ,,18
 KN557,,25
 NC19970,New York - Boston,17
-,Comox, BC - Greenwood,NS,7
+,Comox. BC - Greenwood.NS,7
 KN500,,11
 NC25675,Boise - Denver,21
 ,Iloilo - Cebu,20
@@ -768,7 +768,7 @@ OK-,Paris - Prauge,14
 VH-AET,Hobart - Melbourne,25
 ,Shanghai - Nanking,20
 139,Chunking - Shanghai,
-45-1085,Stockton, CA - Ogden, UT,26
+45-1085,Stockton. CA - Ogden. UT,26
 G-AGLX,Karachi - Australia,10
 HE-274,,4
 ,Shensi - Yenan,14
@@ -798,13 +798,13 @@ SU-ADJ,,9
 F-BADB,Copenhagen - Paris,22
 F-BAXD,Paris - Croydon,26
 NC57850,New York City - San Francisco,22
-G-AHEW,Bathrust, - Argentina,24
+G-AHEW,Bathrust. - Argentina,24
 ,,4
 962,,21
 OO-AUR,Brussels - Croydon,7
 C-108,Bogota - Barrancabermeja,17
 OO-CBG,Brussels - Shannon - Gander - New York City,44
-NX690,St. Mawan, England - Almaza, Egypt,25
+NX690,St. Mawan. England - Almaza. Egypt,25
 ,,31
 KN414,Hong Kong - Singapore,19
 PP-PCH,Belo Horizonte  - Rio de Janerio,25
@@ -825,22 +825,22 @@ PH-TBW,London - Amsterdam,26
 RX-76,,22
 T-1,,18
 ,Meshed - Teheran,24
-39528,Miramar NAS, California - Sand Point NB, Seattle,32
+39528,Miramar NAS. California - Sand Point NB. Seattle,32
 44-78604,,24
 PI-C-1,Grace Park AF - Lucena,14
-NC88876,Kingston, Jamaca - San Jose,7
+NC88876,Kingston. Jamaca - San Jose,7
 LV-XIG,London - Buenos Aires.,21
 NC45395,Holtville - San Diego,12
 115,,
 N15577,Buffalo - Chicago,21
-NC58024,Flint, MI - Washville, IL,2
+NC58024,Flint. MI - Washville. IL,2
 NC86505,Paris - Shannon,23
 PP-PBN,,14
 N50046,Miami - Raleigh - Washington,23
 XT-T51,Shanghai - Tsingtao,38
 PI-C100,Shanghai - Manila,42
 G-AGJX,London - Bordeaux,16
-NC88872,Akron, OH - Winston/Salem, NC,19
+NC88872,Akron. OH - Winston/Salem. NC,19
 60-03,Puebla - Oaxaca,21
 ,Canton - Chungking - Hong Kong,19
 VP-YFD/OK-WDB,Guangzhou - Chongqing,23
@@ -848,9 +848,9 @@ PI-C12,,4
 PH-TCR,Kobenhavn - Stockholm,22
 ,Shanghai - Hankow - Chungking,26
 F-BAXQ,Paris - Bordeaux - Lisbon,16
-NC54451,New York, NY - Raleigh, NC,3
+NC54451,New York. NY - Raleigh. NC,3
 NC44567,Havana - Lisbon - Madrid,12
-NC59486,Omaha, NE - Denver, CO,2
+NC59486,Omaha. NE - Denver. CO,2
 I-ABQH,Rome - Cairo,16
 C-114,Barranquilla - Bogota,53
 ,Sichang - Chungking,21
@@ -858,7 +858,7 @@ KK120,Singapore - Siagon,12
 C-400,Villavicencio - Bogota,9
 KK122,,13
 F-BAXO,Lyons - Nice - Paris,23
-YS-28,Medellin, Colombia - San Jose, Costa Rica,8
+YS-28,Medellin. Colombia - San Jose. Costa Rica,8
 MW198,,15
 YV-C-ALO,,27
 G-AHEZ,Lisbon - Dakar,15
@@ -889,7 +889,7 @@ NC59488,,3
 G-AHZB,Karachi - Bahrain,26
 LN-IAV,Tromso - Oslo,35
 NC90432,New York City - Dallas - Los Angeles,54
-,Charlotte, NC - Gainsville, GA,3
+,Charlotte. NC - Gainsville. GA,3
 F-BCJN,Marseille - Oran,43
 NC37510,Los Angeles - New York City,53
 NC88920,Seattle - Juneau,18
@@ -906,7 +906,7 @@ YU-ABC,,22
 ,,3
 43-48736,,20
 NC-91009,Anchorage - Seattle,28
-42-72572,Goose Bay - Westover Field, MS,29
+42-72572,Goose Bay - Westover Field. MS,29
 44-76366,,20
 OO-XAC,,30
 VT-AUG,Karachi - Bombay,23
@@ -926,8 +926,8 @@ OY-DCI,Giessen - Bad Homberg,21
 I-REGI,Florence - Rome,10
 F-BDRD,,14
 PI-C262,,12
-NC36498,Pittsburgh, PA - Columbus, OH,2
-C-47-2040,Rio de Janerio, Brazil - Cayenne, French Guianan,26
+NC36498,Pittsburgh. PA - Columbus. OH,2
+C-47-2040,Rio de Janerio. Brazil - Cayenne. French Guianan,26
 F-BBYC,,4
 OO-AWH,Brussels - London,22
 TF-RVL,,5
@@ -942,7 +942,7 @@ HK-1200,Bogota - Ibague,32
 OO-CBE,Leopoldville - Libenga,32
 G-AJOU,,10
 ZS-BWY,Durban - Johannesburg - London,13
-NC59489,Newark, NJ - Chicago, IL,2
+NC59489,Newark. NJ - Chicago. IL,2
 G-AJBG,,4
 G-AKBA,,4
 G-AIUI,,8
@@ -967,7 +967,7 @@ VH-ANK,Brisbane - Sidney,13
 LN-IWA,Fornebu - Hommelvik,45
 PH-TEN,Amsterdam - Prestwick - New York City,40
 ZK-AGK,Palmerston - Hamilton,13
-NC88785,Edmonton - Anchorage, AK,5
+NC88785,Edmonton - Anchorage. AK,5
 44-61999,RAF Scrampton - Burtonwood AFB,13
 N66637,Yakutat - Annette,17
 VH-UZK,Melbourne - Denilquin,23
@@ -984,7 +984,7 @@ N16002,San Juan - Miami,32
 ZS-BYX,Athens - Nice,12
 NC79025,Seattle - New Haven,30
 G-AHEX,,17
-NC53210,Raleigh, NC - Boston, MA,2
+NC53210,Raleigh. NC - Boston. MA,2
 PP-SAC,Porto Alegre - Sao Borja,12
 ZS-AYB,,30
 VT-CDZ,,13
@@ -998,7 +998,7 @@ HK-134,,14
 OY-DLU,Paris - Copenhagen,27
 OB-PAV-223,Tingo Maria - Huanuco,16
 G-AHCW/VV243,London - Glasgow,14
-VR-HDG,Manila, Philippines - Hong Kong,23
+VR-HDG,Manila. Philippines - Hong Kong,23
 SP-LCG,,16
 VH-BAG,Coolangatta - Brisbane,16
 G-AHFI,,3
@@ -1031,7 +1031,7 @@ NC29086,Philadelphia - Cleveland,3
 PH-TFA,Brussels - Oslo,35
 F-BELO,Paris - Lyons - Tunis,38
 N90728,New York City - Mexico City,46
-PP-YPM,Sao Palo, Brazil - Jacarezinho, Panama,22
+PP-YPM,Sao Palo. Brazil - Jacarezinho. Panama,22
 NC60256,Burbank - Oakland - Sacramento,9
 XT-820,,38
 XT-814,Chengdu - Hoikow,40
@@ -1044,7 +1044,7 @@ VT-CYK,Agartala - Calcutta,7
 TAM-10,Valle grande - Cochabamba,32
 F-BFGD,Antananarivo - Tamatave,14
 PI-C22,Iloilo - Manila,4
-42-72469,Elmendorf - Great Falls, MT,44
+42-72469,Elmendorf - Great Falls. MT,44
 PH-TEU,Amsterdam - London,7
 OK-WDY,Ostrava - Prague,5
 N93050,Rochester Minn. - Minneapolis,13
@@ -1061,7 +1061,7 @@ HK-120,Quito - Guayaquil,15
 N9406H,,2
 PP-AVZ,Victoria - Salvador,15
 N1248N,San Juan - Wilmington NC,65
-N16030,Kingston, Jamacia - Maracaibo, Venezuela,15
+N16030,Kingston. Jamacia - Maracaibo. Venezuela,15
 F-BBDE,Saigon - Paris,52
 F-BBDM,Saigon - Paris,53
 N95425,New York City - Minneapolis-St. Paul,58
@@ -1074,9 +1074,9 @@ CR-LBK,Nova Lisboa - Lobito,9
 PP-PCG,Rio de Janeiro - Porte Algegre,50
 F-BENF,Algiers - Gao,26
 46-87651,,20
-KN630,Changi, Singapore - Kota Baru,12
+KN630,Changi. Singapore - Kota Baru,12
 N6004C,Cairo - Rome,55
-N18936,Utica, NY - Newark, NJ,23
+N18936,Utica. NY - Newark. NJ,23
 EP-AAG,,8
 56496,Kwajzalein - Tokyo,26
 YU-ABD,Belgrad - Paula,11
@@ -1090,7 +1090,7 @@ VT-CQP,Bombay - Cairo - Geneva - London,48
 N93040,Helena - Butte,21
 CF-EDN,Rome - Paris,52
 PK-DPB,,23
-N74586,Chico, CA - Billings, WY,21
+N74586,Chico. CA - Billings. WY,21
 OB-PAU-201,Maldorado - Quincemil,9
 VT-COI,,3
 EP-AAJ,,8
@@ -1107,12 +1107,12 @@ VR-HEP,Butterworth - Kota Bharu,10
 N74685,Newark - Philadelphia,28
 N93054,Minneapolis - Seattle,10
 I-DALO,Paris - Rome,17
-PP107,Hong Kong - Iwakuni, Japan,16
+PP107,Hong Kong - Iwakuni. Japan,16
 TF-ISG,Vestmannaeyar Island - Reykjavík,20
 282,,14
 F-BBDO,Douala - Niamey,29
 HK-333,,2
-N19928,Kansas City, MO - Omaha, NB - Sioux City, Iowa,25
+N19928,Kansas City. MO - Omaha. NB - Sioux City. Iowa,25
 HS-POS,,24
 HK-315,,27
 49-244,Loring AFB - Lakeheath AFB,53
@@ -1121,7 +1121,7 @@ PP-CCX,,14
 LV-ACY,Ushuaia - Buenos Aires,20
 HK-142,,26
 N63439,Santa Maria - Santa Barbara - Oxnard - Los Angeles,22
-43-48298,Godman AFB - Charleston, WV,21
+43-48298,Godman AFB - Charleston. WV,21
 HS-SAE,Bangkok - Hong Kong,16
 CU-T188/39939,Miami - Havana,43
 N16088,Cleveland - Fort Wayne - South Bend - Chicago,11
@@ -1139,7 +1139,7 @@ PP-LPG,Maceio - Aracaju,33
 45-57801A,Frankfort - Bordeaux,36
 VW194,,10
 VH-EBQ,,7
-F-OABX,Pakse, Laos  - Saigon, Vietnam,3
+F-OABX,Pakse. Laos  - Saigon. Vietnam,3
 CF-CPC,Vancouver - Tokyo,37
 OO-CBA,,3
 CB-39,Cochabamba - Rio de Janeiro,7
@@ -1196,11 +1196,11 @@ N1911M,,2
 N93043,Tokyo - Osaka,37
 VT-DFN,,4
 N88899,San Juan - New York City,69
-N8404C,Kansas City, MO - Phoenix - Burbank,29
-TG-AQA,Brownsville, TX - Guatemala City,2
+N8404C,Kansas City. MO - Phoenix - Burbank,29
+TG-AQA,Brownsville. TX - Guatemala City,2
 N1039V,Rio de Janeiro - New York City,50
 VT-AUN,Madras - Delhi,9
-LN-NAD,Amsterdam, Netherlands - Jarsberg, Norway,29
+LN-NAD,Amsterdam. Netherlands - Jarsberg. Norway,29
 PK-DPA,,17
 PP-SPM,Sao Paulo - Bauru,22
 PP-LDE,,6
@@ -1225,7 +1225,7 @@ F-BFVO,Fort Lamy - Beirut,6
 51-2560A,Elmendorf AFB - Big Delta,19
 51-2551A,,44
 51-2570,Elemndorf AFB - Kodiak NAS,20
-,Great Falls - Denver, Colorado,16
+,Great Falls - Denver. Colorado,16
 51-107A,,52
 ,,38
 ,Sofia - Varna,18
@@ -1240,13 +1240,13 @@ F-BPJA,,10
 N1648M,Boeing Field - Cheyenne,40
 VX562 / TX270,,26
 I-LAIL,Cagliari - Rome,19
-G-AHFA,Lajes, Azores - Gander,39
+G-AHFA,Lajes. Azores - Gander,39
 F-OAFR,,18
 F-BFGR,,20
 1001,,35
 N90893,Miami - Orlando - New Orleans,46
 CF-CUN,Karachi - Rangoon,11
-N4717N,New York, NY - Winsor Locks, CT,2
+N4717N,New York. NY - Winsor Locks. CT,2
 AP-AEG,Delhi - Dacca,16
 F-BEFG,Hue - Da Nang,8
 51-13721A,Azores - Rapid City AFB,23
@@ -1262,7 +1262,7 @@ N91303,Los Angeles - San Francisco - Oakland,10
 G-ALYV,Calcutta - Delhi,43
 WG258,,10
 VT-AUD,Delh - Ahmedabad - Bombay,18
-CF-CRV,Sandpit, BC - Prince Rupert, BC,19
+CF-CRV,Sandpit. BC - Prince Rupert. BC,19
 N28345,Dallas - Shreveport,20
 PH-TEI,Amsterdam - Paris,34
 CC-CLD-0100,,7
@@ -1279,7 +1279,7 @@ AP-AAD,Sharjah - Bahrain,25
 ,,23
 XA-GOT,,2
 F-BAZZ,Paris - Nice - Hong Kong,42
-N19941,Monterey, CA - Tacoma, WA,21
+N19941,Monterey. CA - Tacoma. WA,21
 XH-TAR,San Pedro - San Andres,3
 XA-GIC,Campeche - Mérida,2
 N94255,Boston - Hartford - Albany - Chicago,28
@@ -1310,10 +1310,10 @@ N49551,,3
 WL794,Military exercise,10
 VT-ATU,,3
 N8407H,Salt Lake City - Cedar City - Rapid City,9
-42-24096A,Tripoli, Libya - Hahn, W Germany,20
+42-24096A,Tripoli. Libya - Hahn. W Germany,20
 G-ALAM,Australia - London,40
 VH-BBV,,2
-51-7993,Oklahoma - Long Island, NY,18
+51-7993,Oklahoma - Long Island. NY,18
 XA-GUN,Mazatlan - Monterey,18
 TC-ARK,Adana - Istanbul,25
 F-BFGQ,,4
@@ -1325,14 +1325,14 @@ LV-ACX,Mendoza - Cordoba,25
 VT-DEM,,11
 ZK-AQT,Churchchrist - Paraparaumu,28
 PP-ANO,Governador Valadares - Belo Horizonte,19
-OO-CBY,Blackbushe, UK - Beogard, Serbia,4
+OO-CBY,Blackbushe. UK - Beogard. Serbia,4
 PP-VBZ,Sao Paulo - Porto Alegre,3
 F-BCCL,,4
 HB-IRW,Geneva - London,9
 C-28-2901,,20
 VR-HEU,Singapore - Hong Kong - Bangkok,18
 N91008,McGrath - Colorado Creek,2
-HK-163,Lajes, Azores - Bermuda,30
+HK-163,Lajes. Azores - Bermuda,30
 F-BSGS,Saigan - Hanoi,3
 F-VNAI,Red River delta - Saigon,55
 N61451,Memphis - Minneapolis,19
@@ -1343,11 +1343,11 @@ PH-LKY,Shannon - New York City,56
 PP-CDJ,,30
 SU-AFO,Test,4
 43-16044,,21
-128441,Patuxent River NAS - Kenitra, Morocco,42
-128441,New Jersey - Azores - Port Lyautey, Moroco,42
+128441,Patuxent River NAS - Kenitra. Morocco,42
+128441,New Jersey - Azores - Port Lyautey. Moroco,42
 VH-TVA,Training,8
 FAP-403,Pucallpa - Lima,24
-N17891,Laconia, NH - Berlin, NH,7
+N17891,Laconia. NH - Berlin. NH,7
 F-BEIA,Luang Prabang - Nam Tha,28
 OK-WDK,,4
 YV-C-AMP,,2
@@ -1371,7 +1371,7 @@ HK-328,Condoto - Cali,8
 N94234,Newark - Chicago - St. Louis - Springfield - Tulsa,35
 131612,,66
 N1032V,Portland - Honolulu,23
-N51424,Mobile, AL - Macon, GA,2
+N51424,Mobile. AL - Macon. GA,2
 N37512,Training,3
 VT-DEP,Hong Kong - Jakarta,19
 F-BGOI,Yaounde - Douala,14
@@ -1382,9 +1382,9 @@ F-BFVT,Douala - Fort Lamy,3
 PP-PDJ,Sao Paulo - Asuncion,24
 XA-LID,,18
 XA-DOB,Acapulco - Oaxaca,22
-N3422,Kansas City, MO - Chicago,43
+N3422,Kansas City. MO - Chicago,43
 4X-AKC,Wien - Tel Aviv,58
-N94221,Springfield, IL - St. Louis, MO,30
+N94221,Springfield. IL - St. Louis. MO,30
 ,Starllingrad - Moscow.,25
 53-3222/53-7841,,66
 PP-CBY,Rio de Janeiro - Caravelas,13
@@ -1392,7 +1392,7 @@ VT-AZX,,3
 XY-ACQ,Meiktila - Lanywa,9
 N74663,Burbank - Oakland,33
 F-BDRE,LaLérè - Douala,16
-CF-GBT,Edmonton, AB - Yellowknife, NT,6
+CF-GBT,Edmonton. AB - Yellowknife. NT,6
 G-ALHL,Rome - Tripoli,47
 N90433,Wake Island - Honolulu,5
 OB-PAZ-228,Lima - Cuzco,35
@@ -1465,7 +1465,7 @@ AN-AEC,San Carlos - Managua,16
 F-BAVG,Tunis - Paris,70
 N8210H/52-187OA,Santa Monica - Santa Monica,6
 N34954,New York City - Miami,101
-51-141A,Kimpo AB - Tokyo, Japan,159
+51-141A,Kimpo AB - Tokyo. Japan,159
 N90449,Fairbanks - Seattle,5
 XH117,,22
 HK-155,Condoto - Cali,15
@@ -1478,7 +1478,7 @@ F-BEIK,,34
 PP-ANX,Rio de Janerio - Sao Paulo,30
 XA-KUN,,3
 VW832,,24
-F-BGNE,Tehran, Iran - Istanbul, Turkey,
+F-BGNE,Tehran. Iran - Istanbul. Turkey,
 G-AJBO,Blackbushe - Tripoli,35
 VT-AUV,,3
 EC-ADI,Santiago de Compostella - Madrid,37
@@ -1565,7 +1565,7 @@ OD-ADB,Beirut - Rome,5
 YV-C-ANC,,23
 TAM-03,Fortin Campero - Tarija,20
 CCCP-42362,Peking - Moscow,80
-Bu141294,Patuxent River, NAS - Argentia,NAS,29
+Bu141294,Patuxent River. NAS - Argentia.NAS,29
 G-ANHC,London - Napoli,31
 CU-T603,Miami - Varadero,20
 YE-AAB,Rome - Belgrade,8
@@ -1580,25 +1580,25 @@ ET-T-1,Tippi - Jimma,18
 XH-SAA,Copan - Nuovo Octopeque,5
 N18941,Nashville - Knoxville - Tri-City Aport,10
 D-ALAK,Hamburg - Rio de Janeiro,39
-N1240N,Burbank, CA - Seattle, WA,2
+N1240N,Burbank. CA - Seattle. WA,2
 LV-GED,Buenos Aires - Mar del Plata,52
 YV-C-LBI,Merida - Lagunillas,4
 JY-ACB,Jerusalem - Dobouk,15
 G-AGRG,,6
-N17314,Pueblo, CO - San Antoonio, TX,28
+N17314,Pueblo. CO - San Antoonio. TX,28
 N3794N,Mason City - Fargo,4
 N6101A,Chicago - New York City,73
 TC-SEV,Ankara - Istanbul -  London,24
-N68823,Arica, Colombia - Puerto Suarez, Bolilvia,5
+N68823,Arica. Colombia - Puerto Suarez. Bolilvia,5
 YA-BAG,Beirut - Tehran,27
 YS-09C,Las Mercedes - Tegucigalpa,19
 VT-CYH,,7
 EC-ADH,Palma de Mallorca - Mahon,18
 F-BGZB,,9
 VT-CGI,Dum Dum - Agartala-Singerbhil - Kumbhirgram,24
-N7840B,Orlando, FL - Atlanta, GA,2
+N7840B,Orlando. FL - Atlanta. GA,2
 XA-MIS,Mexicale - Guaymas,26
-G-AGRH,Ankara, Turkey - Bahrain,12
+G-AGRH,Ankara. Turkey - Bahrain,12
 EC-ABC,Barcelona - Madrid,28
 OE-FDA,Palma de Mallorca - Wien,5
 N2735A,Pittsburg - Charleston,44
@@ -1615,7 +1615,7 @@ AP-AJE,,3
 N7514A,Training,5
 G-AMZD,Barcelona - London,32
 LV-AHP,,50
-N5140B,Abilene, TX - Forth Worth, TX,2
+N5140B,Abilene. TX - Forth Worth. TX,2
 ,Mexico City - Merida,16
 N88900,San Salvador - Miami,3
 PP-SQV,Sao Paulo - Rio de Janeiro,20
@@ -1624,7 +1624,7 @@ N63396,Shemya - Cold Bay - Adak - Anchorage,16
 N9705C,Houston - Dallas,34
 N67589,Los Angeles - Oxnard - Santa Maria - Paso Robles,19
 SX-BAD,Athens - Thessaloniki,18
-N55V,Washington DC - Charlottsville, VA,27
+N55V,Washington DC - Charlottsville. VA,27
 CF-ILI,Montreal - Hall Lake,5
 N4891C,Tampa - New Orleans,42
 CCCP-11167,,40
@@ -1656,9 +1656,9 @@ HK-516,San Andres - Medellin,46
 AN-AIN,Siuna - Bonanza,18
 PP-CDS,,22
 ,,18
-52-1062,Dover, Delaware - Mildenhall, England,9
+52-1062,Dover. Delaware - Mildenhall. England,9
 HK-390,Miami - Medellin - Bogota,51
-N2704R/N1807H,Cincinnati, OH - Hickory, NC,44
+N2704R/N1807H,Cincinnati. OH - Hickory. NC,44
 OO-SBL,Cairo - Bunia,35
 YV-C-AFE,Maiquetia - Calabozo,13
 HB-ILA,Niamey - Khartoum,12
@@ -1679,36 +1679,36 @@ D-BELU,Frankfort - Rimini,34
 TAM-09,La Paz - Tipuani,6
 CCCP 75705,Cairo - Moscow,35
 WU-26,,20
-G-AMNK,Heraklion, Greece - Cairo, Egypt,3
+G-AMNK,Heraklion. Greece - Cairo. Egypt,3
 F-BHBC,Paris - Dakar,63
 N90779,Guam - Wake Island,94
-56541,Atsugi, Japan - Subi Point, Philippines,29
+56541,Atsugi. Japan - Subi Point. Philippines,29
 OE-LAF,Warsaw - Moscow,37
 XA-HUS,Tapachula - Mexico City,18
 SU-AKW,Geneva - Rome,21
 N5533,Boston - Philadelphia,72
 I-AOMA,Rome - Genoa,11
-N1300N,Rapid City, South Dakota - Ogden, UT,2
+N1300N,Rapid City. South Dakota - Ogden. UT,2
 CCCP-42452,,3
 N48762,Spokane - Missoula,12
-N1244N,Toledo - Kansas City, MO,48
+N1244N,Toledo - Kansas City. MO,48
 9N-AAD,,4
 HC-ADV,Guayaquil - Quito,37
 PI-C133,Iloilo - Manila,33
 PP-AKF,Cuiaba - Manaus,15
 T-102,Buenos Aires - Lima,31
 CC-CLD-P210,Temuco - Santiago,24
-F-BHBM,Fort Lamy, Chad - Marseilles, France,78
+F-BHBM,Fort Lamy. Chad - Marseilles. France,78
 51-0174,,22
 N8013U/N6907C,Chicago - New York City / Columbus - New York City,128
-55-291,Munich - Northolt AB, England,20
+55-291,Munich - Northolt AB. England,20
 PI-C126,Cebu - Davao,37
 OK-MCZ,,10
 OH-LCC,Kokkola - Vaasa,25
 XA-XAX,New York - Mexico City,106
 BU143193,,22
 PK-GDI,Jakarta - Bandung,21
-51-17626,Azores - Argentia,Newfoundland,23
+51-17626,Azores - Argentia.Newfoundland,23
 N7502A,Training,6
 PK-GDY,Surabaya - Balikpapan,26
 OO-SJB,New York City - Brussels,72
@@ -1716,7 +1716,7 @@ YV-C-AZQ,San Antonio-Maiquetia,12
 C-47-2055,Rio de Janerio - Belem,28
 OK-OAD,Prague - Zurich,52
 WD497,,13
-PH-DCL,Rome  - Lisbon -  Madrid - Santa Maria, Azores -Caracas,61
+PH-DCL,Rome  - Lisbon -  Madrid - Santa Maria. Azores -Caracas,61
 PH-LLM,Rome - Cairo,36
 D-ABEB,Tripoli - Kano,7
 LV-FTO,Salta - Cordoba - Buenos Aires,35
@@ -1743,7 +1743,7 @@ WD498,,37
 G-ANWL,Cherboug - Les Prevosts,10
 PP-PDO,Lisbon - Ilha do Sal - Recife,45
 N2737A,Baltimore - Columbia SC,79
-HH-ABA,San Juan, PR - Managua,3
+HH-ABA,San Juan. PR - Managua,3
 LV-AHR,Sao Paulo - Trinidad,52
 ,,35
 VH-TVC,Sydney - Canberra,15
@@ -1763,21 +1763,21 @@ ZS-DJC,Grahamtown - Queentown,7
 TC-KOP,Ankara - Adana,11
 I-DIMO,Khartoum - Rome,5
 55-0020,Training exercise,15
-N6911C,Cold Bay, AK - Adak, AK,7
-N6921C,Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon,107
+N6911C,Cold Bay. AK - Adak. AK,7
+N6921C,Travis AFB - Honolulu - Agana. Guam - Clark AFB -Saigon,107
 204,,11
 CU-T819,Santiago de Cuba - Havana,22
 FAC-563,Bogota - Araracuara - Villavicencio,31
 HK-524,Bahia Solano - Quibdo,40
 EC-ATB,Barcelona - Valencia - Seville,18
-G-AGZB,Jersey, Channel Islands - Portsmouth, England,18
+G-AGZB,Jersey. Channel Islands - Portsmouth. England,18
 UB-BG-707,,32
 PP-CEZ,Rio de Janerio - Vitoria,25
 CF-IHA,Sondre Stromfjord - Godthab,21
-SU-AJM,Cairo, Egypt  - Beirut, Lebanon,3
+SU-AJM,Cairo. Egypt  - Beirut. Lebanon,3
 56-0546,,13
 131390,,26
-N70775,Chicago - Kansas City, MO,45
+N70775,Chicago - Kansas City. MO,45
 F-BHSM,Paris - New York City,132
 CCCP-42491,,5
 F-BHST,Paris - Pointe-a Pitre - Santaigo,112
@@ -1786,10 +1786,10 @@ CCCP-42370,,84
 ,,14
 I-DIWD,Bangkok - Bombay,94
 OD-AEC,,6
-VT-AUS,Kabul  - Amritsar, India,3
+VT-AUS,Kabul  - Amritsar. India,3
 VT-DFZ,,9
 SU-AMW,Hong Kong - Bangkok,26
-CF-CZB,Honolulu - Nadi, Fiji,40
+CF-CZB,Honolulu - Nadi. Fiji,40
 CCCP-11186,,81
 F-BAOE,Training,8
 9N-AAH,Katmandu - New Deli,10
@@ -1803,11 +1803,11 @@ OK-MCT,Bratislava - Brno,34
 60-0352,Ellsworth AFB - Fairchild AFB,44
 CP-710,Caranavi - Rurrenabaque,4
 VT-DGX,,8
-N6923C,Gander, Newfoundland - Frankfurt, Germany,76
+N6923C,Gander. Newfoundland - Frankfurt. Germany,76
 CF-THA,,19
 PI-C503,Training,3
 XA-COL,,8
-N8415N,Washington D.C. - Providence, RI,52
+N8415N,Washington D.C. - Providence. RI,52
 CCCP-42495,,10
 XV-NID,Hue - Da Nang,27
 JA8202,,4
@@ -1823,14 +1823,14 @@ N6913C,Chicago - Burbank,5
 SP-LVB,Berlin - Warsaw,33
 ,,12
 PP-VCQ,Rio de Janeiro - Brasilia,40
-G-ARSF,Southend, England - Rotterdam, The Netherlands,18
+G-ARSF,Southend. England - Rotterdam. The Netherlands,18
 F-BELZ,Bastia - Ajaccio,25
 N994B,,2
 N65458,,6
 PP-CEV,,45
 N2703,Training,3
 N67933,,2
-N242V,Midland, TX - Kansas City, MO,8
+N242V,Midland. TX - Kansas City. MO,8
 ,,14
 OD-ADE,Nicosia - Ankara,17
 N9740Z,,8
@@ -1873,7 +1873,7 @@ HG-ICV,Zurich - Geneva,80
 F-BJER,London - Perpignan,40
 VT-DIO,Madras - Nagpur - Delhi.,18
 56-2002,,10
-HP-385,Marseilles, France - Dhah, Saudi Arabia,6
+HP-385,Marseilles. France - Dhah. Saudi Arabia,6
 N6673D,Idlewild - Newark,6
 ,,31
 CCCP-04188,,5
@@ -1890,7 +1890,7 @@ N2136P,,2
 TC-ETI,Istanbul - Ankara,3
 N2999,Gainsville - Jacksonville,10
 CP- 568,,29
-N2157P,Freeport, Grand Bahamas - West Palm Beach, FL,4
+N2157P,Freeport. Grand Bahamas - West Palm Beach. FL,4
 N3823C,Detroit - Akron,4
 ,,13
 PI-C97,Cotabato - Malabang - Iligan - Cayagan de Oro,32
@@ -1899,7 +1899,7 @@ N1800D,,2
 N8607,Mexico City - New Orleans - New York City,58
 JA5098,Kagoshima - Oita,42
 G-AOVO,London - Innsbruck,83
-N86504,San Jose, CA - Lake Tahoe,85
+N86504,San Jose. CA - Lake Tahoe,85
 HK-862,Pereira - Bogota,28
 N410D,,30
 N384,New York - Winsor Locks - Boston,3
@@ -1918,10 +1918,10 @@ PI-C51,Siocon - Zamboanga,11
 PP-SPZ,Training,3
 N5420P,,3
 HZ-AAN,Training,2
-N344S,Washington D.C. - Southhampton, MA,5
+N344S,Washington D.C. - Southhampton. MA,5
 B-908,Taichung - Tainan,57
 EC-AQH,Palma de Mallorca - Ibiza,28
-N18946,Martinsville, Virginia - Wilmington, Delaware,5
+N18946,Martinsville. Virginia - Wilmington. Delaware,5
 N1007U,,53
 N769TW,Rome - Athens,73
 N7405,Philidelphia - Washington - Knoxville - Huntsville,39
@@ -1936,7 +1936,7 @@ PP-SRR,Vitoria - Rio de Janeiro,39
 ,Khoke Kathiam - Vaong Nong,34
 HK-319,Condoto - Medellin,2
 F-BHMS,Palma de Mallorca - Port Etienne,80
-LX-IOK,Dublin, Ireland - Addis Ababa,7
+LX-IOK,Dublin. Ireland - Addis Ababa,7
 YR-ILB,,32
 N9340F,,2
 ,,33
@@ -1974,15 +1974,15 @@ AP-AAH,Peshawar - Chitral,26
 EC-ATH,Malaga - Tangiers,53
 N84R,,2
 JY-ACQ,Beirut  - Amman,54
-G-ANTB,Paris - Jersey , Channel Islands,27
+G-ANTB,Paris - Jersey . Channel Islands,27
 N7397P,,2
-N6541C,Seattle, WA - Ogden, UT,5
+N6541C,Seattle. WA - Ogden. UT,5
 EC-AIN,Madrid - Tenerife,49
 AP-AMH,Karachi - Dhahran - Cairo - Geneva - London,125
 63-8760/63-8840,,18
 60-0373,El Toro -  Honolulu - Okinawa,85
 N761PA,San Francisco - Hawaii,153
-N70773,Los Angeles - Kansas City, MO,66
+N70773,Los Angeles - Kansas City. MO,66
 AP-ATT,Rawalpindi - Skardu,4
 TG577,,41
 ,Cairo - Yamen,31
@@ -2001,7 +2001,7 @@ PI-C942,Cebu - Bacolod,11
 ET-ABI,,17
 HC-AFQ,Coca - Pastaza,11
 XV-NIC,,39
-N708PA,Fort de France - Saint Johns, Antigua,30
+N708PA,Fort de France - Saint Johns. Antigua,30
 970,,10
 HK-118/HK-922F,Bogota - Bucaramanga,19
 VT-AUQ,,8
@@ -2019,7 +2019,7 @@ N243F,Palm Springs - Burbank,8
 N485,Salt Lake - Albuquerque,13
 N748TW/N6218C,Boston - Newark,112
 HK-527,,8
-EC-ARZ,Tenerife - Manchester, England,32
+EC-ARZ,Tenerife - Manchester. England,32
 56-4376,Pleiku - Tuy Hoa,85
 N89805C,,2
 PI-C856,Manila - Legazpi,21
@@ -2052,7 +2052,7 @@ OB-R-771,Lima - Cuzco,49
 64-13138,,20
 N4546B,,2
 57-1444,,11
-N10415,Detroit, MI - Kansas City, MO,3
+N10415,Detroit. MI - Kansas City. MO,3
 CF-FBJ,Montreal - Kuujjuaq,2
 N17337,,12
 N5775Y,,4
@@ -2060,7 +2060,7 @@ PI-C17,Mamburao - San Jose,26
 ZK-NZB,Training,5
 N538B,,4
 CP-730,Riberalta - Cochabamba,3
-N1553,Kansas City, MO - Omaha,42
+N1553,Kansas City. MO - Omaha,42
 YR-TAN,Brasov - Mamia,24
 XA-PEI,Training,6
 N445,,4
@@ -2096,7 +2096,7 @@ N2045D,,9
 N30046,,3
 ,,10
 N4129P,,3
-G-ASOG,Manchester, England - Frankfurt, Germany,2
+G-ASOG,Manchester. England - Frankfurt. Germany,2
 YK-ACB,,19
 PP-SDJ,Sao Paulo - Curitiba,25
 N4855U,,2
@@ -2175,11 +2175,11 @@ N9450Z,,3
 62-4175,,26
 XW-PFM,,12
 OB-R-148,Huanuco - Tingo Maria,72
-N390R,Cleveland, OH - Madison WI,8
+N390R,Cleveland. OH - Madison WI,8
 N8501F,,3
 N3408W,,6
 XF702,,13
-N65276,Denver, CO - Scottsbluff, NE,2
+N65276,Denver. CO - Scottsbluff. NE,2
 HS-TDH,Bangkok - Chiang Mai,31
 CCCP-46215,Riga - Liepaja,51
 N6139V,,6
@@ -2193,7 +2193,7 @@ SU-AJG,Cairo - Beirut,4
 F-OECD,,16
 153440,,12
 N791SA,Honolulu - Vancouver,61
-BL534,Chandigarh, Punjab - Leh, Kashmir,98
+BL534,Chandigarh. Punjab - Leh. Kashmir,98
 B-1018,Hong Kong - Taipei,63
 N1838F,,3
 XW-TAD,Vientiane - Sayaboury,37
@@ -2205,7 +2205,7 @@ PI-C871,Manila - Lapu Lapu,14
 N2623F,,2
 N2224U,,5
 EI-AOM,Cork - London,61
-N970Z/N8669G,Peoria, IL - St. Louis, MO,51
+N970Z/N8669G,Peoria. IL - St. Louis. MO,51
 ,,2
 153445,,12
 G-ARWE,London - Zurich,127
@@ -2230,7 +2230,7 @@ I-PIAI,,6
 ,Kaunas - Ryazan / Moscow - Gomel,120
 ,,29
 N6898D,,27
-G-AMAD,Deauville, France - London, England,8
+G-AMAD,Deauville. France - London. England,8
 N5694Y,Ft. Lauderdale - Bahama Island,4
 HZ-AAZ,,11
 OO-SJK,Brussels - Lagos,7
@@ -2241,8 +2241,8 @@ N8317S,,3
 I-DIWF,Rome - Milan,95
 N4634S / N8742S,,15
 G-ATFN,London - Innsbruck,48
-N712U,Cincinnati - Charlston, WV,37
-N3821,Halifax, NS - Santa Maria, Portugal,3
+N712U,Cincinnati - Charlston. WV,37
+N3821,Halifax. NS - Santa Maria. Portugal,3
 N300Y,,21
 SU-AOL,Cairo - Damascus,40
 YV-C-AMY,,7
@@ -2263,7 +2263,7 @@ OK-MCY,Praha - Kosice,40
 17949,,10
 PP-SAD,,19
 450934,Saigon - Da Nang,23
-N380NE,Boston, MA - Montpelier, VT - Lebanon, NH,42
+N380NE,Boston. MA - Montpelier. VT - Lebanon. NH,42
 N3810C,,8
 JA8032,Tokyo - San Francisco,107
 N7666,Los Angeles - Santa Ana,9
@@ -2275,8 +2275,8 @@ N6257X,,3
 N494PA,New York City - Caracas,51
 N5802,Detroit - Erie - Bradford - Washington D.C.,47
 N760AL,Fairbanks - Prudhoe Bay,4
-N799PA,San Francisco - Anchorage - Cam Ranh Bay, Vietnam,3
-,Tijuana - Black Warrior Lagoon, Baja,12
+N799PA,San Francisco - Anchorage - Cam Ranh Bay. Vietnam,3
+,Tijuana - Black Warrior Lagoon. Baja,12
 N2045,Minneapolis - Chicago - Milwaukee,45
 64-0545,,12
 N4901,Fairbanks - Bethel - Minchumina,5
@@ -2293,7 +2293,7 @@ N7434U,Los Angeles - Denver - Milwaukee,38
 65-0990,,13
 N8181H,Port Angeles - Seattle,10
 65-0990,,14
-N15570,Hawthorne, NV - Burbank - Long Beach,35
+N15570,Hawthorne. NV - Burbank - Long Beach,35
 B-2009,Kaohsiung - Taipei,36
 N563PR,Saint Thomas - San Juan,19
 YV-C-AVD,Maracaibo - Miami,84
@@ -2307,35 +2307,35 @@ CF-THK,,21
 135749,,31
 ,Kinshasa - Luluaburg,45
 N167W,,9
-VT-DOJ,Silchar, India - Khulna, Bangladesh,44
+VT-DOJ,Silchar. India - Khulna. Bangladesh,44
 9G-AAF,,33
 67-21493,,18
 LQ-IPC,,11
 TC-28,Service mission,11
 66-19029,,74
-N1243N,Medford, NJ - Allentown, PA,2
+N1243N,Medford. NJ - Allentown. PA,2
 XY-ACR,,6
 I-ATIT,Rome - Reggio di Calabria,36
 XA-SEL,Mexico City - Monterey,79
 N2665S,,3
-62-4137,Shemya, AK - Eielson, AK,19
+62-4137,Shemya. AK - Eielson. AK,19
 N2550A,Pasco - Spokane,2
 ,,14
-N844NS,Atlanta, GA - Sumpter, SC - Greer, SC,14
+N844NS,Atlanta. GA - Sumpter. SC - Greer. SC,14
 9N-AAP,Katmandu - Simra,35
-N58Q,Sagwon,AK - Elusive Lake, AK,2
+N58Q,Sagwon.AK - Elusive Lake. AK,2
 N558MA,New York - Newark,14
-N3007T,McGrath, AK - Sparrevohn, AK,4
+N3007T,McGrath. AK - Sparrevohn. AK,4
 N88G,Kalaupapa - Lihue,13
 N787TW,Training,5
 7T-VAK,Paris - Hassi Messaoud,37
 N73909,Sightseeing,3
 CF-NAJ,,4
 N8403E,Sightseeing,3
-N196X,Long Tieng, Laos - Sam Thong, Laos,13
+N196X,Long Tieng. Laos - Sam Thong. Laos,13
 HC-ALK,,1
 ,,112
-F-BHSZ,Caracas - Pointe a Pitre, Guadeloupe,62
+F-BHSZ,Caracas - Pointe a Pitre. Guadeloupe,62
 CCCP-11381,,8
 N3149X,Chicago - Des Moines.,3
 ,,35
@@ -2350,23 +2350,23 @@ XA-SEJ,Chicago - Mexico City,118
 CP-698,Santa Cruz - La Paz,74
 N52676,,5
 152796,,26
-N590CA,Rawling, WY - Denver, CO,5
+N590CA,Rawling. WY - Denver. CO,5
 CF-AAL,Winisk - Timmins,4
-N8216V,Sitka, AK - Pt. Alexander, AK,2
+N8216V,Sitka. AK - Pt. Alexander. AK,2
 CCCP-11376,,9
 N7811M,Albany - Glenn Falls,14
 5N-ABD,Kano - Lagos,87
 SX-DAE,Chania - Athens,90
-N5090Y,Houlton, ME - Portland, ME,3
+N5090Y,Houlton. ME - Portland. ME,3
 150879,,1
 B-2005,,77
 XW-TDJ,,19
-N3472Y,Nulato, AK - Tanana, AK,4
+N3472Y,Nulato. AK - Tanana. AK,4
 EC-BNM,Stockholm - Zurich,10
 ,,27
-5W-FAC,Apia, Western Samoa - Pago Pago, American Samoa,32
+5W-FAC,Apia. Western Samoa - Pago Pago. American Samoa,32
 OB-R-776,Trujillo - Juanjui,28
-N3766,Detroit, MI - Chicago, IL,2
+N3766,Detroit. MI - Chicago. IL,2
 XB-DOK,,19
 9N-AAR,Kathmandu - Delhi,23
 CCCP-47701,,34
@@ -2375,20 +2375,20 @@ CCCP-45083,,11
 LV-HGW,Corrientes - Rosario,37
 YR-AMT,Bucharest - Oradea,22
 CCCP-75798,,92
-N124PM,Groton, CT - New York, NY,5
+N124PM,Groton. CT - New York. NY,5
 HK-1270,,12
 HI-177,Santo Domingo - San Juan,102
-N3218Q,Sherbrooke, Canada - Newark, NJ,4
+N3218Q,Sherbrooke. Canada - Newark. NJ,4
 9Q-CUD,,17
 HB-ICD,Zurich - Tel Aviv,47
 D-INAH,Munchen - St. Moritz,11
 PP-BUF,Reclife - Belem,40
 145927,Taiwan - Da Nang,31
-N497DM,Binghamton, NY - Washington DC,11
+N497DM,Binghamton. NY - Washington DC,11
 N4121R,Grand Canyon - Las Vegas,6
 CN-CCV,Agadir - Casablanca,82
 CCCP-47751,,45
-N3241W,Teterboro, NJ - Cambridge, MD,3
+N3241W,Teterboro. NJ - Cambridge. MD,3
 54-1625,,10
 PI-C-1022,Cuayan - Manila,36
 MM52-6018,,19
@@ -2401,15 +2401,15 @@ N434EJ,Detroit - Pellston,6
 CCCP11149,,11
 YV-C-AMK,,6
 HR-ASN,,6
-N40412,Chamblee, GA - Fort Myers,FL,33
+N40412,Chamblee. GA - Fort Myers.FL,33
 OK-NDO,,13
 PI-C507,Manila - Bacolod,44
 TC-75,,8
-N154R,McGrath AK - Galena, AK,27
+N154R,McGrath AK - Galena. AK,27
 G-APDN,Manchester - Barcelona,112
 CF-TIW,Montreal - Toronto - Los Angeles,109
 CCCP-09303,Reykjavik - Halifax - Sidney,23
-N3016L,San Antonio, TX - Rudioso, NM,7
+N3016L,San Antonio. TX - Rudioso. NM,7
 N785FT,Tokyo - Okinawa,4
 ,,37
 152159,Las Vegas - San Diego,10
@@ -2421,20 +2421,20 @@ VT-DWT,Silchar - Gauhati,39
 PH-NVA,,10
 CCCP-45012,,37
 CCCP-87690,,22
-N4863T,Jamaica, NY - Washington D.C.,11
+N4863T,Jamaica. NY - Washington D.C.,11
 N855JA,San Juan - Ponce,1
-N2346S,Portland, OR - Cranbrook, Canada,4
+N2346S,Portland. OR - Cranbrook. Canada,4
 TF-FIL,,34
 B- 305,Pleiku - Hue,38
 CCCP-11031,,8
-N464M,Wichita - Denver - Logan, Utah,40
+N464M,Wichita - Denver - Logan. Utah,40
 64-0536,Taipei - Ching Chuan Kang,43
-N701X,Dubois, PA - Roanoak, VA,2
-ZS-DKR,Johannesberg - Orapa Mine, Botswana,11
-N9248R,Dayton, OH - Ft. Dix, NJ,3
-N7667J,Teleboro, NJ  - Wilmington, DE,2
+N701X,Dubois. PA - Roanoak. VA,2
+ZS-DKR,Johannesberg - Orapa Mine. Botswana,11
+N9248R,Dayton. OH - Ft. Dix. NJ,3
+N7667J,Teleboro. NJ  - Wilmington. DE,2
 HK-792,,4
-N97S,Kingston, NC - Huntington, WV,75
+N97S,Kingston. NC - Huntington. WV,75
 53-03724/560,,18
 N4909C,Anchorage - Yokota AFB,229
 55-4574,Saigon - Nha Trang AB,79
@@ -2448,7 +2448,7 @@ AP-AUV,,35
 F-BNGB,Algiers - Menorca,31
 CCCP-75773,Leningrad - Erevan,93
 SU-ALC,Algers - Boumediene,16
-N7595A/N60942,San Francisco, CA - Newark, NJ,21
+N7595A/N60942,San Francisco. CA - Newark. NJ,21
 LZ-BED,Paris - Zurich - Sofia,47
 F-RBOA,Paris - Orange,21
 FAP-381,Mazamari - Lima,35
@@ -2457,30 +2457,30 @@ PT-LJR,,8
 HL-5212,Kangnung - Seoul,60
 YV-C-AMV,Merida - Maiquetia,48
 CCCP-12996,,7
-N3680K,Mona Is., PR - Mayaguez, PR,3
+N3680K,Mona Is.. PR - Mayaguez. PR,3
 TAM-60,La Paz - San Borja,12
 VT-ATT,Gauhati - Calcutta,15
 N3166,Los Angeles - Ontairo,5
 CCCP-11145,,64
 293246,Manila - Nichols AFB,40
-N4960F,Kayenta, AZ - Tucon, AZ,2
-N456T,C. Amalie, VI - San Juan, PR,8
-N144H,Manchester, NH - Boston, MS,4
-N4922V,Tucon, AZ - Phoenix, AZ,12
+N4960F,Kayenta. AZ - Tucon. AZ,2
+N456T,C. Amalie. VI - San Juan. PR,8
+N144H,Manchester. NH - Boston. MS,4
+N4922V,Tucon. AZ - Phoenix. AZ,12
 TG-ACA-A,Guatemala City - Tikal,35
-N9222,Sagwon, AK - Local,4
+N9222,Sagwon. AK - Local,4
 YU-AHZ,London - Rijeka,83
 37653,,11
-N601JJ,Atlanta, GA - Martinsville, VA,6
-HA-MOC,Oslo, Norway - East Berlin, German,34
+N601JJ,Atlanta. GA - Martinsville. VA,6
+HA-MOC,Oslo. Norway - East Berlin. German,34
 ST-AAY,,42
 N9345/151458,Los Angeles - Salt Lake City,51
-N5832,Washington D.C. - Newport News, VA - Philadelphia,31
+N5832,Washington D.C. - Newport News. VA - Philadelphia,31
 61-0331,Hickam AFB - Pango Pango,24
 CP-926,Santa Cruz - Arica,6
-N90627,Shelter Cove, CA - San Jose, CA,24
+N90627,Shelter Cove. CA - San Jose. CA,24
 JA8764,Sapporo - Hakodate,68
-N7893S,Fairbanks, AK - Local,3
+N7893S,Fairbanks. AK - Local,3
 6V-AAP,,6
 N461PA,San Francisco - Honolulu - Guam - Manila - Siagon,4
 CCCP-42405,Novosibirsk - Irkutsk,126
@@ -2488,51 +2488,51 @@ JA8329 / ,Sapporo - Tokyo,164
 N747PA,San Francisco - Los Angeles,218
 49,Exercises,39
 ,Odessa - Irkutsk - Vladivostok,100
-N5096V,Valdez, AK - Local,2
+N5096V,Valdez. AK - Local,2
 66-19023,Ludwigsburg - Grafenwohr,37
-N595DE,Boston, MA - Rockville, ME diverted to  Augusta ME,8
+N595DE,Boston. MA - Rockville. ME diverted to  Augusta ME,8
 VT-DXG,Trivandrum - Madurai,31
 N2969G,Anchorage - Seattle,111
-D-ALAR,Hamburg, Germany - Malaga, Spain,121
-N2779B,Temple, TX - Columbus, GA,5
+D-ALAR,Hamburg. Germany - Malaga. Spain,121
+N2779B,Temple. TX - Columbus. GA,5
 4W-ABI,,5
 HA-LBD,Budapest - Kiev,49
 PP-CBV,Cruzerio do Sul - Rio Branco,32
 G-APEC,London - Salzburg,63
 CCCP-42490,,20
 N3250Q,Las Vegas - Grand Canyon,10
-N20DE,Detroit, MI - Hot Springs, VA,6
+N20DE,Detroit. MI - Hot Springs. VA,6
 HK- 595,,22
-N51CS,Chicago, IL - Peoria, IL,16
+N51CS,Chicago. IL - Peoria. IL,16
 ,,31
-N986MA,Jamaica, NY - Allentown, PA,8
+N986MA,Jamaica. NY - Allentown. PA,8
 XV216,San Giusto - Sardinia,52
 PK-MVS,Jakarta - Padang,69
 CCCP-46809,,47
 B-1852,Taipei - Hong Kong,25
 68-15866,Da Nang - Camp Eagle,34
 CCCP-46788,,57
-N8943E / N2110F,Miami, FL - Raleigh, NC,29
+N8943E / N2110F,Miami. FL - Raleigh. NC,29
 ,,47
 LZ-BES,Sofia IAP - Algiers,73
 OB-R-941,Lima - Pucallpa,92
 XA-SEV,Chetumel - Merida,23
 EC-ATV,Valencia - Ibiza,104
-N4897P,Omaha, NE - Hot Springs, SD,3
+N4897P,Omaha. NE - Hot Springs. SD,3
 TC-JAC,Damascus - Ankara,8
 HK-1347,Bogota - San Andres,20
 FAC-661,Medellin - Buenaventura,39
 YU-AHT,Stockholm - Belgrade,28
 XW-PEH,,9
 393,Ban Xon - Pha Khao,38
-N8933U,Gallup, NM - Battle Mountain, NV,2
+N8933U,Gallup. NM - Battle Mountain. NV,2
 HK-1139,Bogota - Valledupar,19
 XW-TDE,Savannakhet - Vientiane,23
-N80398,Chicago, IL - Detroit, MI,2
+N80398,Chicago. IL - Detroit. MI,2
 62-1813,,7
-N1027C,Hailey, ID - Boise, ID,4
-N5642V,Honolulu, HI - Lanai, HI,8
-N7818M,New York City - Albany, NY,48
+N1027C,Hailey. ID - Boise. ID,4
+N5642V,Honolulu. HI - Lanai. HI,8
+N7818M,New York City - Albany. NY,48
 58-0048,,5
 OY-STL,Colombo - Dubai,112
 YU-AHR,Cairo - Aden,22
@@ -2543,37 +2543,37 @@ I-ATIP,Rome - Foggia,18
 N8467E,Sightseeing,3
 5X-UVA,Addis Ababa - Rome,107
 OB-R-653,,6
-N391R,Long Tieng, Laos - Moung Cha, Laos,10
+N391R,Long Tieng. Laos - Moung Cha. Laos,10
 64-0508,,6
 CCCP-87778,,18
 I-DIWB,Rome - Palermo,115
 YV-C-GAI,Ciudad - La Centella,7
 ,Bien Hoa - Vung Tau,34
-N841NS,Albuquerque, NM - Sante Fe, NM,9
+N841NS,Albuquerque. NM - Sante Fe. NM,9
 CR-LLD,Luanda - Lobito - Sa Da Bandeira,25
 D-IDHC,,13
-N2256W,Dulac, LA - Gulf oil platform,11
+N2256W,Dulac. LA - Gulf oil platform,11
 PP-PDG,,18
 N3305L,Training,4
-N3990G,Fairbanks, AK - Valdez, AK,2
-N234AP,Arkansas City, KS - White Plains, NY,2
+N3990G,Fairbanks. AK - Valdez. AK,2
+N234AP,Arkansas City. KS - White Plains. NY,2
 15-2182,Rota - Souda Bay,14
 EM2,Siagon - Hue-Phu Bai - Pleiku,32
 CC-CDU,,3
 ,,47
 JA8012,Bangkok - Delhi,87
 VR-HFZ,Bangkok - Hong Kong,81
-N9077N,Harlingen, TX - Austin, TX,5
+N9077N,Harlingen. TX - Austin. TX,5
 55-0043,,15
 CCCP-11215,,122
 G-ARPI,London - Brussels,118
 N554PR,San Juan - Ponce,20
-N9067F,Almond Dam, NY - Salamanica, NY,3
-N90858/N4043B,Chicago, IL - Appleton, WI - Sheboygan, WI,13
+N9067F,Almond Dam. NY - Salamanica. NY,3
+N90858/N4043B,Chicago. IL - Appleton. WI - Sheboygan. WI,13
 D-CASY,,8
 N29169,Sightseeing,5
 ,Sacramento - San Francisco,86
-EC-ARA,Las Palmas - Hamberg, Germany,10
+EC-ARA,Las Palmas - Hamberg. Germany,10
 156658,,67
 67-056,Bardufoss - Bodoe,19
 ,,84
@@ -2594,46 +2594,46 @@ XV-NUH,Vientiane - Saigon,13
 EC-AQE,Training,6
 XW-TDA,,9
 CCCP-75507,Adler - Moscow,109
-N4900,Bimini, Bahamas - Nassau, Bahamas,2
+N4900,Bimini. Bahamas - Nassau. Bahamas,2
 CCCP-86671,Leningrad - Moscow,174
 T-571,Mendoza - Santiago,45
-N1812H,Anchorage, AK - Juneau, AK,4
+N1812H,Anchorage. AK - Juneau. AK,4
 SX-BBQ,Kerkira - Athens,53
 F-OCRH,,8
 F-BMCH,Lyon - Clermont,68
 I-ATIR,Napoli - Bari,27
 ,,22
 LZ-ILA,Burgas - Sofia,35
-N2700S,Hopkinsville, KY - Lexington, KY,11
+N2700S,Hopkinsville. KY - Lexington. KY,11
 JA8040,Moscow - Tokyo,76
-N717B,Minneapolis, MN - St. Paul, MN,2
+N717B,Minneapolis. MN - St. Paul. MN,2
 EC-BZR,Tenerife - Munchen,155
 SU-AOW,Training,6
 64-0558,,12
 CF-AUQ,,3
 AP-AUS,Gilgit - Rawalpindi,26
-N3483Q,Spokan, WA - Walla Walla, WA,4
+N3483Q,Spokan. WA - Walla Walla. WA,4
 N9031U,Washington - Chicago,61
-N20M,Detroit, MI - Lexington, KY,2
+N20M,Detroit. MI - Lexington. KY,2
 N8897E/N954N,Tampa - Chicago / Chicago - Madison,133
 56-0490,,16
 F-OGFE,Guadeloupe - St. Maarten,13
 LN-SUY,Alesund - Oslo,45
 N310EA,New York City - Miami,176
-N500AE,San Juan, PR - Managua, Nicaragua,5
+N500AE,San Juan. PR - Managua. Nicaragua,5
 CF-PWZ,Toronto - Edmonton,5
 G-AOHI,Test flight,4
 CCCP-46276,,44
 JY-ADO,Jeddah - Lagos,202
-N7295E,Knoxville, TN - Andrews, NC,4
+N7295E,Knoxville. TN - Andrews. NC,4
 HR-TNO,,3
 SU-AOY,Cairo - Nicosia,37
-N9929V,Bethel, AK - Chevak, AK,2
+N9929V,Bethel. AK - Chevak. AK,2
 CCCP-85023,Moscow - Praha,100
-N14831,Oil platform - Morgan City, LA,5
+N14831,Oil platform - Morgan City. LA,5
 HP-560,David - Changuinola,28
 5A-DAH,Tripoli - Cairo,113
-N3149L,Mt. Empire, VT - Springfield, VT,2
+N3149L,Mt. Empire. VT - Springfield. VT,2
 CCCP-75712,,79
 CCCP-87602,,32
 12,,15
@@ -2651,8 +2651,8 @@ G-AXOP,Bristol - Basel,145
 N711NA / 157332,,16
 YA-GAT,Bamiyan - Kabul,19
 N310WA,,6
-N2985Q,Concord, NH - Greenville, ME,4
-N1214S,Fairbanks, AK - Prudhoe, Alaska,5
+N2985Q,Concord. NH - Greenville. ME,4
+N1214S,Fairbanks. AK - Prudhoe. Alaska,5
 CCCP-42411,Moscow - Chita,100
 XW-TDM,,11
 CF-QBB,,4
@@ -2661,13 +2661,13 @@ PP-PDX,Belem - Sao Luis,23
 CCCP-77102,Demonstration,6
 PP-VLJ,,4
 XA-SOC,Houston - Puerto Vallarta,27
-CCCP-65668,Amman, Jordan - Beiruit, Lebanon - Yerevan, Armenia,84
+CCCP-65668,Amman. Jordan - Beiruit. Lebanon - Yerevan. Armenia,84
 PP-VJZ,Rio - de Janerio - Paris,134
-N417PA,Auckland, NZ - Papeete, Tahiti - Honolulu - Los Angeles,79
-N4215,Marion, IL - St. Louis,44
+N417PA,Auckland. NZ - Papeete. Tahiti - Honolulu - Los Angeles,79
+N4215,Marion. IL - St. Louis,44
 N234JC,Honolulu - Lihue,5
-N975NE,Burlilngton, VT  - Boston, MA,89
-N70295,Ketchikan, AK - Metlakatla, AK,5
+N975NE,Burlilngton. VT  - Boston. MA,89
+N70295,Ketchikan. AK - Metlakatla. AK,5
 SSR-42486,Tbilisi - Moscow,119
 EC-BIC,Madrid - La Coruna,85
 N38JA,Port Au Prince - Cap Haitien,10
@@ -2676,13 +2676,13 @@ HK-111,Villavicencio - El Yopal,17
 HK-777,Bogota - Cartagena,42
 63-8077,Athens - Madrid,25
 N8705T,Honolulu - Los Angeles,149
-N7881Y / N6270F,Grand Rapids, MI - Gary, IN,5
-N802WA,Travis AFB - Clark AFB - Yokota AFB, Japan,6
-N1834H,Humbolt, TN - Paintsville, KY,4
+N7881Y / N6270F,Grand Rapids. MI - Gary. IN,5
+N802WA,Travis AFB - Clark AFB - Yokota AFB. Japan,6
+N1834H,Humbolt. TN - Paintsville. KY,4
 YU-AHD,Skopje - Titograd,41
-N50JR,Natchitoches, La - Dallas, TX,6
-N3015C,Bakersfield, CA - Long Beach, CA,2
-N40LB,Lincoln, NB - Omaha, NB,3
+N50JR,Natchitoches. La - Dallas. TX,6
+N3015C,Bakersfield. CA - Long Beach. CA,2
+N40LB,Lincoln. NB - Omaha. NB,3
 N94230,Memphis - El Dorado - Texarkana - Dallas,11
 PT-CEV,,9
 CCCP-42506,,108
@@ -2690,9 +2690,9 @@ CCCP-12967,,10
 PT-DVN,,8
 PP-SMJ,Rio de Janeiro - Belo Horizonte,65
 N37JA,,4
-N6273Q,La Verne, California - Willow Rock, Arizona,7
+N6273Q,La Verne. California - Willow Rock. Arizona,7
 HK- 718,Arauca - Cucuta,16
-N60NA,Miami, FL - San Francisco, CA,128
+N60NA,Miami. FL - San Francisco. CA,128
 N458PA,New York City - Prestwick,3
 XV-NIE,,27
 CCCP-42503,,72
@@ -2700,7 +2700,7 @@ CF- CFL,Montreal - Churchill Falls,8
 131615,Elmendorf AFB - Adak,10
 CCCP-45061,,51
 N407PA,Rome - Beirut,177
-N3269X,Norman, OK - Manhattan, KS,2
+N3269X,Norman. OK - Manhattan. KS,2
 TAM-47,US - La Paz,9
 ,,20
 OO-SRD,Paris - Tanger,106
@@ -2708,127 +2708,127 @@ CCCP-45004,,17
 ZS-DAK,,25
 I-TIDE,Bologna - Torino,42
 CP-990,San Borja - La Paz,4
-N125AE,Pittsburgh, PA - Johnstown, PA,17
+N125AE,Pittsburgh. PA - Johnstown. PA,17
 CCCP-46357,,24
 FAC-1103,Florencia - Bogota,31
 TAM-52,Santa Rose - La Paz,24
 HK-1216,,14
 CCCP-46277,,4
-N7888G,Ephrata, WA - Portland, OR,2
+N7888G,Ephrata. WA - Portland. OR,2
 TC-JAO,Izmir - Istanbul,73
-N633Q,Taos, NM - Albuquerque, NM,3
-N5290S,Thief River, MN - Owatonna, MN,4
+N633Q,Taos. NM - Albuquerque. NM,3
+N5290S,Thief River. MN - Owatonna. MN,4
 N454PA,Auckland - Pago Pago,101
-N732PA,San Francisco, CA - Honolulu, HI - Agana, Guam,298
+N732PA,San Francisco. CA - Honolulu. HI - Agana. Guam,298
 50-63,,40
-N864JA,St. Croix, VI - St. Thomas, VI,2
+N864JA,St. Croix. VI - St. Thomas. VI,2
 ,Baltimore - Atlanta,15
 CP-1052,,7
 5-122,,10
 TC-JAV,Paris - London,346
 ,,18
-N8118Q,Carson City, NV - San Jose, CA,4
+N8118Q,Carson City. NV - San Jose. CA,4
 N4819C,Bishop - Burbank,36
 OY-STK,Tehran - Kobenhavn,96
 A2-ZER,Francistown - Malawi,84
-N28358,Keahole, HI - Kahului, HI,11
-N446PA,Hong Kong - Bali, Indonesia - Sydney, Austrailia,107
+N28358,Keahole. HI - Kahului. HI,11
+N446PA,Hong Kong - Bali. Indonesia - Sydney. Austrailia,107
 CCCP-75405,,115
 CCCP-75559,,118
-N853SA,Galveston, TX - Houston, TX,12
+N853SA,Galveston. TX - Houston. TX,12
 HC-AUC,Pastaza - Ambato,24
 TF-OAE,Nice - Nurnberg,3
-N14ST,Alameda, CA - Indianapolis, IN,3
+N14ST,Alameda. CA - Indianapolis. IN,3
 CCCP-87579,,29
 CF-QWJ,,2
 HK-1058,Bucaramanga - Cucuta,44
 XW-TFR,Battambang - Phnom Penh,39
-N8679,Umiat, AK - Local,5
+N8679,Umiat. AK - Local,5
 HK-728,,3
 ST-4,Phnom Penh - Siagon,5
 C-FTAT,LaTuque - St. Honore,11
-115461,Beirut, Lebanon  - Damascas, Syria,9
-TZ-ABE,Bamako, Mali - Kano, Nigeria,60
+115461,Beirut. Lebanon  - Damascas. Syria,9
+TZ-ABE,Bamako. Mali - Kano. Nigeria,60
 HK-508,Tumaco - Bogota,27
-N7620,Dietrich, AK - Happy Valley, AK,4
+N7620,Dietrich. AK - Happy Valley. AK,4
 YV-C-AMX,Cumana - Porlamar,49
-65-0274,Howard AFB, Panama - La Paz, Bolivia,7
+65-0274,Howard AFB. Panama - La Paz. Bolivia,7
 9T-TCD,,31
 PK-GFJ,,39
 N8734,Tel Aviv - Athens - Rome - New York,88
-N8984E,Charleston, SC - Charlotte, NC - Chicago, IL,82
+N8984E,Charleston. SC - Charlotte. NC - Chicago. IL,82
 XV-NJC,Da Nang - Saigon,75
-N15528,Las Vegas, NV - Riverside, CA,5
-N70026,Fairbanks, AK - Dietrich, AK,2
-N357V,Fairbanks, AK - Lupine, AK,6
+N15528,Las Vegas. NV - Riverside. CA,5
+N70026,Fairbanks. AK - Dietrich. AK,2
+N357V,Fairbanks. AK - Lupine. AK,6
 N864JA,Saint Croix - Saint Thomas,2
 N2970W,,3
 SU-AXB,Training,6
 65-0965,,6
-N129WA,Kassan, AK - Coffman Cove, AK,8
+N129WA,Kassan. AK - Coffman Cove. AK,8
 RP-C643,,8
-N20673,Kingman, AZ - Deming, NM,2
-N979L,Dallas, TX - Altus, OK,4
-N2HN,Indianapolis, IN - Chicago, Il,3
-N2580P,Willow, AK - Local,3
+N20673,Kingman. AZ - Deming. NM,2
+N979L,Dallas. TX - Altus. OK,4
+N2HN,Indianapolis. IN - Chicago. Il,3
+N2580P,Willow. AK - Local,3
 N102AK,Fairbanks - Bettles,4
-N414K,Gallup, NM - Rapid City, SD,2
+N414K,Gallup. NM - Rapid City. SD,2
 C-FPAB,,34
 OY-DVJ,,3
-N97702Z,Juneau, AK - Tenakee, AK,4
+N97702Z,Juneau. AK - Tenakee. AK,4
 RP-C570,,8
 ET-AAR,Soddu - Beica,24
 D-ABYB,Nairobi - Johannesburg,157
 EC-CGG,,4
-N274US,New York City, NY - Buffalo, NY,3
+N274US,New York City. NY - Buffalo. NY,3
 N54328,Columbus - Washington D.C.,92
 PH-MHB,Surabaya - Jeddah,191
-N1583V,Old Harbor, AK - Kodiac, AK,5
+N1583V,Old Harbor. AK - Kodiac. AK,5
 ,,54
 CCCP-87630,,7
 YV-C-AVM,,77
-N66HA,Riverton Heights, WA - Oak Harbor, OR,6
+N66HA,Riverton Heights. WA - Oak Harbor. OR,6
 YR-AMD,,33
 CCCP-45037,,61
 ST-1,Da Lat - Nha Trang,9
-N71972,Richland, WA  - Seattle, WA,4
+N71972,Richland. WA  - Seattle. WA,4
 AE-259,,12
 FAC-688,San Vicente del Caguan - Florencia,21
 N6383,Ontario - Los Angeles,14
-N1944,Juneau, AK - Return,5
+N1944,Juneau. AK - Return,5
 HA-MOH,Berlin - Budapest,9
 ,,16
 TC-JAP,Izmir - Istanbul,42
 HI-222,Santo Domingo - Port-au-Prince,30
-N54734,Kenai, AK - Gulkana, AK,2
-N15HC,Lawton, OK - Huntsville, TX,16
+N54734,Kenai. AK - Gulkana. AK,2
+N15HC,Lawton. OK - Huntsville. TX,16
 RP-C1028,Manila - Iligan,33
 5063,,40
 N77DG,Fairbanks - Happy Valley Camp,3
-HK-1972,Medellin, Colombia - Miami, Florida,5
+HK-1972,Medellin. Colombia - Miami. Florida,5
 PP-SBE,Sao Paulo - Bauru,15
-N2061C,Moline, IL - Racine IL,4
+N2061C,Moline. IL - Racine IL,4
 XV-NUJ,,26
 TC-72,El Palomar AB - San Carlos de Bariloche,55
 ST-ADB,,6
 64-0641,Clark AFB - Japan,16
 68-218,Tan Son AFB - Clark AFB,330
-N7634Q,Fresno, CA - Santa Barbara, CA,3
-N59521,Anaktuvak, AK - Deadhorse, AK,4
+N7634Q,Fresno. CA - Santa Barbara. CA,3
+N59521,Anaktuvak. AK - Deadhorse. AK,4
 FAC- 663,Ocana - Cucuta,6
 VH-SJQ,,2
-N5067Y,Savoonga, AK - Gambell, AK,6
+N5067Y,Savoonga. AK - Gambell. AK,6
 68-10933,Nakhom Phanom AB - Utapao AB,23
 RP-C1184,Legaspi - Manilla,64
 PP-VDN,,15
 N8845E,New Orleans - New York City,124
-N791A,Detroit, MI - Peducah, KY,2
+N791A,Detroit. MI - Peducah. KY,2
 HK-1309,Cucuta - Tame,3
 F-BTQE,Nantes - Brest,8
 FAC-970,,10
 HK-1976,Bogota  - Barranquilla,4
-N6817L,Homer, AK - Local,2
-N58137,Poway, CA - Pomona, CA,4
+N6817L,Homer. AK - Local,2
+N58137,Poway. CA - Pomona. CA,4
 CCCP-87475,,41
 57-0454,Exercise,6
 B-2029,Hualien - Taipei,76
@@ -2836,86 +2836,86 @@ JY-AEE,Paris - Agadir,188
 412,Veracruz - Managua,20
 N88777,Denver - Wichita,131
 CCCP-87323,,28
-OK-DBF,Prague, Czechoslovakia - Damascus, Syria,128
-N44323,Monticello, NY - Portsmoutn, OH,4
+OK-DBF,Prague. Czechoslovakia - Damascus. Syria,128
+N44323,Monticello. NY - Portsmoutn. OH,4
 412,,20
 N4904,Nome - Gambell,32
 DM-SCD,Stuttgart - Leipzig,34
 ET-ABX,Bahar Dar - Debra Marcos,9
 PK-GVC,Jakarta - Palembang,61
-HA-LCI,Budapest - Beirut, Lebanon,60
+HA-LCI,Budapest - Beirut. Lebanon,60
 CF-MHU,Prince George - Dease Lake,7
 HK-1272,Bogota - Barranquilla,4
 VH-CLS,Mount Isa - Cairns,11
-N1495X,Las Vegas, NV - So. Lake Tahoe, CA,2
+N1495X,Las Vegas. NV - So. Lake Tahoe. CA,2
 TAM-44,Tomonoco - La Paz,67
 YU-AJO,Tivat - Praha,120
 N90057,,9
-N4QA,Latrobe, PA - State College, PA,4
+N4QA,Latrobe. PA - State College. PA,4
 TG-AGA,Uaxactun - Flores,22
 CCCP-46349,,19
 CCCP-87458,,6
 LZ-ANA,Sofia - Varna,48
 11,,20
 N6645Y,,6
-N52SA,Ely, NV - Elko, NV,2
+N52SA,Ely. NV - Elko. NV,2
 RP-C2136,,9
-N133MA,Denver, CO - Grandby, CO,9
+N133MA,Denver. CO - Grandby. CO,9
 OD-AFT,Beirut - Dubai,82
 CCCP-45036,Moscow - Vnukovo,61
-N651LJ,Anchorage, AK - Deadhorse, AK,6
-N5258Y,Albuquerque, NM - Gallup, NM,4
+N651LJ,Anchorage. AK - Deadhorse. AK,6
+N5258Y,Albuquerque. NM - Gallup. NM,4
 RP-C2135,,7
 HK-172,Bogota - La Macarene,13
-N7385V,Butte, MT - Kooskia, ID,3
+N7385V,Butte. MT - Kooskia. ID,3
 CP- 573,,10
 FAE-683,Loja - Guayaquil,42
 B-492,Guangzhou - Changsha,40
 PT-TBD,,11
 CCCP-75558,Training,6
-N3329G,Lafayette, LA - Patterson, LA,2
+N3329G,Lafayette. LA - Patterson. LA,2
 HK-1389,Santa Maria - Curacao,3
-60-0368,Mildenhall, England - Torrejon AFB,7
+60-0368,Mildenhall. England - Torrejon AFB,7
 N9172F,,4
 N901MA,Burbank - Ontario,6
 CCCP-42327,,24
-N4772C,St. Thomas, VI - St. Croix, VI,11
+N4772C,St. Thomas. VI - St. Croix. VI,11
 YR-ILO,,9
 TAM-76,Camiri - Itaguasurenda,22
 CCCP-75408,Moscow - Yerevan,120
-N91142,South Nanek, AK - Dillingham, AK,4
-N1631V,Palm Springs, CA - Santa Ana, CA,2
+N91142,South Nanek. AK - Dillingham. AK,4
+N1631V,Palm Springs. CA - Santa Ana. CA,2
 CU-T879,Training,5
 FAC-676,Florencia - Puerto Asis,16
 N124AS,Juneau - Ketchikan,50
-N1645U,Burlington, WA - Friday Harbor, WA,7
-N6061S,Denver, CO - Aspen, CO,2
+N1645U,Burlington. WA - Friday Harbor. WA,7
+N6061S,Denver. CO - Aspen. CO,2
 LV-HHB,,34
-N37D,San Diego, CA - Palm Desert, CA,6
+N37D,San Diego. CA - Palm Desert. CA,6
 N8167J,,12
-N1707U,Anaktuvuk, AK - Bettles, AK,5
+N1707U,Anaktuvuk. AK - Bettles. AK,5
 N1963,New York City - Saint Thomas,88
 C-GDHA,,11
 RP-C2140,,10
 SX-BBR,Athens - Larisa,50
-5-283,Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey,17
+5-283,Terhan. Iran - Madrid. Spain - McGuire AFB. New Jersey,17
 CCCP-46534,,52
-N55951,Haines, AK - Wrangell, AK,6
+N55951,Haines. AK - Wrangell. AK,6
 RP-C1161,Davao - Manila,87
 CCCP-85102,Luanda - Moscow,46
 RP-C1061,Wake Island - Guam - Manila,45
 9M-ATZ,,12
-N7894S,Grand Junction, CO - Somerset, CO,2
+N7894S,Grand Junction. CO - Somerset. CO,2
 F-BVGG,Tel-Aviv - Athens - Paris,258
 ,,17
 N7941C,,5
-N56712,Ulysses, KS - Greensburg, KS,3
+N56712,Ulysses. KS - Greensburg. KS,3
 OK-NAB,Prague - Bratislava,79
-N8681Q,Billings, MT - Cody, WY,4
-HL7412,Tehran, Iran - Seoul, Korea,5
+N8681Q,Billings. MT - Cody. WY,4
+HL7412,Tehran. Iran - Seoul. Korea,5
 T4/11-352,Moron - Canary Islands,33
 HC-ARS,Quito - Cuenca,59
-N9924X,Sunnyside, UT - Salt Lake City, UT,3
+N9924X,Sunnyside. UT - Salt Lake City. UT,3
 OB-R-1104,Lima - Caracas,6
 67-0008,Thule AB - Sondrestrom AB,27
 67-0006,McGuire AFB - Mildenhall RAF,18
@@ -2926,30 +2926,30 @@ CF-MIT,Moosonee - Timmins,10
 YU-AJR/G-AWZT,Split - Koln / London - Istanbul,176
 TC-JBH,Istanbul - Antalya,154
 C-FAWF,,19
-N9389,Dagget, CA - Loma Linda, CA,4
+N9389,Dagget. CA - Loma Linda. CA,4
 61-0296,,20
 TZ-ARC,,4
 CU-T1201,Bridgetown - Kingston,73
-N15025,Greensville, NC - Philadelphia, PA,4
+N15025,Greensville. NC - Philadelphia. PA,4
 VT-DWN,Mumbai - Chennai,95
 N730JP,Santa Cruz - Viru,3
-N61436,Washington D.C. - Baltimore, MD,4
+N61436,Washington D.C. - Baltimore. MD,4
 HK-149,Villavicencio - Cucuta,32
 PT-TBA,,6
 PK-KFR,,38
 HP-671,Curacao - Port-au-Prince,2
-HB-LHT,Shannon, Ireland - Geneva, Switzerland,5
+HB-LHT,Shannon. Ireland - Geneva. Switzerland,5
 C-FPWX,,6
 CCCP-42471,Moscow - Leningrad,72
-N4125R,Grand Canyon, AZ - Denver, CO,2
+N4125R,Grand Canyon. AZ - Denver. CO,2
 N101AC,AtlantiCity - Cap May,10
 CCCP-46672,,55
 SU-AXA,Cairo - Bangkok,53
-N4573P,Anguilla Island, WI - Beef Island, WI,6
+N4573P,Anguilla Island. WI - Beef Island. WI,6
 OB-R-247,Trujillo - Tarapoto,19
 N12MK,Palm Springs - Las Vegas,4
 CCCP-42369,Novosibirsk - Alma Ata,96
-JA8054,Mosses Lake, WA - Tokyo, Japan,5
+JA8054,Mosses Lake. WA - Tokyo. Japan,5
 C-GNTB,Prince George - Prince Rupert,12
 SE-FOZ,Malmo - Bromma,22
 C-FWAD,,2
@@ -2959,8 +2959,8 @@ CCCP-75520,Tashkent - Mineralnyye Vody,77
 C-FNAR,,10
 7O-ABF,Aden - Al Kari,21
 MM61995,Training,44
-N8635,Paris, France - Niamey, Nigher,4
-N280F,Saint Louis, MO - Detroit, MI,3
+N8635,Paris. France - Niamey. Nigher,4
+N280F,Saint Louis. MO - Detroit. MI,3
 C-GNLL,Prince George - Tezzeron Lake,5
 N736PA/PH-BUF,Tenerife - Las Palmas / Tenerife - Las Palmas,644
 PK-NUP,Palu - Toli Toli,23
@@ -2970,11 +2970,11 @@ HK-556,Villavicencio - Bogota,35
 ,Parnu - Tapa,21
 TG-ACA,,28
 360,,54
-SP-LZA,Varna, Bulgaria  - Beiruit, Lebanon,9
-G-BEBP,Nairobi, Kenya  - Luskaka, Zambia,6
+SP-LZA,Varna. Bulgaria  - Beiruit. Lebanon,9
+G-BEBP,Nairobi. Kenya  - Luskaka. Zambia,6
 N619PA,Pan Am building - JFK Airport,25
 CCCP-86614,,70
-N3345L,Houma, LA - Return,3
+N3345L,Houma. LA - Return,3
 FAB2157,,18
 CX-BJE,Carrasco - Salto-Nueva Hesperides,15
 156176,,16
@@ -2984,79 +2984,79 @@ ET-ABF,Tippi - Jima,5
 N22JA,Ruby - Colorado Creek,4
 FAC-989,Punta Arenas - Santiago,82
 FAH-301,Yoro - Honduran,40
-N9228K,Boise, ID - Flying B Ranch, ID,5
+N9228K,Boise. ID - Flying B Ranch. ID,5
 N4TV,Burbank - Santa Barbara,2
 T-87,El Bolson - Rivadavia,6
-N8062Z,Albuquerque, NM - Las Cruces, NM,4
-N9265Q,Buffalo, NY - Parkersburg, WV,4
+N8062Z,Albuquerque. NM - Las Cruces. NM,4
+N9265Q,Buffalo. NY - Parkersburg. WV,4
 N8817E,,3
-N59382,Deadhorse, AK - Eskimo Island, AK,3
+N59382,Deadhorse. AK - Eskimo Island. AK,3
 N4917,Honolulu - Kona,2
 G-ATZH,,4
-N99798,Minto Lake, AK - Fairbanks, AK,3
+N99798,Minto Lake. AK - Fairbanks. AK,3
 HC-BCL,Guayaquil - Cuenca,33
 N563MA,Iliamna - Anchorage,13
 XY-AEH,Mongasat - Keng Tung,19
 N6314J,Yakutat - Anchorage,4
 62-3536,Kirkland AFB - Nellis AFB,20
 HA-LBC,Istanbul - Bucharest,53
-N1452M,Salida, CO - Cortez, CO,6
+N1452M,Salida. CO - Cortez. CO,6
 JA-8051,Hong Kong - Kuala Lumpur,79
-N64391,Kenmore, WA - Lake Hatheume, Canada,7
-N157AL,New Iberia, LA - Grand Chenier, LA,2
+N64391,Kenmore. WA - Lake Hatheume. Canada,7
+N157AL,New Iberia. LA - Grand Chenier. LA,2
 N55VM,Greenville - Baton Rouge,26
 157139,,37
 ,,
 XA-FUA,Palenque - San Cristobal de las Casas,13
 CS-TBR,Brussels - Funchal,164
-ET-ACD,Rome, Italy - Asmara, Ethiopia,5
+ET-ACD,Rome. Italy - Asmara. Ethiopia,5
 N36MN,,2
 LV-JGY,Buenos  Aires - San Carlos de Bariloche,79
 182,,34
-N4461S,Charlotte, NC - Pinehurst, NC,2
+N4461S,Charlotte. NC - Pinehurst. NC,2
 LZ-BTN,Jeddah - Benghazi,165
 9M-MBD,Penang - Kuala Lumpur,100
 N4730S,,19
 CCCP-47695,,23
 153428,,13
 N51071,Evansville - Nashville,29
-N1634H,Davenport, IA - Davenport, IA,2
+N1634H,Davenport. IA - Davenport. IA,2
 HB-ICK,Geneva - Funchal,57
-N8047U,San Francisco, CA - Salt Lake City, Utah,3
-N862JA,St Croix, VI - Vieques, PR,10
+N8047U,San Francisco. CA - Salt Lake City. Utah,3
+N862JA,St Croix. VI - Vieques. PR,10
 CF-ABW,,8
-N116MM,Houston, TX - Austin, TX,2
+N116MM,Houston. TX - Austin. TX,2
 ,,10
 HC-BEM,Guayaquil - Cuenca,24
 VT-EBD,Bombay - Dubai,213
-N719047,Greenville, KY - Marion, IL,2
-N1BE,Dubois, PA - Lancaster, PA,2
+N719047,Greenville. KY - Marion. IL,2
+N1BE,Dubois. PA - Lancaster. PA,2
 HK-1351X,Neiva - San Vincente,14
 PT-GKW,,14
 T511,Artigas - Montevideo,44
-N199EA,Richland, WA - Seattle, WA,17
+N199EA,Richland. WA - Seattle. WA,17
 C-FPWC,Calgary - Cranbrook,49
-N4307W,Los Angeles, CA - Lake Tahoe, CA,4
-N4508L,Dillingham, AK - Anchorage, AK,3
-N6143X,Visalia, CA - Santa Barbara, CA - Santa Maria, CA,7
+N4307W,Los Angeles. CA - Lake Tahoe. CA,4
+N4508L,Dillingham. AK - Anchorage. AK,3
+N6143X,Visalia. CA - Santa Barbara. CA - Santa Maria. CA,7
 N68045,Los Angeles - Honolulu,200
-N101SX,Agana, Guam - Rota, TT,6
+N101SX,Agana. Guam - Rota. TT,6
 5N-ANA / ,,18
 YV-45C,Caracas - Cumana,47
-N8114M,Jackson, MS - Laurel, MS,2
-N427Q,Flint, MI - Whitelake, MI,2
+N8114M,Jackson. MS - Laurel. MS,2
+N427Q,Flint. MI - Whitelake. MI,2
 LZ-TUB,Sofia - Warszawa,73
-N7354U,Santa Ana, CA - Lake Havasu, AZ,6
+N7354U,Santa Ana. CA - Lake Havasu. AZ,6
 XY-ADK,Yangon - Myitkyina,48
 PT - CIH,Local tour,4
 N140AL,,6
-N877A,St. John, VI - St. Croix, VI,9
+N877A,St. John. VI - St. Croix. VI,9
 HL-7429,Paris - Seoul,109
-N49MC,Trenton, NJ - Indianappolis, IN,9
-N3SP,Pago Pago, American Samoa - Apia, Western Samoa,10
+N49MC,Trenton. NJ - Indianappolis. IN,9
+N3SP,Pago Pago. American Samoa - Apia. Western Samoa,10
 HK-1705,Bogota - Barranquilla,12
-N37741,Anchorage, AK - Whittier, AK,6
-N4744,Miami, FL - Pensacola, FL - Mobile, AL,58
+N37741,Anchorage. AK - Whittier. AK,6
+N4744,Miami. FL - Pensacola. FL - Mobile. AL,58
 ,,13
 CCCP-85169,Baku - Leningrad,134
 C-GGAL,Survey,10
@@ -3064,51 +3064,51 @@ C-FTLV,Toronto - Winnipeg,107
 LN-OQS,Bergen - Stratjford-A,18
 5Y-CMC,Samburu - Nairobi,11
 HK-1350,,18
-N1045,Laboucher, AK - Ketchican, AK,12
-N178MA,Kansas City, MO - Raton, NM,6
+N1045,Laboucher. AK - Ketchican. AK,12
+N178MA,Kansas City. MO - Raton. NM,6
 XY-AEI,,14
-N44LV,Las Vegas, NV - Santa Ana, CA,10
-N7777V,St. Croix, VI - St. Thomas, VI,11
+N44LV,Las Vegas. NV - Santa Ana. CA,10
+N7777V,St. Croix. VI - St. Thomas. VI,11
 C-FAIV,Victoria harbor - Victoria Harbor Water Aerodome,13
 3X-GAX,,17
 VP-WAS,Kariba - Salisbury,56
-N26AN,Savoy, IL - Cleveland, OH,6
+N26AN,Savoy. IL - Cleveland. OH,6
 XA-BOP,Mexico City - Morelia,21
-N5384V,Wrangell, AK - Return,3
+N5384V,Wrangell. AK - Return,3
 PH-FKY,Laoag - Paranaque,28
-N1EC,King Salmon, AK - Kodiak, AK,3
-N4121Q,Bridgeport, CT - Albany, NY,3
+N1EC,King Salmon. AK - Kodiak. AK,3
+N4121Q,Bridgeport. CT - Albany. NY,3
 N533PS/N7711G,Los Angeles - San Diego,137
-N500L,Borinquen, PR - San Juan, PR,6
+N500L,Borinquen. PR - San Juan. PR,6
 DO-10,Kuopio - Helsinki,15
 XY-ADY,,44
 CCCP-87437,,38
-N2215W,Kenai, AK - Return,7
+N2215W,Kenai. AK - Return,7
 H4-AAC,,11
 CCCP-46327,,26
-N866G,Oberlin, KS - Phoenix, NM,4
+N866G,Oberlin. KS - Phoenix. NM,4
 PT-JXL,,9
 SU-AZM,,18
-N310BJ,Dallas, TX - Lubbox, TX,2
+N310BJ,Dallas. TX - Lubbox. TX,2
 TF-FLA,Jeddah - Colombo,262
-N910PC,Wichita, KS - Hays, KS,2
+N910PC,Wichita. KS - Hays. KS,2
 F-OGHD,,20
 ,Chandigarh - Leh,77
 HK-1393,Cucuta - Arauca,27
-N37906,Ketchikan, AK - Hydaburg, AK,5
-N8999A,Hartford, CT - Newburg, NY,3
+N37906,Ketchikan. AK - Hydaburg. AK,5
+N8999A,Hartford. CT - Newburg. NY,3
 N25RM,Steamboat Springs - Denver,22
 I-ASON,,10
 VT-EAL,,132
-N4638Q,Terra Haute, IN - Moline, IN,2
-N7378U,St. Marys, AK - Chevak, AK,7
+N4638Q,Terra Haute. IN - Moline. IN,2
+N7378U,St. Marys. AK - Chevak. AK,7
 I-DIKQ,Rome - Palermo,129
 HH-CNB,,10
 N8082U,Denver - Portland,189
-N33TN,Concord, MA - White Plains, NY,5
+N33TN,Concord. MA - White Plains. NY,5
 CCCP46807,,13
 CCCP-67210,Training,3
-N7437S,Lansing, MI - Marquette, MI,6
+N7437S,Lansing. MI - Marquette. MI,6
 7T-VSU,,23
 F-BYAH,,6
 SP-TBB,,3
@@ -3118,9 +3118,9 @@ VP-YND,Kariba - Salisbury,59
 ZK-NFC,Gisborne - Auckland,4
 ET-AFW,,5
 TR-LXN,,3
-N2055K,Greenville, MS - Charlotte, NC,3
-N777AE,Houston, TX - Gulfport, MS - New Orleans, LA,8
-N5384A,Lebanon, TN - Galesburg, IL,4
+N2055K,Greenville. MS - Charlotte. NC,3
+N777AE,Houston. TX - Gulfport. MS - New Orleans. LA,8
+N5384A,Lebanon. TN - Galesburg. IL,4
 PK-GVP,Denpasar - Surabaya,4
 N418SA,New York - Santa Monica,7
 JY-ADU,Amman - Doha,64
@@ -3128,24 +3128,24 @@ B-274,,12
 CCCP-42444,Moscow - Odessa,106
 CCCP-78390,,29
 CCCP-65031,Gorkiy - Liepaya,5
-N733CT,Bethel, AK - Tooksook, Alaska,7
+N733CT,Bethel. AK - Tooksook. Alaska,7
 DM-STL,,10
 CF-QBL,Quebe- Montreal,24
-N6309C,Carrizozo, NM - Albuquerque, NM,3
-N11CS,San Pedro, CA - Catalina, CA,11
-N618PA,Newark, NJ - Flushing, NY,18
+N6309C,Carrizozo. NM - Albuquerque. NM,3
+N11CS,San Pedro. CA - Catalina. CA,11
+N618PA,Newark. NJ - Flushing. NY,18
 HC-AVP,Quito - Cuenca,57
 CCCP-26569,,4
-N110AA,Chicago, IL- Los Angeles, CA,271
-N1690Z,Ambler, AK - Kobuk, AK,9
+N110AA,Chicago. IL- Los Angeles. CA,271
+N1690Z,Ambler. AK - Kobuk. AK,9
 N581PA,Bullen Point - Deadhorse,3
 5T-MAX,Bouceif - Dakar,12
 N68DE,Boston - Rockland,18
 H2178,,27
 N454SA,Positioning,2
-N383EX,New York, NY - Hyannis, MA,10
+N383EX,New York. NY - Hyannis. MA,10
 PK-GVE,Talang Betutu - Medan,61
-N402TH,Anchorage, AK - Kenai, AK,7
+N402TH,Anchorage. AK - Kenai. AK,7
 DQ-FBO,Suva-Nausori - Bua-Dama,9
 N63250,Positiioning - San Jose - Honolulu,3
 OD-AFX,Training,6
@@ -3154,9 +3154,9 @@ G-BEKF,,47
 N15NY,,3
 CCCP-67206,,14
 VT-DXJ,Bombay - Pune,45
-N6286B,Boise, ID - Indian Creek, ID,6
-N105AC,Flushing, NY - AtlantiCity, NJ,3
-N711AF,Athens, Greece - Jeddah, Saudi Arabia,5
+N6286B,Boise. ID - Indian Creek. ID,6
+N105AC,Flushing. NY - AtlantiCity. NJ,3
+N711AF,Athens. Greece - Jeddah. Saudi Arabia,5
 65735/65816,Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev,178
 FAC-1101,,1
 CCCP-12963,Norisk - Krasnoyarsk,16
@@ -3170,25 +3170,25 @@ I-ATJC,Alghero - Cagliari,31
 C-FZVV,,9
 58-0127,Training,5
 C-FWAF,,16
-N1726U,Juneau, AK - Return,3
-N6642L,Covington, KY - Nashville, TN,8
+N1726U,Juneau. AK - Return,3
+N6642L,Covington. KY - Nashville. TN,8
 HB-IDE,Zurich - Geneva - Athens - Bombay - Beijing,156
-N6224H,Anchorage, AK - Anchorage, AK,4
-N1320G,Centrailia, IN - Columbus, IN,2
-XC-PGR,Monterey, Mexico - San Ysidro, CA,10
+N6224H,Anchorage. AK - Anchorage. AK,4
+N1320G,Centrailia. IN - Columbus. IN,2
+XC-PGR,Monterey. Mexico - San Ysidro. CA,10
 XC-BOS,,10
-N903WA,Los Angeles, CA  - Mexico City, Mexico,88
+N903WA,Los Angeles. CA  - Mexico City. Mexico,88
 C-GTJA,Pickle Lake - Big Trout,3
-N66893,Greenville, SC - Colombia, SC,7
-N1316G,John Day, OR - Salem, OR,3
+N66893,Greenville. SC - Colombia. SC,7
+N1316G,John Day. OR - Salem. OR,3
 ,Chicago - Washington D.C.,78
 CCCP-87454,Positioning,5
-N859U,Ogden, UT - Las Vegas, NV,3
+N859U,Ogden. UT - Las Vegas. NV,3
 C-FJIK,,4
 AP-AWZ,Jeddah - Karachi,156
 ZK-NZP,Auckland - Christchurch,257
 HK-2059,,9
-N8061V,Nome, AK - Return,4
+N8061V,Nome. AK - Return,4
 CCCP-26547,,7
 CP-1440,,11
 FAC-1106,Arauca - Bogota,19
@@ -3202,12 +3202,12 @@ PK-PCX,,13
 5003,Mandalay - Rangoon,44
 CU-T1219,Moa - Baracoa,37
 VH-AAV,Sydney - Tomora,13
-N442Y,Leeville, LA - Grand Isle, LA,7
+N442Y,Leeville. LA - Grand Isle. LA,7
 ,,47
 B-1826,Taipei - Manila,135
 SP-LAA,New York City - Warsaw,87
 74-2064,,18
-N55932,Houston, TX - Brownwood, TX,10
+N55932,Houston. TX - Brownwood. TX,10
 PT-HKB,,14
 C-FEIA,,9
 PT-JSC,,9
@@ -3218,27 +3218,27 @@ HS-THB,Khon Kaen - Bangkok,53
 PT-KHK,,7
 CU-T322,Training,3
 HK-1810,Rio Hacha - Medellin,70
-N125NE,West Palm Beach, FL - New Orleans, LA,2
+N125NE,West Palm Beach. FL - New Orleans. LA,2
 T.10-1/311-01,,11
 CP-1117,,13
 D2-TYC,,29
-N6505,Appleton, WI - Minneapolis, MN, - Lincoln, NE,15
+N6505,Appleton. WI - Minneapolis. MN. - Lincoln. NE,15
 CCCP-87689,,29
-N2564Q,Honolulu, HI - Lihue, HI,2
+N2564Q,Honolulu. HI - Lihue. HI,2
 I-TIGI,Bologna - Palermo,81
 XC-DAK,,13
 CCCP-85355,Alma Ata - Simferopol,166
-N90238,Nome, AK - Unalakeet, AK,8
-N2683S,Tusayan, AZ - Phoenix, AZ,8
-N5MS,Hazelton, PA - Philadelphia, PA,3
-OB-R-1143,Lima, Peu - Mexico City, Mexico,7
-N443GR,Dillingham, AK - Return,9
+N90238,Nome. AK - Unalakeet. AK,8
+N2683S,Tusayan. AZ - Phoenix. AZ,8
+N5MS,Hazelton. PA - Philadelphia. PA,3
+OB-R-1143,Lima. Peu - Mexico City. Mexico,7
+N443GR,Dillingham. AK - Return,9
 N95AL,Oil Platform SS-224 - Houma LA,13
 YR-TPH,Bucurest  - Nouadhibou,168
 PT-KAC,,3
 EC-DFA,,4
 HZ-AHJ,Dhahran - Karachi,291
-69-6581,Ramstein AFB - Oslo, Norway,11
+69-6581,Ramstein AFB - Oslo. Norway,11
 HZ-AHK,Riyadh - Jeddah,301
 PK-IVS,Banjarmasin-Sjamsudin Noor  -  Jakarta,37
 KAF317,,8
@@ -3249,7 +3249,7 @@ N75KW,West Palm Beach - Freeport Grand Bahama Islands,34
 9T-CBA,,36
 TF-RTO,,3
 CCCP-11104,,45
-N65V,Bartow, FL - Lake City, FL,3
+N65V,Bartow. FL - Lake City. FL,3
 3556,,11
 67-0030,Ramstein AB - Cairo,13
 VH-BSG,,4
@@ -3257,28 +3257,28 @@ HL-7445,Anchorage - Seoul,226
 HK-1221G,,20
 N816D,,2
 5H-TAL,Dodoma - Dar es Salaam,10
-N2181L,Chicago, IL - Michigan City, IL,4
-N2243Q,King Cove, AK - Cold Bay, AK,4
+N2181L,Chicago. IL - Michigan City. IL,4
+N2243Q,King Cove. AK - Cold Bay. AK,4
 VH-EGU,,2
 HK-1320,Florence - Neiva,50
 N390CA,Moses Lake - Spokane,9
-N500JP,Reno, NV - Winnemucca, NV,3
+N500JP,Reno. NV - Winnemucca. NV,3
 CCCP-42332,,52
-N1323G,New Orleans, LA - Houma, LA,4
-N520S,White Plains, NY - Toronto, Canada - White Plains, NY,8
-N324Y,San Pedro, CA - Avalon, CA,8
+N1323G,New Orleans. LA - Houma. LA,4
+N520S,White Plains. NY - Toronto. Canada - White Plains. NY,8
+N324Y,San Pedro. CA - Avalon. CA,8
 PT-GLB,Tucurui - Belem,14
-N5489J,North Adams, MA - New York, NY,3
+N5489J,North Adams. MA - New York. NY,3
 64-0564,,24
-N77FB,Fallon, NV - Austin, NVq,2
+N77FB,Fallon. NV - Austin. NVq,2
 29,,18
 61-2664,Fairbanks - Shemya AFB,24
 SP-LTU,,52
-N68856,Hughes, AK - Galena, AK,4
+N68856,Hughes. AK - Galena. AK,4
 P2-GKJ,,8
 CP-1470,,7
 N400PG,Cincinnati - Detroit,2
-N11360 / N4862F,Denver, CO - Gillette, WY,19
+N11360 / N4862F,Denver. CO - Gillette. WY,19
 PK-OBK,,17
 61-0328,Training,21
 LV-LOX,Tucuman - Buenos Aires,31
@@ -3286,51 +3286,51 @@ D2-EAS,,4
 XA-KEH,Oaxaca - Puerto Escondido,20
 HC-BAX,,18
 FAE-723/FAE-457,Quito - Macara,27
-N140S,Avalon, CA - Visalia, CA,3
+N140S,Avalon. CA - Visalia. CA,3
 SU-BAH,,17
 CCCP-41838,Ulan - Severomuysk,52
 B-11108,,2
 HK-1078,,12
 G-ASPL,London - East Midlands,3
-N7957F,Muskegon, MI - Pontiac, MI,5
-LV-JTN,Tehran, Iran - Larnaca, Cyprus,4
+N7957F,Muskegon. MI - Pontiac. MI,5
+LV-JTN,Tehran. Iran - Larnaca. Cyprus,4
 6O-SAY,Mogadishu- Hargeisa,50
-N17705,Kansas City, MO - York, NE,4
+N17705,Kansas City. MO - York. NE,4
 5R-MGB,,19
 HK- 772,,9
 XA-DEN,Monterey - Chihuahua,66
-N8224Q,Skagway, AK - Local,6
+N8224Q,Skagway. AK - Local,6
 B-2603,Taipei - Kaohsiung,110
 CCCP-46653,Komsomol'sk-na-Amure - Blagoveshchensk,32
 CCCP-87346,Chita - Zeya,34
 HK-2651,,22
 CCCP-87455,,33
-74-1672,Fort Lewis, WA - Indian springs, NV,68
+74-1672,Fort Lewis. WA - Indian springs. NV,68
 ,,0
 5-158-8552,Ahwaz - Tehran,60
-N44CJ,Casper, WY - McAllen, TX,3
+N44CJ,Casper. WY - McAllen. TX,3
 PH-CHI,Rotterdam - Eindhoven - Hamburgh,17
 OE-FCT,,9
 HI-328,Saint Croix - Saint Thomas,5
 TJ-CBC,,24
 XA-DEO,Acapulco - Guadalajara,18
-N178RB,Millinocket, ME - Mount Pocono, PA,4
+N178RB,Millinocket. ME - Mount Pocono. PA,4
 CCCP-85480,Krasnoyarsk - Norilsk,167
 9N-ABJ,,10
 N3486F,,3
 YU-ANA,Ljubljana - Ajaccio,180
-N8185H,Haliive, HI  - Honolulu, HI,12
-N9461M,Tyonek, AK - Anchorage, AK,4
-N4311R,Talkeetna, AK - Return,4
+N8185H,Haliive. HI  - Honolulu. HI,12
+N9461M,Tyonek. AK - Anchorage. AK,4
+N4311R,Talkeetna. AK - Return,4
 9M-SSC,,
 HK-2217,,13
 ZS-KVG,Cape Town - Johannesburg,9
-N41070,Albuquerque, NM - Durango, CO,6
+N41070,Albuquerque. NM - Durango. CO,6
 CCCP-67290,,18
 N9763X,,2
-N62AF,Washington D.C. - Fort Lauderdale, FL,79
+N62AF,Washington D.C. - Fort Lauderdale. FL,79
 71383,,73
-N113WA,Newark, NJ - Boston, MA,212
+N113WA,Newark. NJ - Boston. MA,212
 YR-BMD,Training,7
 140/88JA,,35
 ,,53
@@ -3346,10 +3346,10 @@ N567LT,None,3
 58-0031,,27
 PK-GVK,Jakarta - Bandar,27
 HK-2382,Villavicencio - Bogota,21
-N11058,Banddanack, AK - Fairbanks, AK,3
+N11058,Banddanack. AK - Fairbanks. AK,3
 74-1678,Erzurum - Incirlik,27
 B-266,Guangzhou - Guilin,112
-N6911,Hilo, HI - Honalulu, HI,2
+N6911,Hilo. HI - Honalulu. HI,2
 C-GIMF,,13
 7O-ACK,,49
 64-0543,Training,7
@@ -3364,10 +3364,10 @@ TR-LYQ,,12
 CCCP-86513,,90
 N4737,New Orleans - Las Vegas,145
 RP-C1014,,30
-N8230U,Imnaha, OR - Fort Fairfield, ME,4
+N8230U,Imnaha. OR - Fort Fairfield. ME,4
 N87701,Movie set,1
-N9682Q,Sitka, AK - Warm Springs, AK,4
-N81786,Groton, CT - Concord, CT,2
+N9682Q,Sitka. AK - Warm Springs. AK,4
+N81786,Groton. CT - Concord. CT,2
 N754PA,Tokyo - Honolulu,
 XY-AEB,,8
 67191 / 65836,,11
@@ -3378,21 +3378,21 @@ HC-BHZ,Zumba - Loja,44
 PT-JBQ,,10
 74-22292,,46
 EC-DEG,Malaga - New York City,394
-N33249,Nondalton, AK - Port Alsworth, AK,5
+N33249,Nondalton. AK - Port Alsworth. AK,5
 C-FDJA,,5
-N5331X,Kiana, AK - Kotzebue, AK,6
+N5331X,Kiana. AK - Kotzebue. AK,6
 CCCP-86470,Moscow - Luxembourg,77
-,Anguilla - St. Thomas, VI,8
+,Anguilla - St. Thomas. VI,8
 B-2311,,15
-N18411,Cullman, AL - Louisville, KY,2
+N18411,Cullman. AL - Louisville. KY,2
 D2-TAB,,15
 HK-2536,,22
-N32750,Philadelphia, PA - Pottstown, PA,5
-N30093,Sante Fe, NM - Pueblo, CO,2
+N32750,Philadelphia. PA - Pottstown. PA,5
+N30093,Sante Fe. NM - Pueblo. CO,2
 265,,88
-N68081,Ketchikan, AK - Craig, AK,8
+N68081,Ketchikan. AK - Craig. AK,8
 CC-CJE,Santiago - La Serena,46
-N297EB,Columbus, OH - Difiance, OH,2
+N297EB,Columbus. OH - Difiance. OH,2
 PH-TSM,,10
 CCCP-26627,,16
 B-202,,69
@@ -3401,11 +3401,11 @@ N8053U,Detroit - Los Angeles,3
 P2-ISH,,10
 TC-JBR,Istanbul - Ankara,67
 74-1693,,6
-N28216,Tallahssee, FL - Lakeland, FL,2
+N28216,Tallahssee. FL - Lakeland. FL,2
 PT-HJN,,11
 YA-GAZ,,19
 YV-67C,Caracas - Barquisimeto,50
-N72B,Jacksonville, FL - Atlanta, GA,4
+N72B,Jacksonville. FL - Atlanta. GA,4
 N51CA,Chicago - Newark,2
 F-BVRP,,8
 N37MN,Nome - Ambler,3
@@ -3414,24 +3414,24 @@ CCCP-87291,Nalchik - Leninakan,21
 58-1009/68-1015,,14
 ,,14
 HC-BAT,Guayaquil - Quito,100
-141010,Jacksonville NAS - Guantanamo Bay, Cuba,15
+141010,Jacksonville NAS - Guantanamo Bay. Cuba,15
 L4K-12/18,,30
-N334EA,Miami, FL - Nassau, Bahamas,172
+N334EA,Miami. FL - Nassau. Bahamas,172
 PK-GFV,,61
 C-FTLU,Dallas-Fort Worth - Toronto,46
 ,,47
 152720,,14
 TZ-ACH,,7
-N5413X,Blanding, UT - Farnington, New Mexico,5
+N5413X,Blanding. UT - Farnington. New Mexico,5
 74-2068,Training,6
-B-889,Pyongyang, North Korea - Conakry, Guinea,23
+B-889,Pyongyang. North Korea - Conakry. Guinea,23
 HC-BIG,Quito - Cuenca,119
 G-BEON,Penzance - Scilly Islands,26
 C-GAUN,Ottawa - Edmonton,69
 PK-KCA,,11
 PK-KNF,,2
 N400NA,,2
-N88LV,Las Vegas, NV  - Grand Canyon, AZ,10
+N88LV,Las Vegas. NV  - Grand Canyon. AZ,10
 N17ST,,7
 VH-KTE,,12
 CCCP-65129,Kazan - Chelyabinsk - Alma-Ata,90
@@ -3439,26 +3439,26 @@ HL-7442,Anchorage - Seoul,269
 C-GIPF,,9
 B-264 / ,Guilin - Beijing,106
 A40-BK,Karachi - Abu Dhabi,112
-N7353N,Flagstaff, AZ - Mesa, AZ,2
+N7353N,Flagstaff. AZ - Mesa. AZ,2
 B-11109,,10
 CCCP-87618,,9
-N5191E,Little Rock, AR - Springfield, MO,4
+N5191E,Little Rock. AR - Springfield. MO,4
 PP-SBH,,15
 XY-AEE,Lonkin - Myitkyina,14
-N748LL,Springfield, Il - Carbondale, IL,10
+N748LL,Springfield. Il - Carbondale. IL,10
 N26288,Middletown - Washington DC,30
 D2-TBN,Lubango - Luanda,130
 C-GTLA,,7
-N1910L,Wichita, TX - Midland, TX,8
+N1910L,Wichita. TX - Midland. TX,8
 HK-2910,Paris - Madrid - Bogota,192
 5N-ANF,,72
 EC-CFJ/EC-CGS,Madrid - Rome,135
-N208JP,Put-In-Bay, OH - Kelly's Island, OH,4
+N208JP,Put-In-Bay. OH - Kelly's Island. OH,4
 HK-2401,Medellin - Miami,3
 C-FGJK,Inuvik - Paulatuk,12
 CCCP-46617,Arkhangelsk - Leshukonskoye,49
 324,,13
-C-GSCA,Saint Louis, MO - Toronto, Canada,2
+C-GSCA,Saint Louis. MO - Toronto. Canada,2
 LZ-TUR,Berlin - Sofia,50
 CP-1090,,3
 PK-PCL,,9
@@ -3469,7 +3469,7 @@ N63Z,Training,3
 VH-FSA,,2
 HK-2685,,7
 ,,12
-LN-RKB,Oslo, Norway, New York, NY,177
+LN-RKB,Oslo. Norway. New York. NY,177
 68-10944,,18
 N6629L,,3
 HK-1322P,Barranquilla - Bogota,6
@@ -3488,26 +3488,26 @@ PP-SBC,,18
 ,,9
 ,,30
 64-0624,,9
-N2021A,Kodiak, AK - Ouzinkie, AK,4
+N2021A,Kodiak. AK - Ouzinkie. AK,4
 N43SP,Pango Pango - Tau Island,14
-N7984Q,Anchorage, AK - Cantwell, AK,5
-N589SA,Vieques, PR - St. Croix, VI,9
+N7984Q,Anchorage. AK - Cantwell. AK,5
+N589SA,Vieques. PR - St. Croix. VI,9
 S2-ABJ,Chittagong-Patenga - Dhaka,49
 CCCP-10232,Karachi - Tashkent,24
 5Y-AMS,,9
 N70003,Memphis - Chicago,3
 PK-OBC,,3
-N9011Y,Bolivar, TN - Pontiac, MI,2
+N9011Y,Bolivar. TN - Pontiac. MI,2
 N6399U/N112SM,San Luis Obispo - San Fransisco,17
 TJ-CBD,Douala - Yaounde,116
 P2-ISG,,11
-N89PB,Naples, FL - Tampa, FL,6
+N89PB,Naples. FL - Tampa. FL,6
 9Q-CAH,,30
 SP-AMK,Airshow,26
 HC-BKN,Quito - Guayaquil,4
 ,,50
 C-GXFZ,Training,2
-N1842R,Reno, NV - Eureka, NV,3
+N1842R,Reno. NV - Eureka. NV,3
 C-FPPL,Fort Norman - Fort Franklin,7
 CCCP-85243,Krasnodar - Omsk,179
 C-FAUS,St. Anthony - Goose Bay,4
@@ -3519,25 +3519,25 @@ FAE-446,Loja - Zumba,14
 CCCP-67225,,10
 N96PB,Jacksonville - Tampa,13
 ,,19
-N6099Y,Binghamton, NY - Bainbridge, NY,4
+N6099Y,Binghamton. NY - Bainbridge. NY,4
 FAP-307,,21
 9N-ABH,,23
 CCCP-85338,,110
-N819EA,Asuncion, Paraguay - La Paz, Bolivia,29
+N819EA,Asuncion. Paraguay - La Paz. Bolivia,29
 N357Q,Detroit - Kansas City,3
 B-434,Nanjing - Jinan,41
 CU-T899,Havana - Managua,38
-N40TE,Albuquerque, NM - Taos, NM -,3
-N5532,Reno, NV - Minneapolis-St. Paul, MN,71
+N40TE,Albuquerque. NM - Taos. NM -,3
+N5532,Reno. NV - Minneapolis-St. Paul. MN,71
 56-0501,Howard AFB - Trujillo AP,21
 HK-2638,Florencia - Cali,17
 HK-1910,Medellin - Quibdo,23
-N27522,Burlington, VT - Whitefield, NH,5
+N27522,Burlington. VT - Whitefield. NH,5
 CCCP-65910,Minsk - Leningrad,80
-N50NP,Anchorage, AK - Anchorage, AK,9
-N5780M,Altus, OK - Oklahoma City, OK,2
+N50NP,Anchorage. AK - Anchorage. AK,9
+N5780M,Altus. OK - Oklahoma City. OK,2
 CCCP-76569,,57
-N233W,Gold Beach, OR - Metford, OR,4
+N233W,Gold Beach. OR - Metford. OR,4
 PK-VIO,,10
 EC-DDU,Madrid - Bilbao,148
 N4522V,Taipei - Los Angeles,274
@@ -3546,17 +3546,17 @@ TZ-ACT,Tombouctou - Bamako,51
 64-0549,Training,6
 FAC-1140,Bogota - San Vicente del Caguán - Florencia,46
 LV-ALW,Buenos Aires - Salta,7
-N3RU,El Dorado, AR - Houston, TX,4
+N3RU,El Dorado. AR - Houston. TX,4
 HS-TBB,,11
-N718AA,Dallas, TX - San Diego, CA,89
-N8849Q,Tuba City, AZ - Page, AZ,6
+N718AA,Dallas. TX - San Diego. CA,89
+N8849Q,Tuba City. AZ - Page. AZ,6
 YN-BZF,Positioning,5
 CP-1489,,4
 CCCP65856/26492,Tallin - L'vov,76
-,Iwakuni - Fulemma, Okinawa,17
+,Iwakuni - Fulemma. Okinawa,17
 C9-AMV,,5
-N73635,Golovin, AK - Elim, AK,5
-N10GE,Branson, MO - Harrison, AR,2
+N73635,Golovin. AK - Elim. AK,5
+N10GE,Branson. MO - Harrison. AR,2
 YV-84C,,13
 N181TG,Nashville - Indianapolis,2
 N64339,Athens - Rome,153
@@ -3564,21 +3564,21 @@ PT-GJN,Juara - Cuiaba,17
 VT-EFO,Montreal - London,329
 N542TW,,2
 CCCP-85311,Karshi - Leningrad,200
-N71MA,Louisville, KY - Cleveland, OH,2
+N71MA,Louisville. KY - Cleveland. OH,2
 FAC-902,Leticia - Bogota,80
 N726DA,Fort Lauderdale - Dallas-Fort Worth,163
 JA8119,Tokyo - Osaka,524
 PK-NUG,,19
 7O-ACO,Aden - Abu Dahbi,73
-N455JA,Anchorage, AK - Gulkana, AK,3
+N455JA,Anchorage. AK - Gulkana. AK,3
 G-BGJL,Manchester - Kerkira,137
-N300WP,Boston, MA - Auburn, ME,8
+N300WP,Boston. MA - Auburn. ME,8
 59-1443,Training,7
 P2-DNW,,5
 YA-BAM,Kandahar - Farah,52
 N100ME,Milwaukee - Atlanta,31
 ,,26
-N339HA,Washington D.C. Baltimore, MD,14
+N339HA,Washington D.C. Baltimore. MD,14
 CCCP-69321,Dnepropetrovsk - Moscow,9
 N551CC,Parachuting,17
 ZK-EHT,,9
@@ -3589,13 +3589,13 @@ CCCP-87803,,14
 N3257,State College - Pittsburgh,1
 XY-ADS,,4
 N456JA,Anchorage - Juneau,4
-N9241F,Bethel, AK - Chevak, AK,4
+N9241F,Bethel. AK - Chevak. AK,4
 54-2817,Test flight,4
-N74DJ,Bethel, AK - Quinhagaki, AK,7
+N74DJ,Bethel. AK - Quinhagaki. AK,7
 A-1322,,11
 SU-AYH,Athens - Cairo,103
 ,,22
-N950JW,Gander - Fort Campbell, KY,256
+N950JW,Gander - Fort Campbell. KY,256
 RAN-23,,25
 N711Y,Guntersville - Dallas/Ft. Worth,9
 HC-BAE,Guatemala City - Flores,87
@@ -3606,7 +3606,7 @@ XA-IOR,Villa Constitucion - Los Mochis,21
 B-1870,Taipei - Makung,13
 CCCP-46423,,38
 HB-LLS,,8
-N1356P,Detroit, MI - Alpena, MI,9
+N1356P,Detroit. MI - Alpena. MI,9
 PK-NCF,,16
 C-FAGM,Snegamook Lake - Goose Bay,5
 CCCP-11795,,9
@@ -3618,9 +3618,9 @@ N54340,Rome - Athens,121
 HK-2761,Bogota - Saravena,13
 FAS-302,San Salvador - Panama City,37
 ,,22
-4R-ULD,Colombo - Male, Maldives,150
+4R-ULD,Colombo - Male. Maldives,150
 CCCP-87301,Test,5
-N414NY,AtlantiCity, NJ - AtlantiCity, NJ,5
+N414NY,AtlantiCity. NJ - AtlantiCity. NJ,5
 19,,19
 ,,13
 SU-GAD,Cairo - Alexandia,26
@@ -3630,12 +3630,12 @@ N76GC/N6TC,Grand Canyon - Grand Canyon,25
 CCCP-65142,Penza - Simferopol,59
 CCCP-65120,,94
 7312,,17
-N3643W,San Andreas, CA - Death Valley, CA,6
+N3643W,San Andreas. CA - Death Valley. CA,6
 V2-LCJ,Vieux Fort - Kingstown,13
 556,Tegucigalpa - Duzuna,59
 ST-ADY,Malakal - Khartoum,60
-N73569,McDermitt, OR - Burns, OR,6
-N2727A,Lander, WY - Riverton, WY,7
+N73569,McDermitt. OR - Burns. OR,6
+N2727A,Lander. WY - Riverton. WY,7
 N252K,Little Rock - Texarkana,2
 XA-JED/N4891F,Tijuana - Los Angeles,67
 VH-RED,Tullamarine - Leongatha,6
@@ -3648,7 +3648,7 @@ N15ST,Kelly AFB - Warner Robins AFB,3
 CCCP-67264,,14
 EP-IRG,,80
 148,,11
-N3962M,Groton, CT - Fisher Island, NY,4
+N3962M,Groton. CT - Fisher Island. NY,4
 C9-CAA,Lusaka - Maputo,44
 CCCP-65766,Yekaterinburg - Kuybyshev,92
 N8617B,Traffireporting,2
@@ -3666,7 +3666,7 @@ PP-VJK,Abidjan - Rio de Janeiro,51
 C-GIRH,,3
 ,Asrmara - Addis Ababa,54
 N163SW / N6485U,Pocatello - Salt Lake City,10
-N9613F,Ontario, CA - Las Vegas, NV,1
+N9613F,Ontario. CA - Las Vegas. NV,1
 ARU-021,,18
 F-GDHR,,11
 P2-RDM,Rabaul - Hoskins,17
@@ -3679,16 +3679,16 @@ CCCP-26007,,9
 N31SK,Denver - Vail,3
 ,,40
 N967JW,Local Flight,2
-LN-KCR,Hanover, West Germany - Skien, Norway,10
+LN-KCR,Hanover. West Germany - Skien. Norway,10
 PK-GNQ,Banda Aceh - Medan,45
 N144SP,Wichita - Kansas City,4
 N505LB,Wilmington - Lumberton,2
 ST-AIJ,,13
 CCCP-11418,Tikis - Batagay,6
-N432CA,San Juan, PR - Mayaguez, PR,6
+N432CA,San Juan. PR - Mayaguez. PR,6
 SP-LBG,Warsaw - New York City,183
 C-FADD,Big Trout - Pickle Lake,2
-N32774,Sayre, PA - Washington, District of Colombia,3
+N32774,Sayre. PA - Washington. District of Colombia,3
 CP-1018,Camiri - Santa Cruz,16
 PK-NUW,,8
 PK-MAM,,30
@@ -3705,7 +3705,7 @@ HI-481,Mexico City - Miami,12
 N28ST,,3
 CC-CHJ,Santiago - Calama,33
 B-222,Beijing - Chongqing,108
-N312RC,Detroit, MI - Phoenix, AZ,155
+N312RC,Detroit. MI - Phoenix. AZ,155
 G-BGEO,,7
 HS-TBC,Hat Yai - Phuket,83
 FAB2129,,9
@@ -3716,15 +3716,15 @@ XY-AEL,Rangoon - Nyaung-U,49
 HK-2920,,9
 I-ATRH,Milan - Koln,37
 CCCP-12162,,9
-N4178Q,Tacoma, WA - Bellingham, WA,4
+N4178Q,Tacoma. WA - Bellingham. WA,4
 7Q-YMB,Blantyre - Lilongwe,10
 C-GVYX,Fort Nelson - Ross River,4
-N626TX,Denver, CO - Boise, ID,82
+N626TX,Denver. CO - Boise. ID,82
 N401RA,Kodiak - Homer,21
 ZK-SFB,Wellington - Christchurch,2
 B-11125,,11
-N68TC,Denver, CO - Durango, CO,17
-ZS-SAS,Taipei, Taiwan -  Mauritius - Johannesburg, South Africa,159
+N68TC,Denver. CO - Durango. CO,17
+ZS-SAS,Taipei. Taiwan -  Mauritius - Johannesburg. South Africa,159
 HL-7406,Abu Dhabi - Bangkok,115
 5Y-EJS,,14
 N350PS,Los Angeles - San Fransisco,43
@@ -3734,17 +3734,17 @@ EI-BTJ,Cebu - Iligan,15
 C-130-2468,Recife - Fernando de Noronha,29
 F-GEGH,Brussels - Bordeaux,16
 N3596N,,15
-N105GP,Alliance, AK - Chadron, NE,3
-N496SC,Kenai, AK - Anchorage, AK,8
-N712AN,Honolulu, HI - Molokai, HI,8
+N105GP,Alliance. AK - Chadron. NE,3
+N496SC,Kenai. AK - Anchorage. AK,8
+N712AN,Honolulu. HI - Molokai. HI,8
 PK-NUY,Samarinda - Berau,17
 D-ABHD,Stuttgart - Izmir,16
-N79SF,Memphis, TN - Monroe, LA,2
+N79SF,Memphis. TN - Monroe. LA,2
 CP-1244,,9
 CCCP-85254,Moscow - Krosnovodsk,143
 CCCP-87549,Nizhnevartovsk - Tyumen,31
 FAP215,,16
-N517S,Missoula, MT - Helena, MT,3
+N517S,Missoula. MT - Helena. MT,3
 D-CABB,Hannover - Dusseldorf,21
 N622AV,Raleigh - Richmond,12
 CCCP-65675,Tyumen - Surgut,51
@@ -3761,12 +3761,12 @@ ZS-UAS,Bloemfontein - Johannesburg,24
 F-GERA,,6
 CCCP67518,Muya - Bagdarin,17
 14-27,,29
-N442NE,Allentown, PA - Morristown, NJ,2
+N442NE,Allentown. PA - Morristown. NJ,2
 B-4218,Sightseeing,46
 N73711,Hilo - Honolulu,95
 LN-WFN,Namsos - Bronnoysund,36
-N897P,Anchorage, AK - McGrath, AK,3
-N75356,Belize City, Belize - New Orleans, LA,45
+N897P,Anchorage. AK - McGrath. AK,3
+N75356,Belize City. Belize - New Orleans. LA,45
 YN-CBE,,6
 OY-APE,Billund - Hannover - Nurnberg,2
 FAE-068,,11
@@ -3777,10 +3777,10 @@ F-GFKC,Basel - Basel,136
 EP-IBU,Bandar Abbas - Dubai,290
 HK-3148,,8
 N33VX,El Salvador - New Orleans,3
-D2-TOV,Oostende, Belgium - Lagos, Nigeria,6
-N70168,Ketichikan, AK - Security Cove, AK,3
+D2-TOV,Oostende. Belgium - Lagos. Nigeria,6
+N70168,Ketichikan. AK - Security Cove. AK,3
 LZ-DOK,Sofia  - Varna,37
-C-GILU,Narsarsuaq, Greenland - Reykjavik, Iceland,3
+C-GILU,Narsarsuaq. Greenland - Reykjavik. Iceland,3
 ,,39
 23494,Bahawalpur - Islamabad,30
 N39272,,6
@@ -3790,7 +3790,7 @@ CCCP-67235,Kirensk - Irkutsk,4
 B-2218,Guangzhou - Hong Kong,89
 XC-COX,Uruapan - Lazro,20
 XA-HUL,,20
-N473DA,Dallas/Fort Worth, TX - Salt Lake City, UT,108
+N473DA,Dallas/Fort Worth. TX - Salt Lake City. UT,108
 N111VA,Sitka - Petersburg,10
 VN-A102,Hanoi - Bangkok,90
 HC-AZY,Lago Agrio - Quito,7
@@ -3798,13 +3798,13 @@ C-GFFA,Montreal - Ottawa,2
 ET-AJA,Bahar Dar - Asmara,104
 ,,34
 60-0317,Sawyer AFB - Wurtsmith AFB,17
-N4113R,Sedona, AZ - Sedona, AZ,5
+N4113R,Sedona. AZ - Sedona. AZ,5
 5X-UBC,London - Rome,52
 VT-DMC,Silchar - Gauhati,34
 VT-EAH,Bombay - Ahmadabad,129
 OB-R-1020,Juliaca - Arequipa,69
 SP-LTD,Warszawa - Rzeszow,29
-N8342L,Brunswick, GA - Jacksonville, FL,4
+N8342L,Brunswick. GA - Jacksonville. FL,4
 OH-EBA,Helsink - Ilmajoki,12
 F-GFHR,,7
 F-GCPG,Montluçon - Paris,4
@@ -3818,7 +3818,7 @@ VH-BBA,,10
 N739PA,London - New York City,259
 N128MP,Terre Haute - Lafayette,2
 G-OBME,London - Belfast,126
-C-GDOV,Dayton, OH - Montreal, Canada,2
+C-GDOV,Dayton. OH - Montreal. Canada,2
 CP-1418,La Paz - Apolo,5
 130318,Exercise,11
 63-7990,,19
@@ -3827,13 +3827,13 @@ F-GEJE,Marseille - Paris,3
 N7231T,Bergamo - Orio al Serio - Santa Maria,144
 YR-TPJ,Training,5
 N807FT,Singapore - Kuala Lumpur,4
-N69383,Las Vegas, NV - Santa Ana, CA,10
+N69383,Las Vegas. NV - Santa Ana. CA,10
 N4713U,Los Angeles - Honolulu - Auckland - Sidney,356
 HR-AKZ, - Tegucigalpa - Toncontin,10
 C-FBZN,,2
 C-FONF,Dryden - Winnipeg,69
 OB-T-1271,Sightseeing,10
-N931F,Fort Worth, TX - Oklahoma City, OK,2
+N931F,Fort Worth. TX - Oklahoma City. OK,2
 157140,,34
 PT-TCS,Manaus - Sao Paulo-Guarulhos,3
 F-GGDM,Paris - Valence,22
@@ -3845,16 +3845,16 @@ SE-IZO,Stockholm - Oskarshamn,16
 JA9596,,
 N1809E,Paramaribo - Zanderij,187
 HK-2486,El Yopal - Tame,22
-N34AP,Hilo, HI - Kahului, HI,11
+N34AP,Hilo. HI - Kahului. HI,11
 DDR-SEW,Berlin - Moscow,113
 YA-BAK,Kabul - Zaranj,39
 FAP-329,San Ramon - Captain Alvarino,62
 B-12206,Kaohsiung - Chi-mei,13
 TJ-CCF,Douala - Yaounde,47
 6O-SAZ,Hargeisa - Mogadishu,30
-N125CA,Carterville, GA  - Montgomery, AL,2
-N138JR,Baltimore, MD - Winchester, VA,5
-N1819U,Denver, CO - Chicago, IL,298
+N125CA,Carterville. GA  - Montgomery. AL,2
+N138JR,Baltimore. MD - Winchester. VA,5
+N1819U,Denver. CO - Chicago. IL,298
 CCCP-26685,Observation flight out of Cape Schmidt,10
 P2-RDW,,22
 RP-C1193,Zamboanga - Manila,98
@@ -3866,19 +3866,19 @@ ZK-FTB,Auckland - Christchurch,3
 SX-BGE,Thessaloniki - Samos,34
 ET-AIL,Addis Ababa - Bole,16
 ZK-EVK,Wanaka - Milford Sound,10
-N1976Q,Hattiesburg, MS - Gulfport, MS,2
+N1976Q,Hattiesburg. MS - Gulfport. MS,2
 B-3417,Shanghai - Hongqiao,40
-N25ST,Medford, OR - Medford, OR,3
+N25ST,Medford. OR - Medford. OR,3
 AP-BBF,Gilgit - Islamabad - Chaklala,54
-N234J,Salisbury, MD - Lynchburg, VA,5
-CU-T1281,Havana - Köln, Bonn,126
+N234J,Salisbury. MD - Lynchburg. VA,5
+CU-T1281,Havana - Köln. Bonn,126
 PP-VMK,Maraba - Belem,54
 LN-PAA,Oslo - Hamburg,55
 PK-NUE,Manokwari - Bentuni,22
-N887PE,Orlando, FL - Mayfield, KY,6
+N887PE,Orlando. FL - Mayfield. KY,6
 N54629,N'Djamena - Paris,171
 57-1481,,7
-N416US,New York City - Charlotte, NC,63
+N416US,New York City - Charlotte. NC,63
 ,,26
 ,,24
 VT-EJF,Pune - Hyderabad,11
@@ -3887,14 +3887,14 @@ ST-AIW,,6
 N75GC,Grand Canyon National Park,21
 CCCP-48095,,9
 56-3592,,4
-N208W,Uncertain, TX - Destsin, FL,5
+N208W,Uncertain. TX - Destsin. FL,5
 OB-T-1254,,12
-N21FL,New York, NY - AtlantiCity, NJ,5
+N21FL,New York. NY - AtlantiCity. NJ,5
 CCCP-76466,Ul'yanovsk - Leninakan,25
 N88705,Managua - Tegucigalpa,146
 B-180,Hualian - Taibei,54
 ,,36
-N707PV,Kahului, Maui - Kaunakakai, Molokai,20
+N707PV,Kahului. Maui - Kaunakakai. Molokai,20
 9L-LAV,,10
 LDF-46,,18
 LN-AA,,4
@@ -3904,7 +3904,7 @@ HL-7255,Seou - Ulsan,52
 HK-1803,Bogota - Cali,107
 N9205T,Kamina - Jamba,5
 YV-478C,Canaima - Ciudad Guayana -Charallave,7
-N127JL,Block Island, RI - Westerly, RI,8
+N127JL,Block Island. RI - Westerly. RI,8
 N296CA,Fort Belvoir - Patuxent River NAS,5
 TAM-62,Guayaramerin - Santa Cruz,28
 HK-3315X,Bogota via Neiva - Ibague,15
@@ -3915,12 +3915,12 @@ PK-PCM,Palambang and Jakarta,16
 CCCP-65951,Tyumen - Ufa,71
 TI-SAB,San Jose - Palmar Sur,23
 N835FE,Denver - Montrose,1
-N331DP,Detroit, MI - Louisville, KY,2
+N331DP,Detroit. MI - Louisville. KY,2
 ARV-0210,Caracas - Puerto Ayancucho,25
 HK 2016,Medellin - New York City,158
 PK-OBW,Ujung Pandang - Selaparang,19
 TN-230,Pointe-Noire - Brazzaville,28
-N4688B,Burlington, VT - Albany, NY,2
+N4688B,Burlington. VT - Albany. NY,2
 N854FE,Plattsburg - Syracuse,1
 PT-LCG,San Palo - Bauru - Aracatuba,40
 VT-EPN,Bombay - Bangalore,146
@@ -3939,7 +3939,7 @@ LN-BNS,Vaeroy - Bodo,5
 N187AS,,22
 9T-TCG,,24
 RP-C81,Manila - Roxaz City,24
-C-FGAW,Timmins, Ontario - Ship Sands Island, Ontario,4
+C-FGAW,Timmins. Ontario - Ship Sands Island. Ontario,4
 WR965,,10
 N84BL,Guatamala City - La Aurora,3
 F-GHXA,Tapachula - Tuxtla-Gutierrez,40
@@ -3949,9 +3949,9 @@ VH-ANQ,Proserpine - Mareeba - Claims,11
 RP-C314,Manila - Surigao City,21
 C-FWAB,,2
 PT-ICA,Belem - Altamira,42
-G-BJRT,Birmingham, England - Malaga, Spain,85
-N9985M,Seward, AK - Aialak Bay, AK,5
-N59291,Aurora, OR - Penticton, Canada,5
+G-BJRT,Birmingham. England - Malaga. Spain,85
+N9985M,Seward. AK - Aialak Bay. AK,5
+N59291,Aurora. OR - Penticton. Canada,5
 P2-DNJ,,12
 J6-SLW,,2
 ,,30
@@ -3959,15 +3959,15 @@ OB-1362,,9
 CCCP-87453,Yerevan - Zvartnots,47
 ,,83
 1905,,18
-N16933,Elkhorn, WI - Chicago, IL,5
+N16933,Elkhorn. WI - Chicago. IL,5
 ,,61
 68-0228,Ramstein AB - Rhein-Main AB,17
-N59783,Nulato, AK - Kaltag, AK,10
+N59783,Nulato. AK - Kaltag. AK,10
 OB-1303,Malta - Miami - Reykjavík - Gander,18
 OY-CGM,Sondre Stomfjord - Goose Bay,8
 CCCP-42351,Volgograd - Sverdlovsk,129
 PT-FAW,Fernando de Noronha -  Recife,12
-N79DD,Van Nuys, CA - San Luis Obispo, CA,4
+N79DD,Van Nuys. CA - San Luis Obispo. CA,4
 ,,130
 B-2812/B-2510,Guangzhou - Shanghi,226
 N8923E,,97
@@ -3990,14 +3990,14 @@ PK-NCY,,21
 69-6567,,13
 N388US/N683AV,Columbus - Los Angeles \  Los Angeles - Fresno,99
 748,,63
-N27818,Macon, GA - Anniston, AL,4
-N535PC,Las Vegas, NV - Aspen, CO,3
+N27818,Macon. GA - Anniston. AL,4
+N535PC,Las Vegas. NV - Aspen. CO,3
 FAE447,Macao - Taisha,22
 CC-CET,Punta Arenas - Puerto Williams,72
 N999UA,Denver - Colorado Springs,25
 YV-23C,Maracaibo - Santa Barbara de Zulia,45
 D-ICLW,,7
-N831LC,San Diego - Amarillo, TX  - Evansville, IN,10
+N831LC,San Diego - Amarillo. TX  - Evansville. IN,10
 CP-1564,,9
 PT-LLL,Ubrraba - Brasillia,7
 N5785C,,5
@@ -4007,7 +4007,7 @@ CCCP-46472,Trashkent - Navoi,63
 ,,28
 N402BL,Zeldiver - San Pedro,8
 C-FQNF,Sturdee - Smithers,7
-N3645D / N78S,Williamsport, PA  - Philadelphia, PA,5
+N3645D / N78S,Williamsport. PA  - Philadelphia. PA,5
 N270AS,Atlanta - Brunswick,23
 F-OHAB,Hiva Ou - Nuku Hiva,22
 ST-AHX,,8
@@ -4016,8 +4016,8 @@ N6280H,Local sightseeing,7
 HK-3177,Villavicencio - Miraflores Guaviarel,14
 CCCP-85097,Sukhumi - Leningrad,181
 LZ-INK,,10
-OE-LAV,Bangkok - Wien, Austria,223
-N8071L,Grada Zuma, Bahamas - Cape Hatien,3
+OE-LAV,Bangkok - Wien. Austria,223
+N8071L,Grada Zuma. Bahamas - Cape Hatien,3
 J6-SLQ,Luanda - Cafunfo,7
 HK-3511,Bogota - Malambo,18
 CCCP-46724,Saint Petersburg - Voronezh,10
@@ -4032,10 +4032,10 @@ N5183U,Local flight - Flying B Ranch,5
 YJ-RV4,Nogougou - Luganville,9
 DQ-FCN,Altukaki - Rarotonga,10
 YR-IMH,Bucharest - Timisoara,9
-N4075W,Gustavus, AK - Haines, AK,6
+N4075W,Gustavus. AK - Haines. AK,6
 J5-GBB,Kano - Bamako,3
 VT-EFL,Calcutta - Imphal,69
-N68HA,Ketchikan, AK - Wrangell, AK,4
+N68HA,Ketchikan. AK - Wrangell. AK,4
 N64SF,,3
 9M-AZB,Bario - Marudi,20
 PK-VIP,Sampit - Plangkaraya,10
@@ -4051,7 +4051,7 @@ A-1324,,135
 PK-WWE,,9
 YV-O-CVG-4,Kavanayen - Luepa,12
 PK-KTC,Palangkaraya - Sampit,17
-N3456M,Concord, CA - Novato, CA,3
+N3456M,Concord. CA - Novato. CA,3
 130322,Edmonton - Point Alert,18
 ,,40
 CCCP-87526,Ellsta - Makhackala,51
@@ -4059,19 +4059,19 @@ PT-SCU,,15
 N951FE,Memphis - Destin,1
 ,,20
 ,,23
-N5011K,San Francisco, CA - Sacramento, CA,3
+N5011K,San Francisco. CA - Sacramento. CA,3
 ,,20
 C9-STD,,3
 CCCP-47823,Nizhnevartovsk - Bugulma,41
 FAB2333,Brasilla  - Guarantinguerta,20
-N350MR,Grand Canyon, AZ - Las Vegas, NV,5
-N25BR,Rome, GA - Huntsville, AL,9
+N350MR,Grand Canyon. AZ - Las Vegas. NV,5
+N25BR,Rome. GA - Huntsville. AL,9
 D-CCCC,Frankfurt - Frankfurt,30
 OY-KHO,Stockholm-Copenhagen-Warsaw,129
 5Y-SRV,,5
 B-198,Taipei - Anchorage,5
-N55000,Plattsburgh, NY - SaranaLake, NY,4
-N22592,Grand Canyon, AZ - Las Vegas, NV,5
+N55000,Plattsburgh. NY - SaranaLake. NY,4
+N22592,Grand Canyon. AZ - Las Vegas. NV,5
 F-GGED,Lyon - Strasbourg,96
 C-FRVR,Nanaimo - Port Mellon,9
 ,Agdam - Shusha,47
@@ -4091,20 +4091,20 @@ J5-GAE,Khartoum - Tunis,13
 B-11116,,10
 P2-RDS,,15
 218,,46
-N62774,Philadelphia, PA - Reading, PA,4
+N62774,Philadelphia. PA - Reading. PA,4
 N141PV,Local,22
 N342E,Local sightseeing,9
 42125,Manshahr  - Tehran,39
 64-0501,Training,9
-HP-1205,Panama City, Panama - Cali, Colombia,47
+HP-1205,Panama City. Panama - Cali. Colombia,47
 N355CA,San Juan - Mayaguez,5
-N118GP,Atlanta - Anniston, AR,6
+N118GP,Atlanta - Anniston. AR,6
 N38DJ,Sheboygan - Manitowoc,2
 VH-JDL,Bankstown - Cooma,6
-N2715X,Meadview, AZ - Las Vegas, NV,10
+N2715X,Meadview. AZ - Las Vegas. NV,10
 PP-SND,Rio Bran- Cruzeiro do Sul,3
 CCCP-11896,Igarka - Omsk,12
-N59LD,St Thomas, Virgin Islands, Fajardo, Puerto Rico,4
+N59LD,St Thomas. Virgin Islands. Fajardo. Puerto Rico,4
 CR872,,19
 N20086,Bethel - Chevak,1
 CCCP-11111,Nakhichevan - Rostov,34
@@ -4113,8 +4113,8 @@ CCCP-85222,Tbilisi - Mineralnye Vody,24
 PK-RVU,Jakarta - Surabaya - Ujung Pandang - Ambon,70
 CCCP-11342,,8
 XA-SCM,Puebla - Mexico City,4
-PT-LHU,Curitiba, PR - Rio de Janeiro,6
-N8476E,Arecibo, PR - Ponce, PR,4
+PT-LHU,Curitiba. PR - Rio de Janeiro,6
+N8476E,Arecibo. PR - Ponce. PR,4
 AP-BCP,Karachi - Kathmandu,167
 N11002,New York City - San Francisco,292
 HS-TID,Bangkok - Kathmandu,113
@@ -4143,12 +4143,12 @@ CCCP-28785,,16
 FAP306,,11
 CCCP-69346,Petropavlovsk - Novosobrisk,14
 N250TJ,,3
-N67941,Kiana, AK - Selawik, AK,3
+N67941,Kiana. AK - Selawik. AK,3
 CCCP-09303,Migalovo AB - Yerevan,33
 ,,20
 VN-A449,Ho Chi Minh City - Nha Trang,31
 CU-T1270,Santo Domingo - Porto Plata,34
-N6257H,Selway Lodge, ID  Salmon, ID,3
+N6257H,Selway Lodge. ID  Salmon. ID,3
 B-2523,Guangzhou - Guilin,141
 650255/660142,,13
 XA-RML,Uruapan - Guadalajara,9
@@ -4167,15 +4167,15 @@ EP-ITD,Tehran - Khoram,133
 HP-1200CTH,,2
 B-12238,,6
 PH-KXL,Skopje - Zürich,97
-N4320W,Albuquerque, NM - Oakland, CA,4
+N4320W,Albuquerque. NM - Oakland. CA,4
 LN-TSA,Pucallpa - Dagali - Trujillo,10
 PP-SBJ,Cuiaba - Vihena - Rondonia,6
 N47EV,,5
-N500AK,Bristol, TN - Blountville, TN,4
+N500AK,Bristol. TN - Blountville. TN,4
 N3153R,,4
 YV-03C,Test,11
 B-2171,Shanghai - Los Angeles,264
-N86SD,Cincinnati, OH - Pierre, SD,8
+N86SD,Cincinnati. OH - Pierre. SD,8
 BHMAY-14102,Ulan Bator - Bayan Olgiy,40
 VT-ECQ,Aurangabad - Bombay,118
 ,Kabul - Mazar-i- Sharif,76
@@ -4198,7 +4198,7 @@ HL-7229,Seoul - Mokpo,110
 9M-AXM,Ba Kelalan - Marudi,17
 9N-ACL,Kathmandu - Bharatpur,19
 N90BP,,4
-N814CK,Norfolk, VA - Guantanamo, Cuba,3
+N814CK,Norfolk. VA - Guantanamo. Cuba,3
 RA-67656,,24
 CCCP-87995,Khorag - Dushanbe,86
 D-AIPN,Frankfurt - Warszawa,70
@@ -4209,7 +4209,7 @@ CCCP-65001,Sukhumi - Tbilisi,30
 ZK-NOM,Glentanner - Queenstown,9
 B-2103,Shenzen - Fuzhou,80
 LN-BNM,Trondheim - Namsos,20
-N41010,Pontiac, MI - Greensburg, IN,5
+N41010,Pontiac. MI - Greensburg. IN,5
 C-GQTH,Winnipeg - Sandy Lake,7
 B-2141,Beijing - Urumqi,102
 RA-82071,Dubai - Kerman,17
@@ -4220,12 +4220,12 @@ C-GMOP,Tuktoyaktuk - Inuvik,7
 6V-ADE / C5-GAA,,3
 RDPL-34117,Vientiane - Phonesavahn,18
 4761,Manila - Naga,29
-N309CK,Fresno, CA - Santa Ana, CA,5
+N309CK,Fresno. CA - Santa Ana. CA,5
 CCCP-26141,Krasnadar - Gyumri,36
 RA-85656,Irkutsk - Moscow,124
 VH-SVQ,Newcastle - Lord Howe Island,9
 N230TW,Kissimmee - Opa,10
-N304UE,Washington D.C. - Columbus, OH,8
+N304UE,Washington D.C. - Columbus. OH,8
 9Q-CBC,Cotonou - Kinshasa,2
 RA-11118,Volgograd - Nalchik,13
 OB-1559,Jananjui - Tocache - Tingo Maria - Lima,31
@@ -4245,11 +4245,11 @@ F-OGQS,Moscow - Hong Kong,75
 N27736,,5
 PH-KSH,Amsterdam - Cardiff,24
 FAE450,Taura - Latacunga,17
-9XR-NN,Tanzania - Kigali, Rwanda,12
+9XR-NN,Tanzania - Kigali. Rwanda,12
 8726000/8826060,,26
 PK-ZAA,Pontianak - Nanga Pinoh,11
 B-1816,Taipe - Nagoya,271
-N990RA,AtlantiCity, NJ - Stratford, CT,9
+N990RA,AtlantiCity. NJ - Stratford. CT,9
 HK-3479,Furatena - Quipama - Boyaca - Bogota,9
 PT-GJW,Sao Paulo - Sao Gabriel,16
 HK-2890,San Jose - Villavicencio,11
@@ -4259,23 +4259,23 @@ B-2610,Xian - Guangzhou,160
 XA-SLU,Lazaro - Cardenas - Michoacan,9
 XA-BBA,Mexico City - Washington D.C.,12
 PK-MFI,Balikpapan - Palu,12
-N13GA,Taku Lodge, AK - Taku Lodge, AK,10
+N13GA,Taku Lodge. AK - Taku Lodge. AK,10
 TU-TIP,San Pedro - Abidjan,17
 ,,70
 F-WWKH,Toulouse - Toulouse,7
 5T-CLF,Nouakchott - Tidjikja,93
-N954VJ,Columbia, SC - Charlotte, NC,57
-N8297X,Portage Creek, AK - Dillingham, AK,3
-N151BH,Lihue, HI - Lihue, HI,7
+N954VJ,Columbia. SC - Charlotte. NC,57
+N8297X,Portage Creek. AK - Dillingham. AK,3
+N151BH,Lihue. HI - Lihue. HI,7
 8P-TAD,Bridgetown - Fort de France,6
 RA-87256,Training,9
 HP-1202AC,Colon - Panama City,21
 PK-OBT,Kilo Lima - Kelawit,18
 ,Dzhida - Boda,47
 HL-7296,Seoul - Cheju,160
-N17394,Caribou Lake, AK - Nikiski, AK,3
-N124NH,New York, NY - AtlantiCity, NJ,3
-N4839S,Merrill Field, AK - Port Alsworth, AK,4
+N17394,Caribou Lake. AK - Nikiski. AK,3
+N124NH,New York. NY - AtlantiCity. NJ,3
+N4839S,Merrill Field. AK - Port Alsworth. AK,4
 CN-CDT,Agadir - Casablanca,44
 N513AU,Chicago - Pittsburgh,132
 5N-ATQ,Lagos - Abuja,5
@@ -4284,7 +4284,7 @@ C-FDMR,Fish Egg Inlet - Pruth Bay,4
 PK-PLV,Hong Kong - Jakarta,12
 RA-87468,Krasnoyarsk - Tura,28
 FAP2009,Bahia Negra - Asuncion,27
-LV-WEN,Cordoba Pajas Blancas - Buenos Aires, Brazil,9
+LV-WEN,Cordoba Pajas Blancas - Buenos Aires. Brazil,9
 RA-27209,Chaibukha - Provedenia,20
 N96BF,,2
 HK3929X,Villavicencio - Mitu,10
@@ -4302,7 +4302,7 @@ P2-SWC,Selbang - Bolvovip,7
 N954U/N411KM,,142
 H584,,22
 EI-BWF,Manila - Cebu - Tokyo,293
-N1238K,Nome, AK - Koyuk, AK,5
+N1238K,Nome. AK - Koyuk. AK,5
 N918AE,Greensboro - Raleigh,20
 YV-761C,,9
 P2-MFS,Tabubil - Selbang,28
@@ -4315,26 +4315,26 @@ HK-3839X,Bogota - Cartagena,52
 N746FE,Flagstaff - Phoenix,1
 C-GPUN,Vancouver - Masset,5
 N754FE,Visalia - Oakland,1
-N1535E,Sequim, WA - Seattle, WA,4
-N2209P,Los Angeles, CA - Burbank, CA,4
+N1535E,Sequim. WA - Seattle. WA,4
+N2209P,Los Angeles. CA - Burbank. CA,4
 9N-ABI,Kathmandu - Rumjatar,24
 RA-67120,Krasnoyarsk - Abakan,19
 F-GHLN,Paris - Romania,10
 B-22717,,4
-N27245,AZ - Las Vegas, NV,10
+N27245,AZ - Las Vegas. NV,10
 N782AL,Kansas City - Chicopee,3
 RA-26084,Petropavlovsk -  Ossora,10
-N9417B,Sacramento, CA - Reno, NV,1
+N9417B,Sacramento. CA - Reno. NV,1
 ZK-TIK,Hamilton -  New Plymouth,6
 YR-LCC,Bucharest - Brussel,60
-84-0136,Camp Springs, MD - San Antonio, TX,8
+84-0136,Camp Springs. MD - San Antonio. TX,8
 5N-AJQ,Port Harcourt - Lagos,9
 VH-AJS,Tindal - Alice Springs,3
 4R-HVA,Anuradhapura - Palaly AFB,52
 C-GYYB/ C-GYPZ,Red Lake - Sioux Lookout  / Sioux Lookout - Red Lake,8
 N409MA,Buenos Aires - La Paz - Quito,7
 HK-3079G,Mitu - Villavicencio,9
-62-1838,Boise, ID - Colorado Springs, CO,6
+62-1838,Boise. ID - Colorado Springs. CO,6
 G-OEAA,Leeds - Aberdeen,12
 HK-3213,Villavicencio - Miraflores,11
 6V-AGH,,10
@@ -4344,7 +4344,7 @@ CCCP-68142,Poliny Osipenko - Nikolayevsk-on-Amur,12
 RA-07743,Poliny - Nikolayevsk-on-Amur,14
 T401,Ondjiva - Catumbela,48
 RA-65617,Kaduna - Lagos,80
-N356SA,Santo Domingo - Aguadilla, Puerto Rico,2
+N356SA,Santo Domingo - Aguadilla. Puerto Rico,2
 N8385G,Karluk - Kodiak,4
 P2-VTC,Port Moresby - Tabubil,3
 N6281J,Sightseeing,6
@@ -4359,7 +4359,7 @@ HK-2594,Neiva - Cali,10
 N256AS,Atlanta - Gulfport,29
 N30GA,Farewell - Anchorage,1
 XV239,Air Show,7
-N6234G,Las Vegas, NV - W. Yellowstone, MT,8
+N6234G,Las Vegas. NV - W. Yellowstone. MT,8
 FAC1152,Villavicencio - La Macarena,22
 YA-BAO,Kabul - Jalalabad,51
 CR861,Ratmalana - Palali base,81
@@ -4395,7 +4395,7 @@ J8-VAK,Union Island - Bridgetown,10
 CH-587,,39
 ZK-SFA,Wellington - Picton,6
 HK-3979X,Asuncion - Campina Grande,4
-N131T,St. Johns, AZ - Brownsville, TX,4
+N131T,St. Johns. AZ - Brownsville. TX,4
 TC-GEN,Puerto Plata - Gander,189
 XA-SLQ,Tijuana - Ensenada,8
 ,,20
@@ -4412,14 +4412,14 @@ N9983Z,,5
 73-1149,Tizla - Dubrovnik,35
 RA-76752,Novosibirsk - Petropavlovsk,20
 B-12257,Taipei - Matsu Island,17
-N35207,Cheyenne, WY - Lincoln, NE,3
+N35207,Cheyenne. WY - Lincoln. NE,3
 ST-FAG,Wadi Halfa - Khartoum,53
 C-GDOB,,2
 XA-SWJ,Durango - Otaez,19
 P2-ISD,Menyamya - Marakawa,10
 N904VJ,Miami - Atlanta,110
 G-BEDZ,Inverness - Lerwick,3
-UR-76539,Kinshasa, Congo  - Athens, Greece,10
+UR-76539,Kinshasa. Congo  - Athens. Greece,10
 EP-IRU,Training,7
 A25-113/A25-209,,28
 PK-GIE,Fukuoka - Denpasar,275
@@ -4427,14 +4427,14 @@ B-3822,Dalian - Shanghai,12
 N927DA,Pensacola - Atlanta,142
 P2-MBB,Bosavi - Mendi,20
 VT-ETC,Delhi - Shimla - Kulu,9
-CH-06,Villafranca, Italy - Eindhoven AB,41
+CH-06,Villafranca. Italy - Eindhoven AB,41
 N93119,New York City - Paris,230
 XA-TCF,Holvox Island - Playa del Carmen,18
 N313RS,Emmonak - Aniak,4
 XY-AET,Rangoon - Mergui,49
 C-GNDN,Iqaluit - Markham Bay,2
 C-FGNI,Bronson Creek - Wrangell,3
-74-1662,Jackson Hole, WY - New York, NY,9
+74-1662,Jackson Hole. WY - New York. NY,9
 C-GCMY,Tasu - Alliford,3
 RA-76513,Belgrade - Malta,12
 RA-85621,Moscow - Svalbard,141
@@ -4444,9 +4444,9 @@ PH-DDA,Texel - Amsterdam,32
 N52AW,Lima - Santiago,70
 9Q-CXK,,21
 RA-11101,,19
-RA-82069,Moscow - Turin, Italy,23
+RA-82069,Moscow - Turin. Italy,23
 N64276,,3
-N744W,Port Meiner, Quebe- Bangor, Maine,8
+N744W,Port Meiner. Quebe- Bangor. Maine,8
 N751MA,Manta - Miami,4
 RA-88527,Tyumen - Khanty,34
 PT-MRK,Sao Paulo - Rio de Janiero,95
@@ -4457,8 +4457,8 @@ D2-FVG,Luanda - Lucapa,16
 HZAIH/UN-76435,New Delhi - Dhahran / Chimkent - New Delhi,349
 ,,8
 RA-40309,,15
-N87GL / N1127D,Burlington, IA - Quincy, IA,14
-64-14856,San Diego, CA - Portland, OR,11
+N87GL / N1127D,Burlington. IA - Quincy. IA,14
+64-14856,San Diego. CA - Portland. OR,11
 ET-AIZ,Addis Ababa - Nairobi,175
 N4704B,Bethel - Kwigillingok,1
 RA-76804,Abakan - Petropavlosk - Kamchatsky,23
@@ -4469,7 +4469,7 @@ N75142,Boise - Salt Lake City,2
 HK-4008X,Bogota - Medellin,4
 N827AX,Test flight,6
 H1032,Tanbaram AFB - Hyderabad,22
-N388LS,Bridgeport, CT - Lebanon, NH,2
+N388LS,Bridgeport. CT - Lebanon. NH,2
 N802TH,Manteo - Edenton,2
 5W-FAU,Pago Pago - FagaliI,5
 N265CA,Cincinnati - Detroit,29
@@ -4479,7 +4479,7 @@ N702SC,St. Marys - Kenai,2
 T-400,Luanda - Cafunfo,37
 357 / 903,,73
 PP-CJO,Maraba - Carajas,52
-YV-160CP,Lima, Peru - Guatemala City, Guatemala,5
+YV-160CP,Lima. Peru - Guatemala City. Guatemala,5
 C-FESJ,,1
 HK-3885,,4
 ,Dezful - Mashhad,88
@@ -4500,7 +4500,7 @@ N5164G,Sightseeing,5
 ,,29
 PT-WHK,Sao Jose dos Campos - Congonhas,60
 CU-T1262,Santiago de Cuba - Havana,44
-N15199,Haines, AK - Skagway, AK,6
+N15199,Haines. AK - Skagway. AK,6
 PK-YPM,Bangdung - Jakarta,50
 P2-MMU,Chimbu - Goroka,4
 9V-ATD,Phuket - Ranong,2
@@ -4518,7 +4518,7 @@ VN-A120,Ho Chi Minh City - Phnom Penh,66
 9Q-CBO,Buknavu - Uvira,22
 1102/65-9405,,33
 PK-GAI,Jakarta - Medan,234
-N12022,Montrose, CO - Page, AZ,9
+N12022,Montrose. CO - Page. AZ,9
 EC-ERQ,,9
 LV-WEG,Posadas - Buenos Aires,74
 1310,,5
@@ -4534,10 +4534,10 @@ C-GKWV,Mackenzie - Bear Valley,3
 UR-42334,Odessa - Thessaloniki,70
 9V-TRF,Jakarta - Hatta - Singapore,104
 750,Search mission,5
-ER-ACF,Abidjan - Rundu, Nambia,5
+ER-ACF,Abidjan - Rundu. Nambia,5
 N4723U,Tokyo - Honolulu,393
 HP-986PS,Panama City - Rio Sidra,10
-N913FE,Maiden, NC - Greensboro, NC,1
+N913FE,Maiden. NC - Greensboro. NC,1
 YA-DAB,Kandahar - Heart,51
 YV-928CP,Gomel - Kunovice,2
 XY-AES,Thandwe - Sittwe,45
@@ -4547,9 +4547,9 @@ LZ-SFG,Terceira - Lisbon,7
 D-3B-9,,5
 ,,57
 B-1814,Denpasar - Taipei,196
-N840FE,Memphis, TN - Bowling Green, KY,1
+N840FE,Memphis. TN - Bowling Green. KY,1
 N868FE,Grand Forks - Bismark,1
-SU-PBA,Mombasa, Kenya - Cairo, Egypt,6
+SU-PBA,Mombasa. Kenya - Cairo. Egypt,6
 B-12255,Hsinchu - Kao Hsiung,13
 YA-FAZ,Dubai - Kandahar - Kabul,45
 RP-C3222,Manila - Bacolod,127
@@ -4559,13 +4559,13 @@ HC-BSU,Bogota - Quito,53
 FAP-351,Iquitos - Andoas,88
 5T-MAG,Nema - Nouakchott,42
 34001,Vientiane - Xiang Khoang,26
-N96CW,Charlotte, NC - Monroe, NC,5
+N96CW,Charlotte. NC - Monroe. NC,5
 JU-1017,Erdenet - Moron,28
 C-GQAL,Montreal - Peterborough,11
 N594BK,Sightseeing,6
-UR-76424,Rasal - Nikolaev, Ukraine,8
+UR-76424,Rasal - Nikolaev. Ukraine,8
 LV-WPO,Tucumán - Córdoba,3
-UR-UCI,Bourgas, Bulgaria - Asmara, Eritrea,10
+UR-UCI,Bourgas. Bulgaria - Asmara. Eritrea,10
 XC-UTQ,,4
 VP-BPS,VP-BPS,18
 EC-FXD,Palma de Mallorca - Barcelona,2
@@ -4583,7 +4583,7 @@ XY-AEN,Rangoon - Tachilek,44
 CU-T1264,Quito - Guayaquil - Havana,91
 RA-26028,,24
 HB-IWF,New York City - Geneva,229
-N1433Z,Anchorage, AK - Hoholitna River, AK,5
+N1433Z,Anchorage. AK - Hoholitna River. AK,5
 24143,,5
 TN-AFR,Huambo - Luanda,5
 U-614,Timika - Jayapura,9
@@ -4599,10 +4599,10 @@ PT-WKH,Teresina - Fortaleza,3
 N3FY,Plaa Grande - Quetzaltenango,18
 RA-12955,Krasnoyarsk - Mirny,13
 RP-C606,,9
-N956DB,Brunswick, GA - Annapolis, MD,1
+N956DB,Brunswick. GA - Annapolis. MD,1
 N9352B,Vancouver - Victoria,2
 ,,6
-N501EZ,Mena, AR - Texarcana, TX,1
+N501EZ,Mena. AR - Texarcana. TX,1
 C-FCVK,Point-Lebel - Rimouski,10
 XY-AEO,Yangon - Sittwe,8
 HS-TIA,Bangkok - Surat Thani,146
@@ -4628,7 +4628,7 @@ C-FWLQ,Goose Bay - Davis Inlet,2
 PT-LEM,Training,5
 TC-JEP,Adana - Ciddah,6
 HK-2760,Bucaramanga - Malaga,5
-HL-7373,Shanghi, China - Seoul, Korea,3
+HL-7373,Shanghi. China - Seoul. Korea,3
 YJ-RV9,Espírita Santo - Port Vila,12
 M21-05,Training,5
 5Y-LET,Ol Kiombo - Mara Sika AS,2
@@ -4638,13 +4638,13 @@ RP-C471,,1
 N6099S,Sightseeing,7
 P2-ALX,Nadzab - Goroka,17
 C-FIFP,Test flight,2
-D-IBEX,London, England - Frankfort, Germany,2
+D-IBEX,London. England - Frankfort. Germany,2
 HK-1776,Villavicencio - Mitu,18
 VT-LCI,Kathmandu - New Delhi,5
 XA-TAL,Los Mochis - Toluca,4
-N9253N,Fairfield, N.J. - Martha's Vineyard, MA,3
+N9253N,Fairfield. N.J. - Martha's Vineyard. MA,3
 YN-CED,Managua - Bluefields,16
-,Tokyo, Japan - Chitose, Japan,517
+,Tokyo. Japan - Chitose. Japan,517
 N5382W,,7
 DQ-AFN,Nausori - Nadi,17
 N518DM,Sky Diving,10
@@ -4656,7 +4656,7 @@ UK-87848,Tashkent - Turtkul,33
 LV-WRZ,Buenos Aires - Cordoba,103
 5HNAT,Serener Airstrip - Kilimanjaro IAP,12
 G-ILGW,Glasgow - Aberdeen,11
-N4830S,Westerly, RI - Block Island, RI,5
+N4830S,Westerly. RI - Block Island. RI,5
 9N-AEG,Pokhara - Kathmandu,15
 SX-ECH,Athens - Bucharest,13
 PT-ODK,Belem - Monte Dourado,2
@@ -4665,15 +4665,15 @@ N411WL,Sightseeing,10
 N704H,,20
 I-AVJG,Napoli - Genoa,3
 EV-8012,La Carlota - Acarigua,6
-N47BA,Orlando, FL - Dallas, TX,6
+N47BA,Orlando. FL - Dallas. TX,6
 SU-GAP,New York City - Cairo,217
 N902CT,,4
 31242/31243,Training,16
 XA-TKN,Uruapan - Mexico City,18
 F-OHFV,Rome - Pristina,24
-5Y-RAN,Nairobi - Dar Es Salaam, Tanzania,4
-UK-91004,Moscow, Russia - Tashkent, Uzbekistan,7
-ZS-OJY,Johannesburg, South Africa  - Oranjemund, Namibia,9
+5Y-RAN,Nairobi - Dar Es Salaam. Tanzania,4
+UK-91004,Moscow. Russia - Tashkent. Uzbekistan,7
+ZS-OJY,Johannesburg. South Africa  - Oranjemund. Namibia,9
 N1747U,,6
 RP-C-3883,Manila - Cauayan,17
 N525KL,Saint Louis - Branson,6
@@ -4683,26 +4683,26 @@ CS-TGM,Ponta Delgada - Horta,35
 F-GTDI,Havana - Guatemala City,314
 N86BE,Opa-Locka - Marianna,3
 ZS-ONT,,2
-HL-7451,London, England - Milan, Italy,4
+HL-7451,London. England - Milan. Italy,4
 VT-EDW,Kathmandu - New Delhi,189
 CU-T1285,Havana - Valencia,22
 9N-AFL,Simara - Kathmandu,10
-3C-JJI,Kiev, Russia - Tehran, Iran,6
+3C-JJI,Kiev. Russia - Tehran. Iran,6
 5N-AXL,Lagos - Abuja,16
 HB-AKK,Zürich - Dresden,10
 HB-AAM,Tripoli IAP - Marsa el-Brega,41
 YS-09-C,San Jose - Tortuguero,20
 ,Ankara - Istanbul,4
 5Y-BEN,Abidjan - Lagos,179
-TL-ACM,Pepa, Congo - Kigali, Rwanda,24
+TL-ACM,Pepa. Congo - Kigali. Rwanda,24
 N286,Cagayancillo - Puerto Princesa,15
 N963AS,Puerto Vallarta - San Francisco,88
 ,Training,8
-N756HG,Ilianma, AK - Koliganek, AK,6
-N8079U,Sacramento, CA - Dayton, OH,3
+N756HG,Ilianma. AK - Koliganek. AK,6
+N8079U,Sacramento. CA - Dayton. OH,3
 N668SW,Las Vegas - Burbank,142
 RA-88170,Moscow - Kiev,9
-C-FNTF,Points North Landing, SK - Ennadai Lake,2
+C-FNTF,Points North Landing. SK - Ennadai Lake,2
 HP-1267APP,Panama City - Puerto Obaldia,10
 TM-12D-73,Sevilla - Herreira,
 RA-11302,Bangkok - Colombo,8
@@ -4726,7 +4726,7 @@ B-3479,Enshi - Wuhan,44
 88-1027,Training,5
 N912FJ,Tuxtla Gutierrez - Villahermosa,19
 HK-851P,Villavicencio - Mitu,19
-N201RH,Hinckley, IL - Louisburg, NC,3
+N201RH,Hinckley. IL - Louisburg. NC,3
 VT-EGD,Calcutta - Patna - Lucknow - New Delhi,58
 C-GNAK,Moncton - Montreal,2
 N54AA,,2
@@ -4736,10 +4736,10 @@ F-BTSC,Paris - New York City,109
 9N-ABP,Bajhang - Dhangadhi,25
 PT-HRD,Cubatao - Navegantes,6
 230,Santiago - Coihaique,14
-N27944 / N2225G,Lakehurst, NY - Patuxent River, MD,11
+N27944 / N2225G,Lakehurst. NY - Patuxent River. MD,11
 ,Kinshasa - Tshikapa,27
 C-GMPB,Teslin - Dease Lake,2
-N801MW,Dothan, AL - Hazelhurst, GA,3
+N801MW,Dothan. AL - Hazelhurst. GA,3
 A4O-EK,Cairo - Manama,143
 N923BA,Sightseeing,9
 HP-1357AAP,San Jose  - La Fortuna - Tamarindo,10
@@ -4758,28 +4758,28 @@ RA-74295,Moscow - Batumi,86
 9V-SPK,Taipei - Los Angeles,179
 D2-FDI,Saurimo - Luanda,44
 ER-AFA,,11
-N731AC,Fort Wayne, IN - Milwaukee, WI,1
+N731AC,Fort Wayne. IN - Milwaukee. WI,1
 D2-FCG,Luanda - Namibe,57
-N14056,Miami, FL - Port au Prince,114
+N14056,Miami. FL - Port au Prince,114
 EC-DQG,Malaga - Cordoba,2
 N616F,Skydiving,9
 N19454,,2
 YV-224C,Canaina - Ciudad Bolivar - Por La Mar,24
-N81PF,Broomfield, CO - Stillwater, OK,10
+N81PF,Broomfield. CO - Stillwater. OK,10
 HK-3932X,El Yopal - Mitu,6
 N318DH,Chicago - Beaver Island,6
-I-MOCO,Nurnberg - Rome, Italy,3
+I-MOCO,Nurnberg - Rome. Italy,3
 PZ-TBP,Paramaribo - Jakobkondre,10
 G-BNMT,Edinburgh - Belfast,2
 PT-OET,,6
 HS-TDC,Bangkok - Chiang Mai.,5
-93-1336,Fort Walton Beach, Fl - Oceana Naval Air Station, VA,21
-RA-85619,Istanbul, Turky - Moscow, Russia,174
+93-1336,Fort Walton Beach. Fl - Oceana Naval Air Station. VA,21
+RA-85619,Istanbul. Turky - Moscow. Russia,174
 S9-CAE,Luanda - Lubango,17
 F-OGES,St. Maarten - St. Barthélémy,19
 PK-MFL,Training,3
 N303GA,Los Angeles - Aspen,18
-N405PC,Green Bay - Ft. Myers, Fl,1
+N405PC,Green Bay - Ft. Myers. Fl,1
 ,Adar Yeil - Khartoum,30
 VN-8415,Vinh - Dong Hoi - Hue,16
 LV-WSC,San Fernando - El Calafate,10
@@ -4792,12 +4792,12 @@ RA-85845,Yekaterinburg - Irkutsk - Vladivostok,145
 HL9240,Jinhae - Ockpo,12
 YV-117CP,Puerto Cabello - Caracas,13
 RA-76588,Moscow - Norilsk,10
-N39586,Shagway, AK - Return,6
-D-CBNA,Reykjavík, Iceland - Narsarsua, Greenland,3
+N39586,Shagway. AK - Return,6
+D-CBNA,Reykjavík. Iceland - Narsarsua. Greenland,3
 N169PA,Grand Canyon NP - Las Vegas,7
 3C-LLA,Kama - Kapmene,11
 C-GITS,Toronto - Lisbon,304
-N153TW,Ithaca, NY - Jackson, MI,2
+N153TW,Ithaca. NY - Jackson. MI,2
 N8097W,Abaco - Miami,9
 EC-FBC,Melilla - Málaga,47
 N591UA,Newark - San Francisco,44
@@ -4806,19 +4806,19 @@ N334AA,Boston - Los Angeles,92
 N612UA,Boston - Los Angeles,65
 XA-ACM,Chichen Itza - Cozumel,19
 PT-MRN,Recife  - Sao Paulo,82
-TG-CPE,Guatemala City - San Pedro Sula, Honduras,13
-N733SW,Decatur Island, WAAnacortez, WA,3
-RA-85693,Tel Aviv -  Novosibirsk, Russia,78
+TG-CPE,Guatemala City - San Pedro Sula. Honduras,13
+N733SW,Decatur Island. WAAnacortez. WA,3
+RA-85693,Tel Aviv -  Novosibirsk. Russia,78
 SE-DMA / D-IEVX,Milan - Copenhagen / Milan - Paris,114
 C-GPUO,Iyachisakus Lake - Mollet Lake,7
 N9530F,Dillingham - King Salmon,10
-EC-GDV,Barcelona - Oran, Algeria,10
+EC-GDV,Barcelona - Oran. Algeria,10
 C-GYPA,Gods Narrows - Shamattawa,3
 PT-EVF,Humiata - Altamira,6
-N400EH,Fire Island, AK - Anchorage, AK,5
-N14053,New York City - Santo Domingo, Dominican Rep.,260
+N400EH,Fire Island. AK - Anchorage. AK,5
+N14053,New York City - Santo Domingo. Dominican Rep.,260
 RA-75840,Khatanga - Moscow,27
-N5UJ,Pittsburgh, PA - Baca Raton, Fl,2
+N5UJ,Pittsburgh. PA - Baca Raton. Fl,2
 ES-NOV,Tallinn - Kardla,17
 HB-IXM,Berlin - Zurich,33
 9G-MKI,Luxembourg - Port Harcourt,13
@@ -4831,7 +4831,7 @@ HK-4175X,Medellin - Quibdo,16
 HB-VLV,,2
 D-IAAI,Bremerhaven - Wangerooge,9
 N3525Y,,5
-N90AG,Birmingham, England - Bangor, MA,5
+N90AG,Birmingham. England - Bangor. MA,5
 160021,Jacobabad - Shamsi,7
 EC-GTJ,Madrid - Bilbao,3
 XC-FIT,Mexico City - Chilpancingo,17
@@ -4845,10 +4845,10 @@ EP-MBS,Tehran - Khorramabed,117
 ER-ADL,,10
 07RED,Sanofov - Lakhta,20
 92-0471,Basilan - Mactan Island,10
-LY-AVD,Budapest, Hungary - Tunis, Tunisia,3
+LY-AVD,Budapest. Hungary - Tunis. Tunisia,3
 CU-T1020,Cienfuegos -- Cayo Coco,17
 N228PA,Minneapolis - Detroit,1
-J2-KBC,Mogadishu, Somalia - Djibouti,4
+J2-KBC,Mogadishu. Somalia - Djibouti,4
 VH-UJB,Cairns - Hicks Island,4
 EC-GKR,Madrid - Palma de Mallorca,2
 B-2552,Beijing - Busan,166
@@ -4869,8 +4869,8 @@ C-GPOW,Winnipeg Manitoba,8
 84-0475,,10
 RA85816/A9C-DHL,Moscow-Munich-Barcelona / Bahrain/Brussels,71
 N8145M,,2
-9XR-IS,N'Djamena, Chad - Brazzaville, Congo,27
-N3129F,Lake Hood, AK - Iliamna, AK,4
+9XR-IS,N'Djamena. Chad - Brazzaville. Congo,27
+N3129F,Lake Hood. AK - Iliamna. AK,4
 PK-TAR,Tarakan - Krayan,10
 G-BJVX,Gas platform Clipper - drilling rig Golbal Sante Fe Monach,11
 9N-AGF,Jumla - Surkhet,4
@@ -4881,10 +4881,10 @@ CR-873,,5
 89RED,,147
 9N-AFR,Jomsom - Pokhara,18
 RA-28932,Khabarovsk - Ayan,16
-N45CP,Marco, Fl - Lexington, KY,5
+N45CP,Marco. Fl - Lexington. KY,5
 PT-WRQ,Cruzeiro do Sul - Tarauaca - Rio Branco,31
 B-7023,Survey,3
-C-FRKZ,Edmond, Alberta - High Prarie, Alberta,2
+C-FRKZ,Edmond. Alberta - High Prarie. Alberta,2
 OB-1226,,6
 PT-MTS,Guarulhos - Londrina,2
 C-FLGA,Lake de l'Avion - Agunish River,4
@@ -4892,37 +4892,37 @@ IN302 / IN304,Military exercises,12
 N5027Q,,5
 N76U,Mobile - Mongomery,1
 N41BE,St. Paul - Eveleth,8
-LX-LGB,Berlin, Germany - Luxembourg,22
+LX-LGB,Berlin. Germany - Luxembourg,22
 PK-VIZ,Tarakan - Long Bawan,10
-N61RS,Las Vegas, NV - Taos, NM,2
+N61RS,Las Vegas. NV - Taos. NM,2
 RP-C6888,Manila - Laoag,34
 5Y-ONT,Ol Kiombo - Mombasa,20
-N127YV,Wichita, KS - Mena, AR,3
+N127YV,Wichita. KS - Mena. AR,3
 P2-CBB,Gohu - Madang,8
  / ,,22
 N277PM,Decatur - Rockford,1
 B-22708,Taipei - Macau,2
-UR-14003,Kharkiv, Ukraine - Trabzon, Turkey - Isfanan, Iran,44
+UR-14003,Kharkiv. Ukraine - Trabzon. Turkey - Isfanan. Iran,44
 N1122Y,Elizabeth City - Manteo,1
 FAB-2292,Sao Paulo - Porto Alegre,16
 9XR-RB,Moroni Hahaya - Anjouan,16
 TC-THG,Istanbul - Ankara - Diyarbakir,80
-N233YV,Charlotte, NC - Greer, SC,21
+N233YV,Charlotte. NC - Greer. SC,21
 OB-1396,Chiclayo - Chachapoyas,46
 ER-AFT,Brazzaville - Douala,7
 5Y-EMJ,Busia - Nairobi,13
 RDPL-34141,Macau - Baucau,6
 UR-LIP,Agadir - Algiers,8
 ES-NOY,Tallinn - Helsinki,3
-N421TJ,Griffith-Merrill, IN - Somerset, KY,7
+N421TJ,Griffith-Merrill. IN - Somerset. KY,7
 15-22,Zahedan - Kerman,275
 10254,Islamabad - Kohat,17
 FLARF-01032,Skydiving,25
 7T-VEZ,Tamanrasset - Algiers,103
 PK-WAY,Mulia - Wamena,16
-N1636W,Aurora, IL - Morris, MN,3
+N1636W,Aurora. IL - Morris. MN,3
 UR-UCB,Kinshasa - Lubumbashi,200
-UR-42352,Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain,75
+UR-42352,Kabul. Afghanistan - Trabzon. Turkey - Zaragoza. Spain,75
 N70176,,4
 I-ERJC,Milan - Genoa - Farnborough,2
 PT-EPH,Oiapoque - Macapa,5
@@ -4931,13 +4931,13 @@ PT-EHH,,4
 N4493M,Sightseeing,4
 F-GRJS,Nantes - Brest,24
 ,,7
-N91303,Hallo Bay, AK - Homer, AK,3
+N91303,Hallo Bay. AK - Homer. AK,3
 V5-CAS,,4
 7T-WHQ,Training,4
 PT-LFX,,4
 PT-YVM,,5
 ST-AFK,Port Sudan - Khartoum,117
-N314AB,Ft. Lauderdale, FL - Treasure Cay,10
+N314AB,Ft. Lauderdale. FL - Treasure Cay,10
 YV-1060CP,La Carlota - San Cristobal,10
 ZS-OYI,Nairobi - Samburu National Park,14
 N37741,Sightseeing,5
@@ -4958,17 +4958,17 @@ LV-MGV,,5
 XA-ISH,Tampico - Las Potrancas Ranch Airstrip,3
 N791FE,Casper - Cody,1
 ,Fallujah - Baghdad,36
-8R-GMC,Ogle, Guyana - Ekereku, Guyana,7
+8R-GMC,Ogle. Guyana - Ekereku. Guyana,7
 VH-YKL,,4
 N439AF,Seattle - Spokane,1
-9T-TAD,Boende, Congo - Kinshasa, Congo,24
+9T-TAD,Boende. Congo - Kinshasa. Congo,24
 C-GOFF,,3
 HK-4246X,El Yopal - Mitu,3
-N600XJ,Chino,CA - Sun Valley, ID,2
-3X-GDO,Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon,161
-SU-ZCF,Sharm el Sheikh, Egypt - Cairo, Egypt,148
+N600XJ,Chino.CA - Sun Valley. ID,2
+3X-GDO,Conakry. Guinea - Cotonou. Benin - Beirut. Lebanon,161
+SU-ZCF,Sharm el Sheikh. Egypt - Cairo. Egypt,148
 UK-87985,Termez - Tashkent,37
-C-FAGA,Pelee Island, Ontario - Windsor, Ontario,10
+C-FAGA,Pelee Island. Ontario - Windsor. Ontario,10
 7T-VIN,Hassi R'Mel - Ghardaïa,5
 Z3-BAB,Skopje - Mostar,9
 EP-LCA,Kish Island - Sharjah,46
@@ -4979,7 +4979,7 @@ UR-ZVA,Ankara - Baku - Kabul,7
 N4826C,San Juan - Saint Martten,2
 N27RA,,5
 VH-MAR,Hamilton Island - Lindeman Island,6
-N502MT,Odessa, TX - Lubbock, TX,5
+N502MT,Odessa. TX - Lubbock. TX,5
 XC-JEH,Ciudad Juarez - Mexico City,7
 YV-O-CBL-7,Ciudad Bolívar - Uonquén,7
 HK-4275,Bogota - Carepa,7
@@ -4993,9 +4993,9 @@ UN-70276,Kyzyl-Orda - Bozoy - Vozrozhdenya Island,12
 TR-LFW,Libreville - Franceville,30
 PT-EHH,Belo Horizxonte - Juiz de For a,4
 RA-27113,Freetown - Kailahun,24
-N280AT,Panama City, Panama  - Washington DC,6
-N45032,Waterbury,CN  - Oxford, CN,2
-PP-MYM,Campos, Brazil  -  Off-shore oil rig,11
+N280AT,Panama City. Panama  - Washington DC,6
+N45032,Waterbury.CN  - Oxford. CN,2
+PP-MYM,Campos. Brazil  -  Off-shore oil rig,11
 P2-MBA,Port Moresby - Ononge,3
 N586P,Memphis - Cincinnati,2
 N199GL,Billings - Kalispell,2
@@ -5009,34 +5009,34 @@ XA-TFD,Mexico City - Villahermosa,2
 N902GD,Mayaguez - San Juan,1
 ST-SAF,El Obeid - Juba,4
 N85VT,Dallas - Houston,3
-N960BW,Bagram - Farah, Afghanstan,6
+N960BW,Bagram - Farah. Afghanstan,6
 N8396A,Little Rock - Minneapolis,2
-9G-MKJ,Windsor Locks - Halifax - Zaragoza, Spain,7
+9G-MKJ,Windsor Locks - Halifax - Zaragoza. Spain,7
 HK-1503,Villavicencio - Medellin,3
 RP-C1325,Coron Island - Manila,2
-N875JX,St. Louis, MO - Kirkville, MO,15
-N501RH,Concord, NC - Martinsville, VA,10
-N30DK,San Diego, CA - Albuquerque, NM,5
+N875JX,St. Louis. MO - Kirkville. MO,15
+N501RH,Concord. NC - Martinsville. VA,10
+N30DK,San Diego. CA - Albuquerque. NM,5
 YV-1083C,El Vigia - Caracas,21
 B-3072,Baotou - Shanghai,53
-N873G,Montrose, CO - South Bend, IN,6
-PK-LMN,Jakarta, Indonesia - Solo, Indonesia,154
+N873G,Montrose. CO - South Bend. IN,6
+PK-LMN,Jakarta. Indonesia - Solo. Indonesia,154
 N604GA,Saint Louis - Toledo,2
-N25SA,Salt Lake City, UT - Sun Valley, ID,2
+N25SA,Salt Lake City. UT - Sun Valley. ID,2
 HK-2882,,6
 GN-97121,Puerto Ayacucho - La Carlota,16
 PT-WAK,Sao Paulo - Uberaba,2
 ER-IBW,Baku - Kabul,7
 ,,20
 RA-62597,Vanavara - Tura,9
-N49BA,Bangor, ME - Concord, NH,1
+N49BA,Bangor. ME - Concord. NH,1
 ,Ferrying troops,31
 HA-LAR,Bucharest -Lasi,2
 XV179,Bagdad - Balad,10
 EX-037,Herat - Kabul,104
 ST-EWB,Sharjah - Khartoum - Nyala,7
-N432AR,Fresno, CA - Santa Monica, CA,2
-N500AT,Richmond, VA - Saint Louis, MO  - Pueblo,CO - Irvine, CA,8
+N432AR,Fresno. CA - Santa Monica. CA,2
+N500AT,Richmond. VA - Saint Louis. MO  - Pueblo.CO - Irvine. CA,8
 P2-MFQ,Tabubil - Bimin,13
 ,Jayapura - Sarmi,18
 YV-21CP,Maturin - Charallave,2
@@ -5051,16 +5051,16 @@ EP-830,Training,13
 ZK-POA,Auckland - Blenheim,2
 EK-26060,Bangboka - Isiro,11
 VH-TFU,Bamaga - Lockhart River,15
-CC-CFS,Balmaceda, Argentina - Chile Chiro, Chile,10
+CC-CFS,Balmaceda. Argentina - Chile Chiro. Chile,10
 AF-216,Lusaka - Livingstone - Mongu - Lusaka,13
 9Q-CVG,Goma - Kindu - Kongolo,27
 ST-WAL,Kartoom - El Obeid - El Fasher,42
-3C-VQR,Malabala, Bioko Island - Bata,60
-F-GLZQ,Paris, France - Toronto Canada,309
-TS-LBB,Bari, Italy - Djerba, Tunisia,39
-OH-HCI,Talinn, Estonia - Helsinki, Finland,14
-5B-DBY,Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic,121
-HK-4374X,Panama City - Fort de France, Martinique,160
+3C-VQR,Malabala. Bioko Island - Bata,60
+F-GLZQ,Paris. France - Toronto Canada,309
+TS-LBB,Bari. Italy - Djerba. Tunisia,39
+OH-HCI,Talinn. Estonia - Helsinki. Finland,14
+5B-DBY,Larnaca. Cyprus - Athens. Greece - Prague. Czech Republic,121
+HK-4374X,Panama City - Fort de France. Martinique,160
 OB-1809,Lima - Pucallpa - Iquitos,98
 ER-AZT,Beni - Isiro,11
 PK-RIM,Medan - Jakarta,117
@@ -5069,14 +5069,14 @@ PT-WLX,Rio de Janeiro - Jacarepagua,2
 YV-412C,San Juan de Manapiare - Puetro Ayacucho,4
 N355NT,Sightseeing,6
 9Q-CWC,Kisangani - Bunia,100
-C-FEXS,Winnipeg - Thunder Bay, Ontario,1
+C-FEXS,Winnipeg - Thunder Bay. Ontario,1
 5N-BFN,Lagos - Abuja,117
 4P-OIN,Voronezh - Moscow-Domodedovo,8
 41030,Tehran - Bandar Abbas,94
-N471WN,Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada,103
+N471WN,Baltimore. Maryland - Chicago. Illinois - Las Vegas. Nevada,103
 5NBFD,Abuja - Port Harcourt,109
-N2969,Miami, Florida - Bimini, Bahamas,20
-4K-AZ48,Baku, Azerbaijan - Aktau, Kazakhstan,23
+N2969,Miami. Florida - Bimini. Bahamas,20
+4K-AZ48,Baku. Azerbaijan - Aktau. Kazakhstan,23
 PK-YPY,Mulia - Ilaga,12
 N781RS,Twin Falls - Truckee - Carlsbad - Monterrey,2
 P4-AOD,Moscow - Karkov,3
@@ -5085,7 +5085,7 @@ P4-AOD,Moscow - Karkov,3
 5605,Pristina - Kosice,43
 C-GRXZ,Tofino - Vancouver,8
 N3735W/N372AC,,3
-N629EK,Dayton, Ohio -,1
+N629EK,Dayton. Ohio -,1
 EC-JAX,Madrid - Pamplona,6
 T-21,La Paz - Sana Cruz,6
 N54RP,Helena - Butte,2
@@ -5095,13 +5095,13 @@ PT-FSE,Macaé - Rio de Janeiro,19
 UR-74038,Sebha - N'Djamena,6
 RF-30451,,5
 ZS-PDV,Kabul - Kandahar - Lashkar Gah,16
-ZS-ADL,Goma - Bunia, DCR,3
-EK-32009,Yerevan, Armenia - Sochi, Russia,113
+ZS-ADL,Goma - Bunia. DCR,3
+EK-32009,Yerevan. Armenia - Sochi. Russia,113
 C-GSKJ,Training,3
 S9-BAL,Training,4
-N182K,AtlantiCity, NJ - Groton, CT,5
+N182K,AtlantiCity. NJ - Groton. CT,5
 ,,40
-N5136X,Coeur d'Alene, ID - Missoula, MT,2
+N5136X,Coeur d'Alene. ID - Missoula. MT,2
 TT-PAF,N'djamena - Abéché,7
 9N-AEQ,Surkhet - Jumla,9
 ZS-POG,Polokwane - Vilanculos,3
@@ -5111,10 +5111,10 @@ F-OGYP,Moscow - Irkutsk,203
 AP-BAL,Multan - Lahore,45
 9Q-COM,Lugushwa - Bukavu,17
 HK-3667X,Bogota - Leticia,5
-N59BA,Binghamton, NY - Benningham, VT,1
-7T-VHG,Algiers, Algeria - Frankfurt, Germany,3
+N59BA,Binghamton. NY - Benningham. VT,1
+7T-VHG,Algiers. Algeria - Frankfurt. Germany,3
 RA-851857,Anapa - St. Petersburg,170
-N431CA,Lexington, KY - Atlanta, GA,50
+N431CA,Lexington. KY - Atlanta. GA,50
 EP-MCF,Bandar Abbas - Mashad,148
 XV-230,,14
 ,Gizel - Khankala,15
@@ -5127,10 +5127,10 @@ UK-70152,Training/Aranchi,15
 N410MA,Loma Linda - Victorville,3
 N8361Q,Port Heiden - King Salmon,2
 5H-TZA ,Mbeya - Dar es Salaam,6
-PK-KKW,Surabaya, East Java - Manado, Indonesia,102
+PK-KKW,Surabaya. East Java - Manado. Indonesia,102
 5H-MUX,Dar es Salaam - Matabwe,10
-ER-26068,Adana, Turkey - Balad Air Base, Iraq,35
-N444TW,Laredo, TX - Guadalajara, Mexico,2
+ER-26068,Adana. Turkey - Balad Air Base. Iraq,35
+N444TW,Laredo. TX - Guadalajara. Mexico,2
 N77215,Van Nuys - Long Beach,2
 ,,12
 F-GMPG ,Pau - Paris,54
@@ -5144,12 +5144,12 @@ RA-65021,Surgut - Samara,57
 EW-78849 ,Mogadishu - Djibouti,11
 8R-GET,Kato - Kopinang,5
 ,,18
-5Y-KYA,Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya,114
+5Y-KYA,Abidjan. Ivory Coast - Douala. Cameroon - Nairobi. Kenya,114
 742/CB,El-Gora - Santa Katarina,9
 TN-AHE,Walikale - Goma,3
 FAP-303,Iquitos - Pucallpa,20
 ,Shuttle,22
-N550BP,Milwaukee, WI - Detroit, MI,6
+N550BP,Milwaukee. WI - Detroit. MI,6
 ,,22
 ,Lilongwe to Rumchi,6
 9Q-CEU,Kamina - Lubumbashi,25
@@ -5169,24 +5169,24 @@ N345KA,Sightseeing,10
 PT-SDB,Curitiba - Jundiai,2
 9Q-CAC,Kongolo - Goma,15
 4L-SAS,Kisangi - Goma - Bukavu,8
-,Bosnia - Skopje, Macedonia,11
+,Bosnia - Skopje. Macedonia,11
 HS-OMG,Bangkok - Phuket,130
 9Q-CVL,Lubumbashi - Malemba Nkulu,6
 9Q-COS,Kinshasa - Tshikapa,22
 N590GM,,3
-N430A,Star, ID - Shelton, WA,10
+N430A,Star. ID - Shelton. WA,10
 HK-4055,Villavicencio - Uribe,18
 PT-OVC,Sao Paulo - Rio de Janeiro,2
 ST-JUA,Khartoum - Juba,4
 TC-AKM,Istanbul - Isparta,57
 N141LG,Cordova - Ancorage,4
-N28MG,Columbus, OH - Buffalo, NY,2
+N28MG,Columbus. OH - Buffalo. NY,2
 D-IBDH,HradeKrálové - Kiev,5
 YV2081,Los Rogues - Carac,18
 N509FN,Kodiak - Homer,10
 N410UB ,Lihu - Kauai,1
-G-YMMM,Bejing, China - London, England,152
-D2-FFK,Luanda, Angola - Huambo, Angola,13
+G-YMMM,Bejing. China - London. England,152
+D2-FFK,Luanda. Angola - Huambo. Angola,13
 19,Warsaw - Miroslawiec,20
 PK-VSE ,Tarakan - Long Apung,3
 YV-1449,Merida - Caracas,46
@@ -5195,7 +5195,7 @@ PP-MUM,Oil Rig P18 - Macae,20
 5N-JAH,Lagos - Bebi Air Strip,3
 PZ-TSO,Paramaribo - Lawa,19
 VH-OZA,Sydney - Brisbane,1
-ST-AZL,Chrisinau, Moldova - Antalya, Turkey - Sudan,8
+ST-AZL,Chrisinau. Moldova - Antalya. Turkey - Sudan,8
 9Q-CHN,Goma - Kisangani - Kinshasa,85
 3C-5GE,Bata - Annobon Island,13
 UR-24275,,20
@@ -5205,33 +5205,33 @@ N195GA,Billings - Great Falls,1
 N67GE,Long Beach - Two Harbors,6
 RA-12957,Chelyabinsk - Perm,9
 SAN-100,Tocumen - Colon,12
-EI-TAF,San Salvador, El Salvador - Tegucigalpa, Honduras - Miami,136
+EI-TAF,San Salvador. El Salvador - Tegucigalpa. Honduras - Miami,136
 CC-CTR,Puerto Montt - La Junta,10
 N416PH,Huntsville-Houston,4
-ST-ATN,Aman, Jordan - Damascus, Syria - Khartoum, Sudan,214
+ST-ATN,Aman. Jordan - Damascus. Syria - Khartoum. Sudan,214
 N656WA,Hyannis - Nantucket,1
 ,,10
 A-2106,Jakarta - aerial survelliance,18
 ST-ARN,Khartoum - Juba,8
 N407GA / N407MJ,Medical flight,7
 ST-WTB,Khartoum - Juba,4
-N199US,Hamilton, Ont, Can.- Shreveport, LA - Saltillo, Mexico,2
-N714CK,Bogota, Colombia - Miami, FL,8
+N199US,Hamilton. Ont. Can.- Shreveport. LA - Saltillo. Mexico,2
+N714CK,Bogota. Colombia - Miami. FL,8
 CC-CFM,Puerto Montt - Melinka Island,9
-N818MV,AtlantiCity, NJ- Owatonna,MN,8
-C-GPCD,Port Hardy - Chamiss Bay, Vancouver Island,7
+N818MV,AtlantiCity. NJ- Owatonna.MN,8
+C-GPCD,Port Hardy - Chamiss Bay. Vancouver Island,7
 N612AZ,Ferrying fire fighters,13
 ,Betong - ,10
 5Y-BVF,Kenya - Somalia,3
-EC-HFP ,Madrid - Las Palmas, Canary Islands,172
+EC-HFP ,Madrid - Las Palmas. Canary Islands,172
 TG-JCS ,Guatemala City - El Estor,14
-EX-009,Bishkek - Tehran, Iran,90
+EX-009,Bishkek - Tehran. Iran,90
 YV-102T,Caracas - Latacunga,3
 ZS-OLD,Kisangani - Bukavu - Goma,17
 N587X,Colombus - Mansfield,3
 A6-AVL,,7
 VP-BKO,Moscow - Perm,88
-N999LJ,Colombia, SC - Los Angeles, CA,6
+N999LJ,Colombia. SC - Los Angeles. CA,6
 N92MD,Medical evacuation flight,5
 9N-AFE ,Katmandu - Lukla,19
 N992AA,Sandwich - Chicago,4
@@ -5240,27 +5240,27 @@ XC-VMC,San Luis Potosi - Mexico City,8
 S9-SAO,al-Asad air base - Baghdad,7
 C-FPCK,Vancouver - Powell River - Toba Inlet,8
 D-AXLA,Training,7
-N318WA ,Tortola Virgin Islands - San Juan, PR,3
+N318WA ,Tortola Virgin Islands - San Juan. PR,3
 N180AL,Sabine Pass - Oil Platform,3
-N650LP,Santiago, Dominican Republi- Providenciales,12
+N650LP,Santiago. Dominican Republi- Providenciales,12
 N748P,Bayou Penchant - Off shore oil fields,9
-N106US,New York, NY- Charlotte, NC,155
+N106US,New York. NY- Charlotte. NC,155
 PT-SEA,Coari - Manus,28
 I-FEEV,Rome - Bologna,2
-N200WQ,Newark, N.J. - Buffalo, NY,49
+N200WQ,Newark. N.J. - Buffalo. NY,49
 ,,13
-S9-SVN,Entebbe, Uganda - Luxor, Egypt - Niklaev, Ukraine,5
-TC-JGE,Istanbul, Turkey - Amsterdam, Netherlands,134
-S9-SAB,Entebbe, Uganda - Mogadishu, Somalia,11
+S9-SVN,Entebbe. Uganda - Luxor. Egypt - Niklaev. Ukraine,5
+TC-JGE,Istanbul. Turkey - Amsterdam. Netherlands,134
+S9-SAB,Entebbe. Uganda - Mogadishu. Somalia,11
 C-GZCH,St. Johns - Hibernia platform,18
-N128CM,Oroville, CA - Butte, MT,14
-N526FE,Guangzhou, China - Tokyo, Japan,2
+N128CM,Oroville. CA - Butte. MT,14
+N526FE,Guangzhou. China - Tokyo. Japan,2
 ,Miller field - Aberdeen,16
 A-2703,Militiary training,24
 PK-BRD,Jayapura - Wamena,6
 PK-LTJ,Ilaga - Mulia,11
 YV-1181,Canaima - Porlamar,11
-TL-ADM ,Bangui, CAR- Brazzaville, Congo - Harare, Zimbabwe,7
+TL-ADM ,Bangui. CAR- Brazzaville. Congo - Harare. Zimbabwe,7
 EV08114 ,Patrol,18
 A-1325,Jakarta - Maduin,112
 9Q-CSA,Goma - Isiro,4
