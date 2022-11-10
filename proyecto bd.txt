@@ -2,7 +2,7 @@ CREATE TABLE public."operador" (
 	operador varchar(100)
 );
 
-CREATE TABLE public."Avion" (
+CREATE TABLE public."avion" (
 	"Type" varchar(100),
 	"operador_Operador" varchar(100),
 	"Registration_datos_vuelo" varchar(30)
@@ -14,7 +14,7 @@ CREATE TABLE public.datos_vuelo (
 	"Aboard" integer
 );
 
-CREATE TABLE public."Siniestro" (
+CREATE TABLE public."siniestro" (
 	"Index" integer NOT NULL,
 	"cn/ln" varchar(50),
 	CONSTRAINT "Siniestro_pk" PRIMARY KEY ("Index")
