@@ -1,0 +1,40 @@
+create table Operador(
+	operador varchar(80) primary key
+);
+
+create table Avion(
+	type varchar(50) primary key,
+);
+
+create sequence Datos_v_seq start 2000 increment 2;
+create table datos_vuelo(
+	id integer default nextval ('Datos_v_seq) primary key,
+	Registration varchar(30),
+	Route varchar(60),
+	Aboard integer,
+	type_avion varchar(50) references Avion (type),
+	operador varchar(80) references Operador (operador)
+);
+
+create sequence Datos_a_seq start 3000 increment 3;
+create table datos_accidente(
+	id integer default nextval('Datos_a_seq') primary key,
+	location varchar(80),
+	date_ date,
+	time_ time
+);
+
+create table Siniestro(
+	Index integer primary key,
+	cn_ln varchar(50),
+	fatalities integer,
+	ground integer,
+	id_datos_v integer references datos_vuelo (id),
+	id_datos_a integer references datos_accidente (id)
+);
+
+copy avion(type) from 'C:\Users\ADMIN\Desktop\avion.csv' csv header delimiter ';';
+copy operador(operador) from 'C:\Users\ADMIN\Desktop\operador.csv' csv header delimiter ';';
+copy datos_vuelo(route, registration, aboard, type_avion, operador) from 'C:\Users\ADMIN\Desktop\datos_vuelo.csv' csv header delimiter ';';
+copy datos_accidente(date_, time_, location) from 'C:\Users\ADMIN\Desktop\datos_accidente.csv' csv header delimiter ';';
+copy siniestro(index, cn_ln, id_datos_v,fatalities, ground, id_datos_a) from 'C:\Users\ADMIN\Desktop\siniestro.csv' csv header delimiter ';';
