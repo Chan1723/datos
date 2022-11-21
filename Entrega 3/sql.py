@@ -1,8 +1,14 @@
-def promedio_muertes():
-    return """select sum(fatalities), sum(ground), (avg(fatalities+ground)/2)::numeric(10,2)
-                from siniestro
-                group by fatalities, ground"""
+def accidentes_anio():
+    return """select fatalities, aboard, ground, extract(year from date_) as date from siniestro left join datos_vuelo on (datos_vuelo.id = id_datos_v) left join datos_accidente on (datos_accidente.id = id_datos_a)"""
 
-def muertes_x_anio():
-    return """select fatalities + ground as muertes, extract(YEAR from date_) as anio
-                from siniestro left join datos_accidente on (siniestro.id_datos_a = datos_accidente.id)"""
+def numero_accidentes_op():
+    return """select operador from siniestro left join datos_vuelo on (id = id_datos_v)"""
+
+def paises():
+    return """select location from datos_accidente"""
+
+def tipos_avion():
+    return """select type_avion from siniestro left join datos_vuelo on (id = id_datos_v)"""
+
+def horas_accidentes():
+    return """select time_ from datos_accidente left join siniestro on (id = id_datos_a) where time_ is not null"""

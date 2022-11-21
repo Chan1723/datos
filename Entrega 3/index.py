@@ -1,61 +1,146 @@
-from winreg import QueryValueEx
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 import plotly.express as px
 import numpy as np
 import pandas as pd
 from Connection import Connection
 import sql
+import data as data
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+colors = {
+    'background': 'rgba(0, 0, 0, 0)',
+    'text': '#ffffff'
+}
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-con = Connection()
-
-# inicio de la lectura de las sentencias sql para la elaboracion de las visualizaciones
-con.openConnection()
-query = pd.read_sql_query(sql.promedio_muertes(), con.connection)
-con.closeConnection()
-Df_prom = pd.DataFrame(query, columns=["fatalities", "ground", "avg"])
-fig_prom = px.bar(Df_prom, x = ["fatalities", "ground", "avg"])
-                
-con.openConnection()
-query = pd.read_sql_query(sql.muertes_x_anio(), con.connection)
-con.closeConnection()
-Df_MxA =  pd.DataFrame(query, columns=["muertes", "anio"])
-fig_MxA =  px.bar(Df_MxA, x = "anio", y = "muertes")
-
-app.layout = html.Div(
-    children=[
-        html.H1(
-            children='Análisis', 
-            style={
-                'textAlign': 'center'
-            }
-        ),
-        html.Div(
-            children=[
-                html.H1(children='Promedio entre muertes abordo y el tierra'),
-                dcc.Graph(
-                    id='Promedio',
-                    figure=fig_prom
-                ),
-            ]
-        ),
-        html.Div(
-            children=[
-                html.H1(children='Cantidad muertes por año'),
-                dcc.Graph(
-                    id='Cantidad de muertes por año',
-                    figure=fig_MxA
-                ),
-            ]
-        )
-    ]
-)
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
+app.layout = html.Div([
+    dbc.Card(
+        dbc.CardBody([
+            dbc.Row(
+                html.Div([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.H1("ANALISIS DE ACCIDENTES AEREOS")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ])
+            ),
+            html.Br(),
+            dbc.Row(
+                html.Div([
+                    dbc.Col([
+                        dbc.Card(
+                            dbc.CardBody([
+                                dcc.Graph(
+                                    figure=data.Fig_acc,
+                                    config={'displayModeBar': False}
+                                )
+                            ])
+                        )
+                    ], width=12)
+                ])
+            ),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.P("El avión es de los medios de transporte más seguros en la actualidad, sin embargo, la historia de la aerodinámica ha tenido inconvenientes que han sido resueltos de forma empírica desde los inicios hasta el día de hoy, para ello se han recaudado datos históricos de los vuelos y los accidentes que se han tenido desde 1908, para poder evaluar los cambios que han habido en relación al paso del tiempo y los avances entre distintos tipos de aeronaves.")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ], width=6),
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.P("Es por esto que a partir de la base de datos publicada en el portal Kaggle se definieron diferentes reglas de negocio como punto de inicio del proyecto. El cliente busca identificar y analizar los datos involucrados en cada accidente aéreo que tienen registrado a nivel mundial. Para organizar cada accidente se requiere un índice, el cual debe ser diferente para cada caso, además se debe describir el modelo del avión, el lugar, la fecha y la hora de los hechos, la cantidad de personas fallecidas durante el accidente, la ruta que cubría cada avión, la aerolínea a la que pertenece cada avión (llamada operador), el número de serial de cada avión (único para cada uno), el cliente solicitó que los accidentes estén organizados de manera cronológica y contengan un breve resumen de los hechos.")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ], width=6)
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            dcc.Graph(
+                                figure=data.Fig_tipo,
+                                config={'displayModeBar': False}
+                            )
+                        ])
+                    )
+                ]),
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            dcc.Graph(
+                                figure=data.Fig_horas,
+                                config={'displayModeBar': False}
+                            )
+                        ])
+                    )
+                ])
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            dcc.Graph(
+                                figure=data.Fig_op,
+                                config={'displayModeBar': False}
+                            )
+                        ])
+                    )
+                ], width=9),
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.P("Para la parte del análisis de datos finales, el uso de Python y librerías con pandas y dash fueron indispensables, ya que, a partir de estas, se puede entender computacionalmente el cambio que ha tenido el transporte aéreo desde 1908 en cuanto a seguridad, un ejemplo de esto son las muertes causada dentro del avión en cada siniestro.")
+                            ], style={'textAlign': 'center', 'justify-content':'center'})
+                        ])
+                    )
+                ], width=3)
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            dcc.Graph(
+                                figure=data.Fig_anio,
+                                config={'displayModeBar': False}
+                            )
+                        ])
+                    )
+                ])
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            dcc.Graph(
+                                figure=data.Fig_pais,
+                                config={'displayModeBar': False}
+                            )
+                        ])
+                    )
+                ])
+            ])
+        ]), color='rgba(0, 0, 0, 0)', outline=False
+    )
+], style={'backgroundColor': colors['background'], 'color':colors['text'], 'marginTop':0})
 
 if __name__ == '__main__':
     app.run_server(debug=True)
