@@ -72,6 +72,27 @@ app.layout = html.Div([
                 dbc.Col([
                     dbc.Card(
                         dbc.CardBody([
+                            html.Div([
+                                html.H1("Accidentes por tipo de avión")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ], width=6),
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.H1("Franjas horarias de accidentes registrados")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ], width=6)
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
                             dcc.Graph(
                                 figure=data.Fig_tipo,
                                 config={'displayModeBar': False}
@@ -106,11 +127,30 @@ app.layout = html.Div([
                     dbc.Card(
                         dbc.CardBody([
                             html.Div([
+                                html.H1("20 aerolineas con más accidentes registrados")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    ),
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
                                 html.P("Para la parte del análisis de datos finales, el uso de Python y librerías con pandas y dash fueron indispensables, ya que, a partir de estas, se puede entender computacionalmente el cambio que ha tenido el transporte aéreo desde 1908 en cuanto a seguridad, un ejemplo de esto son las muertes causada dentro del avión en cada siniestro.")
                             ], style={'textAlign': 'center', 'justify-content':'center'})
                         ])
                     )
                 ], width=3)
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.H1("Compración de personas abordo y personas muertas")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ]),
             ]),
             html.Br(),
             dbc.Row([
@@ -124,6 +164,18 @@ app.layout = html.Div([
                         ])
                     )
                 ])
+            ]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardBody([
+                            html.Div([
+                                html.H1("Paises con más accidentes")
+                            ], style={'textAlign': 'center'})
+                        ])
+                    )
+                ]),
             ]),
             html.Br(),
             dbc.Row([
