@@ -4444,7 +4444,7 @@ index;Date;Time;Location;Operator;Flight #;Route;Type;Registration;cn/In;Aboard;
 4442;10/02/1996;1:16;Off Pasamayo, Peru;Aeroperu;603;Lima - Santiago;Boeing B-757-200;N52AW;25489/505;70.0;70.0;0.0
 4443;10/03/1996;;Kahemba, Congo;Malu Aviation;;;de Havilland Canada DHC-6 Twin Otter 200;9Q-CXK;74;21.0;6.0;0.0
 4444;10/06/1996;;Lukapa, Angola;Savanair;;;Antonov 12B;RA-11101;1347703;19.0;6.0;0.0
-4445;10/08/1996;10:50;San Francesco al Campo, Italy;Aeroflot;9981;Moscow - Turin, Italy;Antonov An-124;RA-82069;9,77305E+12;23.0;2.0;0.0
+4445;10/08/1996;10:50;San Francesco al Campo, Italy;Aeroflot;9981;Moscow - Turin, Italy;Antonov An-124;RA-82069;9,77E+12;23.0;2.0;0.0
 4446;10/13/1996;14:55;Ketchikan, Alaska;Air Taxi - Seaside Air Service;;;de Havilland DHC-2;N64276;1025;3.0;3.0;0.0
 4447;10/20/1996;12:12;Eel River Crossing, New Brunswick, Canada;Telford Aviation;-;Port Meiner, Quebe- Bangor, Maine;Piper PA-31-350 Navajo Chieftain;N744W;31-7952246;8.0;8.0;0.0
 4448;10/22/1996;22:41;Manta, Ecuador;Million Air;;Manta - Miami;Boeing B-707-323C;N751MA;19582/639;4.0;4.0;30.0
@@ -4685,7 +4685,7 @@ index;Date;Time;Location;Operator;Flight #;Route;Type;Registration;cn/In;Aboard;
 4683;04/19/2000;;Bukavu, DemocratiRepubliCongo;Kivu Air Services;;;Cessna 208B Caravan I;ZS-ONT;208B-0220;2.0;2.0;0.0
 4684;12/22/1999;18:38;Great Hallingbury, United Kingdom;Korean Air;8509;London, England - Milan, Italy;Boeing 747-2B5F;HL-7451;22480/448;4.0;4.0;0.0
 4685;12/24/1999;;Amritsar, India / Kandahar, Afghanistan;Indian Airlines;814;Kathmandu - New Delhi;Airbus A300B2-101;VT-EDW;36;189.0;1.0;0.0
-4686;12/25/1999;20:15;Bejuma, Venezuela;Cubana de Aviacion;310;Havana - Valencia;Yakovlev YAK-42D;CU-T1285;4,52042E+12;22.0;22.0;0.0
+4686;12/25/1999;20:15;Bejuma, Venezuela;Cubana de Aviacion;310;Havana - Valencia;Yakovlev YAK-42D;CU-T1285;4,52E+12;22.0;22.0;0.0
 4687;12/25/1999;15:02;Near Simara, Nepal;Skyline Airways;;Simara - Kathmandu;de Havilland Canada DHC-6 Twin Otter;9N-AFL;796;10.0;10.0;0.0
 4688;12/29/1999;;Near Zonguldak, Turkey;Ecuato Guineana de Aviacion;;Kiev, Russia - Tehran, Iran;Antonov 28;3C-JJI;;6.0;6.0;0.0
 4689;1/05/2000;;Abuja, Nigeria;Skypower Express Airways;;Lagos - Abuja;Embraer 110P1A Bandeirante;5N-AXL;110-455;16.0;1.0;1.0
