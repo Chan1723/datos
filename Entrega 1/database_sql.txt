@@ -38,3 +38,4 @@ copy operador(operador) from 'C:\Users\ADMIN\Desktop\operador.csv' csv header de
 copy datos_vuelo(route, registration, aboard, type_avion, operador) from 'C:\Users\ADMIN\Desktop\datos_vuelo.csv' csv header delimiter ';';
 copy datos_accidente(date_, time_, location) from 'C:\Users\ADMIN\Desktop\datos_accidente.csv' csv header delimiter ';';
 copy siniestro(index, cn_ln, id_datos_v,fatalities, ground, id_datos_a) from 'C:\Users\ADMIN\Desktop\siniestro.csv' csv header delimiter ';';
+ㅤ⠀ㅤ
